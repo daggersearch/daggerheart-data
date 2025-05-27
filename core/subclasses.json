@@ -351,25 +351,25 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "+4 bonus to your Severe threshold"
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "+1 bonus to a character trait of your choice"
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "+1 bonus to your Proficiency"
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "+2 bonus to your Evasion"
               }
@@ -487,25 +487,25 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Extend the spell or attack's reach by one range"
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Gain a +2 bonus to the action roll's result"
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Double a damage die of your choice"
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Hit an additional target within range"
               }
@@ -867,31 +867,31 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "They owe me a favor, but they'll be hard to find."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "They're going to ask for something in exchange."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "They're always in a great deal of trouble."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "We used to be together. It's a long story."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "We didn't part on great terms."
               }
@@ -914,19 +914,19 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "They provide 1 handful of gold, a unique tool, or a mundane object that the situation requires."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "On your next action roll, their help provides a +3 bonus to the result of your Hope or Fear Die."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "The next time you deal damage, they snipe from the shadows, adding 2d8 to your damage roll."
               }
@@ -949,13 +949,13 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "When you mark 1 or more Hit Points, they can rush out to shield you, reducing the Hit Points marked by 1."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "When you make a Presence Roll in conversation, they back you up. You can roll a d20 as your Hope Die."
               }
@@ -987,19 +987,19 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Relaxing Song: You and all allies within Close range clear a Hit Point."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Epic Song: Make a target within Close range temporarily Vulnerable."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Heartbreaking Song: You and all allies within Close range gain a Hope."
               }
@@ -1223,25 +1223,25 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Fire: When an adversary within Melee range deals damage to you, they take 1d10 magic damage."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Earth: Gain a bonus to your damage thresholds equal to your Proficiency."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Water: When you deal damage to an adversary within Melee range, all other adversaries within Very Close range must mark a Stress."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Air: You can hover, gaining advantage on Agility Rolls."
               }
@@ -1264,25 +1264,25 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Fire: When an adversary marks 1 or more Hit Points, they must also mark a Stress."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Earth: Your allies gain a +1 bonus to Strength."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Water: When an adversary deals damage to you, you can mark a Stress to move them anywhere within Very Close range of where they are."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Air: When you or an ally takes damage from an attack beyond Melee range, reduce the damage by 1d8."
               }
@@ -1305,25 +1305,25 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Fire: You gain a +1 bonus to your Proficiency for attacks and spells that deal damage."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Earth: When you would mark Hit Points, roll a d6 per Hit Point marked. For each result of 6, reduce the number of Hit Points you mark by 1."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Water: When an attack against you succeeds, you can mark a Stress to make the attacker temporarily Vulnerable."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Air: You gain a +1 bonus to your Evasion and can fly."
               }
@@ -1428,13 +1428,13 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Mark a Stress to pick up and carry another willing creature approximately your size or smaller."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Spend a Hope to deal an extra 1d8 damage on a successful attack."
               }
@@ -1543,19 +1543,19 @@
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Allow them to find a mundane object or tool they need."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Help an Ally without spending Hope."
               }
             },
             {
-              "type": "ITEM",
+              "type": "LIST_ITEM",
               "text": {
                 "en-US": "Give them an additional downtime move during their next rest."
               }
