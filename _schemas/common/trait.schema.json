@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/trait.schema.json",
+  "type": "string",
+  "enum": [
+    "AGILITY",
+    "STRENGTH",
+    "FINESSE",
+    "INSTINCT",
+    "PRESENCE",
+    "KNOWLEDGE"
+  ]
+}

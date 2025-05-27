@@ -1,0 +1,668 @@
+[
+  {
+    "id": "clank",
+    "name": {
+      "en-US": "Clank"
+    },
+    "description": {
+      "en-US": "Clanks are sentient mechanical beings built from a variety of materials, including metal, wood, and stone. They can resemble humanoids, animals, or even inanimate objects. Like organic beings, their bodies come in a wide array of sizes. Because of their bespoke construction, many clanks have highly specialized physical configurations. Examples include clawed hands for grasping, wheels for movement, or built-in weaponry. Many clanks embrace body modifications for style as well as function, and members of other ancestries often turn to clank artisans to construct customized mobility aids and physical adornments. Other ancestries can create clanks, even using their own physical characteristics as inspiration, but it's also common for clanks to build one another. A clank's lifespan extends as long as they're able to acquire or craft new parts, making their physical form effectively immortal. That said, their minds are subject to the effects of time, and deteriorate as the magic that powers them loses potency."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Purposeful Design"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Decide who made you and for what purpose. At character creation, choose one of your Experiences that best aligns with this purpose and gain a permanent +1 bonus to it."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Efficient"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you take a short rest, you can choose a long rest move instead of a short rest move."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "drakona",
+    "name": {
+      "en-US": "Drakona"
+    },
+    "description": {
+      "en-US": "Drakona resemble wingless dragons in humanoid form and possess a powerful elemental breath. All drakona have thick scales that provide excellent natural armor against both attacks and the forces of nature. They are large in size, ranging from 6 feet to 7 feet on average, with long sharp teeth. New teeth grow throughout a Drakona's approximately 600-year lifespan, so they are never in danger of permanently losing an incisor. Unlike their dragon ancestors, drakona don't have wings and can't fly without magical aid. Members of this ancestry pass down the element of their breath through generations, though in rare cases, a drakona's elemental power will differ from the rest of their family's."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Scales"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Your scales act as natural protection. When you would take Severe damage, you can mark a Stress to mark 1 fewer Hit Points."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Elemental Breath"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Choose an element for your breath (such as electricity, fire, or ice). You can use this breath against a target or group of targets within Very Close range, treating it as an Instinct weapon that deals d8 magic damage using your Proficiency."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dwarf",
+    "name": {
+      "en-US": "Dwarf"
+    },
+    "description": {
+      "en-US": "Dwarves are short, broad, and powerfully built, with dense musculature and thick hair. Their large hands and feet, prominent noses, and heavy brows are distinctive. Dwarves are renowned for their craftsmanship, resilience, and strong familial ties. They often dwell in mountainous regions or below ground, building elaborate halls and fortresses. Their culture emphasizes tradition and honor, and their communities are close-knit, often ruled by councils of elders. Dwarves can live for centuries, and their long lives are reflected in the depth of their knowledge and the durability of their creations."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Thick Skin"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you take Minor damage, you can mark 2 Stress instead of marking a Hit Point."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Increased Fortitude"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Spend 3 Hope to halve incoming physical damage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elf",
+    "name": {
+      "en-US": "Elf"
+    },
+    "description": {
+      "en-US": "Elves are tall, slender humanoids with pointed ears and keen senses. Their features are angular and graceful, and they move with a natural elegance. Elves are deeply attuned to the natural and magical worlds, often living in harmony with forests, rivers, and other wild places. Their lifespans are exceptionally long, sometimes spanning many centuries, and their memories are equally enduring. Elven society values art, magic, and learning, and their homes are often works of beauty seamlessly integrated into the landscape."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Quick Reactions"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Mark a Stress to gain advantage on a reaction roll."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Celestial Trance"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "During a rest, you can drop into a trance to choose an additional downtime move."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "faerie",
+    "name": {
+      "en-US": "Faerie"
+    },
+    "description": {
+      "en-US": "Faeries are diminutive, winged humanoids with delicate, insect-like features. Their translucent wings and vibrant coloration make them stand out in any environment. Faeries are closely tied to the forces of magic and fate, often acting as intermediaries between the spirit world and mortals. Their personalities are mercurial, ranging from mischievous to benevolent, and they delight in both tricks and acts of kindness. Faeries are curious and adventurous, and their presence is often accompanied by strange omens or bursts of wild magic."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Luckbender"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Once per session, after you or a willing ally within Close range makes an action roll, you can spend 3 Hope to reroll the Duality Dice."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Wings"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can fly. While flying, you can mark a Stress after an adversary makes an attack against you to gain a +2 bonus to your Evasion against that attack."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "faun",
+    "name": {
+      "en-US": "Faun"
+    },
+    "description": {
+      "en-US": "Fauns are humanoids with the lower bodies of goats, including cloven hooves and shaggy legs, and the upper bodies of humans. They are easily recognized by their curling horns, square pupils, and expressive ears. Fauns are known for their exuberance, musical talent, and love of revelry. Their communities are often found in woodlands and meadows, where they live in harmony with nature and celebrate the cycles of the seasons. Fauns value freedom, creativity, and the pursuit of pleasure, and their laughter is said to be contagious."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Caprine Leap"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can leap anywhere within Close range as though you were using normal movement, allowing you to vault obstacles, jump across gaps, or scale barriers with ease."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Kick"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you succeed on an attack against a target within Melee range, you can mark a Stress to kick yourself off them, dealing an extra 2d6 damage and knocking back either yourself or the target to Very Close range."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "firbolg",
+    "name": {
+      "en-US": "Firbolg"
+    },
+    "description": {
+      "en-US": "Firbolgs are large, gentle humanoids with bovine features, such as broad noses, long, drooping ears, and sometimes small horns. They are deeply connected to the natural world and often serve as guardians of ancient forests and sacred places. Firbolgs value peace, balance, and the quiet strength that comes from living in harmony with their surroundings. Their magic is subtle but powerful, allowing them to blend into their environment or communicate with animals and plants. Firbolgs are slow to anger but formidable when roused."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Charge"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you succeed on an Agility Roll to move from Far or Very Far range into Melee range with one or more targets, you can mark a Stress to deal 1d12 physical damage to all targets within Melee range."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Unshakable"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you would mark a Stress, roll a d6. On a result of 6, don't mark it."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fungril",
+    "name": {
+      "en-US": "Fungril"
+    },
+    "description": {
+      "en-US": "Fungril are humanoid fungi, with bodies formed from mycelium and caps of various shapes and colors. Their skin is often spongy or rubbery, and their features can be quite alien to other ancestries. Fungril thrive in damp, dark environments, and their communities are interconnected by vast underground networks. They communicate through spores and subtle chemical signals, sharing thoughts and memories across great distances. Fungril are patient, contemplative, and possess a unique perspective on life and death, viewing both as parts of a natural cycle."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Fungril Network"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Make an Instinct Roll (12) to use your mycelial array to speak with others of your ancestry. On a success, you can communicate across any distance."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Death Connection"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "While touching a corpse that died recently, you can mark a Stress to extract one memory from the corpse related to a specific emotion or sensation of your choice."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galapa",
+    "name": {
+      "en-US": "Galapa"
+    },
+    "description": {
+      "en-US": "Galapa are turtle-like humanoids with large, domed shells that provide natural protection. Their leathery skin, sturdy limbs, and slow, deliberate movements are hallmarks of their ancestry. Galapa are known for their wisdom, patience, and long lifespans, often living for centuries. Their societies are structured around tradition and communal responsibility, with elders holding positions of great respect. Galapa value stability and foresight, and their advice is sought by those facing difficult decisions."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Shell"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Gain a bonus to your damage thresholds equal to your Proficiency."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Retract"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Mark a Stress to retract into your shell. While in your shell, you have resistance to physical damage, you have disadvantage on action rolls, and you can't move."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "giant",
+    "name": {
+      "en-US": "Giant"
+    },
+    "description": {
+      "en-US": "Giants are enormous humanoids, often towering over other ancestries. They possess broad shoulders, long limbs, and may have one, two, or three eyes. Giants are renowned for their strength, endurance, and resilience. Their societies are often organized around clans or extended families, with a strong emphasis on honor and personal achievement. Giants are capable builders and storytellers, and their oral traditions preserve the history of their people across generations. Despite their size, many giants are gentle and protective of those they consider kin."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Endurance"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Gain an additional Hit Point slot at character creation."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Reach"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Treat any weapon, ability, spell, or other feature that has a Melee range as though it has a Very Close range instead."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goblin",
+    "name": {
+      "en-US": "Goblin"
+    },
+    "description": {
+      "en-US": "Goblins are small, wiry humanoids with oversized eyes and large, membranous ears. Their quick reflexes and sharp senses make them adept at navigating dark or cramped spaces. Goblins are resourceful and inventive, often repurposing discarded items into useful tools or weapons. Their communities are tight-knit and fiercely loyal, but goblins are also known for their cunning and willingness to bend rules to achieve their goals. They thrive in environments where adaptability and cleverness are prized."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Surefooted"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You ignore disadvantage on Agility Rolls."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Danger Sense"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Once per rest, mark a Stress to force an adversary to reroll an attack against you or an ally within Very Close range."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "halfling",
+    "name": {
+      "en-US": "Halfling"
+    },
+    "description": {
+      "en-US": "Halflings are small, cheerful humanoids with round faces, large hairy feet, and prominent ears. They are known for their hospitality, optimism, and strong sense of community. Halflings often dwell in rural areas, living in cozy homes built into hillsides or among fields and gardens. Their societies place a high value on tradition, family, and the enjoyment of simple pleasures. Halflings are remarkably resilient, able to find hope and humor even in the direst of circumstances."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Luckbringer"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "At the start of each session, everyone in your party gains a Hope."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Internal Compass"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you roll a 1 on your Hope Die, you can reroll it."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "human",
+    "name": {
+      "en-US": "Human"
+    },
+    "description": {
+      "en-US": "Humans are adaptable, inventive, and resilient, with a remarkable capacity for change. They are distinguished by their dexterous hands, rounded ears, and diverse appearances. Human societies are varied, ranging from nomadic tribes to sprawling cities, and their cultures are shaped by ambition, curiosity, and a drive to explore. Humans form deep bonds with other ancestries and are known for their capacity to learn new skills quickly. Their relatively short lifespans fuel a sense of urgency and determination."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "High Stamina"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Gain an additional Stress slot at character creation."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Adaptability"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you fail a roll that utilized one of your Experiences, you can mark a Stress to reroll."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infernis",
+    "name": {
+      "en-US": "Infernis"
+    },
+    "description": {
+      "en-US": "Infernis are humanoids marked by sharp canine teeth, pointed ears, and horns of various shapes and sizes. Their ancestry traces back to the infernal realms, and they often possess an innate resistance to heat or fire. Infernis are passionate and ambitious, with a reputation for boldness and determination. Their societies are structured around personal achievement and strength of will, and many infernis seek to prove themselves through feats of courage or cunning. Despite their origins, infernis are not inherently evil and often strive to define their own destinies."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Fearless"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you roll with Fear, you can mark 2 Stress to change it into a roll with Hope instead."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Dread Visage"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You have advantage on rolls to intimidate hostile creatures."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "katari",
+    "name": {
+      "en-US": "Katari"
+    },
+    "description": {
+      "en-US": "Katari are feline humanoids with sleek fur, retractable claws, and vertically slit pupils. Their high, triangular ears and agile bodies give them a distinctly catlike appearance. Katari are curious, independent, and quick-witted, often preferring to rely on their own skills and instincts. Their societies value personal freedom and adaptability, and katari are known for their ability to thrive in both wilderness and urban environments. Their senses are exceptionally keen, making them excellent hunters and scouts."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Feline Instincts"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you make an Agility Roll, you can spend 2 Hope to reroll your Hope Die."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Retracting Claws"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Make an Agility Roll to scratch a target within Melee range. On a success, they become temporarily Vulnerable."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "orc",
+    "name": {
+      "en-US": "Orc"
+    },
+    "description": {
+      "en-US": "Orcs are powerful humanoids with broad, square features and prominent tusks that jut from their lower jaws. Their skin tones range from deep green to gray, and their physiques are built for endurance and strength. Orc societies are organized around clans and emphasize honor, loyalty, and physical prowess. They are formidable warriors, but also skilled craftsmen and hunters. Orcs value bravery and directness, and their traditions are passed down through songs, stories, and rituals."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Sturdy"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you have 1 Hit Point remaining, attacks against you have disadvantage."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Tusks"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you succeed on an attack against a target within Melee range, you can spend a Hope to gore the target with your tusks, dealing an extra 1d6 damage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ribbet",
+    "name": {
+      "en-US": "Ribbet"
+    },
+    "description": {
+      "en-US": "Ribbets are frog-like humanoids with smooth, moist skin, protruding eyes, and webbed hands and feet. Their legs are strong and flexible, allowing them to leap great distances or swim with ease. Ribbets are at home in wetlands, rivers, and lakes, where their keen senses and adaptability serve them well. Their societies are communal and cooperative, often organized around extended families or villages. Ribbets are cheerful and resourceful, known for their quick thinking and ability to escape danger."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Amphibious"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can breathe and move naturally underwater."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Long Tongue"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can use your long tongue to grab onto things within Close range. Mark a Stress to use your tongue as a Finesse Close weapon that deals d12 physical damage using your Proficiency."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "simiah",
+    "name": {
+      "en-US": "Simiah"
+    },
+    "description": {
+      "en-US": "Simiah are monkey- and ape-like humanoids with long limbs, prehensile feet, and expressive faces. Their bodies are covered in soft fur, and their hands and feet are equally dexterous. Simiah are agile climbers and acrobats, able to navigate trees and urban environments with ease. Their societies are lively and social, with strong bonds formed through play, storytelling, and mutual support. Simiah value curiosity, creativity, and a sense of humor, and are quick to make friends with those who share their zest for life."
+    },
+    "features": [
+      {
+        "name": {
+          "en-US": "Natural Climber"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You have advantage on Agility Rolls that involve balancing and climbing."
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "en-US": "Nimble"
+        },
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Gain a permanent +1 bonus to your Evasion at character creation."
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

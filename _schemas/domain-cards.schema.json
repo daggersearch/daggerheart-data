@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/domain-cards.schema.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "$ref": "./id.schema.json"
+      },
+      "name": {
+        "$ref": "./localized-string.schema.json"
+      },
+      "domain": {
+        "$ref": "./domain.schema.json"
+      },
+      "type": {
+        "type": "string",
+        "enum": ["ABILITY", "SPELL", "GRIMOIRE"]
+      },
+      "level": {
+        "type": "integer",
+        "minimum": 1,
+        "maximum": 10
+      },
+      "recallCost": {
+        "type": "integer",
+        "minimum": 0
+      },
+      "features": {
+        "type": "array",
+        "items": {
+          "$ref": "./feature.schema.json"
+        }
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "domain",
+      "type",
+      "level",
+      "recallCost",
+      "features"
+    ],
+    "additionalProperties": false
+  }
+}

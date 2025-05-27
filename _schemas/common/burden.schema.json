@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/burden.schema.json",
+  "type": "string",
+  "enum": ["ONE_HANDED", "TWO_HANDED"]
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/ancestries.schema.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "$ref": "./id.schema.json"
+      },
+      "name": {
+        "$ref": "./localized-string.schema.json"
+      },
+      "description": {
+        "$ref": "./localized-string.schema.json"
+      },
+      "features": {
+        "type": "array",
+        "items": {
+          "$ref": "./feature.schema.json"
+        }
+      }
+    },
+    "required": ["id", "name", "description", "features"],
+    "additionalProperties": false
+  }
+}

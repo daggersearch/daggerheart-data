@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/feature.schema.json",
+  "type": "object",
+  "properties": {
+    "name": {
+      "$ref": "./localized-string.schema.json"
+    },
+    "description": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["PARAGRAPH", "ITEM"]
+          },
+          "text": {
+            "$ref": "./localized-string.schema.json"
+          }
+        },
+        "required": ["type", "text"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["description"],
+  "additionalProperties": false
+}

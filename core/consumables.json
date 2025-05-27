@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "stride_potion",
+    "name": {
+      "en-US": "Stride Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your next Agility Roll."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bolster_potion",
+    "name": {
+      "en-US": "Bolster Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your next Strength Roll."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "control_potion",
+    "name": {
+      "en-US": "Control Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your next Finesse Roll."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "attune_potion",
+    "name": {
+      "en-US": "Attune Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your next Instinct Roll."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "charm_potion",
+    "name": {
+      "en-US": "Charm Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your next Presence Roll."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enlighten_potion",
+    "name": {
+      "en-US": "Enlighten Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your next Knowledge Roll."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minor_health_potion",
+    "name": {
+      "en-US": "Minor Health Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Clear 1d4 HP."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minor_stamina_potion",
+    "name": {
+      "en-US": "Minor Stamina Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Clear 1d4 Stress."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grindletooth_venom",
+    "name": {
+      "en-US": "Grindletooth Venom"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can apply this venom to a weapon that deals physical damage to add a d6 to your next damage roll with that weapon."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "varik_leaves",
+    "name": {
+      "en-US": "Varik Leaves"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can eat these paired leaves to immediately gain 2 Hope."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vial_of_moondrip",
+    "name": {
+      "en-US": "Vial of Moondrip"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you drink the contents of this vial, you can see in total darkness until your next rest."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unstable_arcane_shard",
+    "name": {
+      "en-US": "Unstable Arcane Shard"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 1d20 magic damage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "potion_of_stability",
+    "name": {
+      "en-US": "Potion of Stability"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can drink this potion to choose one additional downtime move."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "improved_grindletooth_venom",
+    "name": {
+      "en-US": "Improved Grindletooth Venom"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can apply this venom to a weapon that deals physical damage to add a d8 to your next damage roll with that weapon."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "morphing_clay",
+    "name": {
+      "en-US": "Morphing Clay"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can spend a Hope to use this clay, altering your face enough to make you unrecognizable until your next rest."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vial_of_darksmoke",
+    "name": {
+      "en-US": "Vial of Darksmoke"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When an adversary attacks you, use this vial and roll a number of d6s equal to your Agility. Add the highest result to your Evasion against the attack."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jumping_root",
+    "name": {
+      "en-US": "Jumping Root"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Eat this root to leap up to Far range once without needing to roll."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "snap_powder",
+    "name": {
+      "en-US": "Snap Powder"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Mark a Stress and clear a HP."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "health_potion",
+    "name": {
+      "en-US": "Health Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Clear 1d4+1 HP."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stamina_potion",
+    "name": {
+      "en-US": "Stamina Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Clear 1d4+1 Stress."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "armor_stitcher",
+    "name": {
+      "en-US": "Armor Stitcher"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can use this stitcher to spend any number of Hope and clear that many Armor Slots."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gill_salve",
+    "name": {
+      "en-US": "Gill Salve"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can apply this salve to your neck to breathe underwater for a number of minutes equal to your level."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "replication_parchment",
+    "name": {
+      "en-US": "Replication Parchment"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "By touching this piece of parchment to another, you can perfectly copy the second parchment's contents. Once used, this parchment becomes mundane paper."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "improved_arcane_shard",
+    "name": {
+      "en-US": "Improved Arcane Shard"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 2d20 magic damage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "major_stride_potion",
+    "name": {
+      "en-US": "Major Stride Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your Agility until your next rest."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "major_bolster_potion",
+    "name": {
+      "en-US": "Major Bolster Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your Strength until your next rest."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "major_control_potion",
+    "name": {
+      "en-US": "Major Control Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your Finesse until your next rest."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "major_attune_potion",
+    "name": {
+      "en-US": "Major Attune Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your Instinct until your next rest."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "major_charm_potion",
+    "name": {
+      "en-US": "Major Charm Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your Presence until your next rest."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "major_enlighten_potion",
+    "name": {
+      "en-US": "Major Enlighten Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain a +1 bonus to your Knowledge until your next rest."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blood_of_the_yorgi",
+    "name": {
+      "en-US": "Blood of the Yorgi"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can drink this blood to disappear from where you are and immediately reappear at a point you can see within Very Far range."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "homet_s_secret_potion",
+    "name": {
+      "en-US": "Homet's Secret Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "After drinking this potion, the next successful attack you make critically succeeds."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "redthorn_saliva",
+    "name": {
+      "en-US": "Redthorn Saliva"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can apply this saliva to a weapon that deals physical damage to add a d12 to your next damage roll with that weapon."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "channelstone",
+    "name": {
+      "en-US": "Channelstone"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can use this stone to take a spell or grimoire from your vault, use it once, and return it to your vault."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mythic_dust",
+    "name": {
+      "en-US": "Mythic Dust"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can apply this dust to a weapon that deals magic damage to add a d12 to your next damage roll with that weapon."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "acidpaste",
+    "name": {
+      "en-US": "Acidpaste"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "This paste eats away walls and other surfaces in bright flashes."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hopehold_flare",
+    "name": {
+      "en-US": "Hopehold Flare"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you use this flare, allies within Close range roll a d6 when they spend a Hope. On a result of 6, they gain the effect of that Hope without spending it. The flare lasts until the end of the scene."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "major_arcane_shard",
+    "name": {
+      "en-US": "Major Arcane Shard"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take (d20 magic damage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "featherbone",
+    "name": {
+      "en-US": "Featherbone"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can use this bone to control your falling speed for a number of minutes equal to your level."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "circle_of_the_void",
+    "name": {
+      "en-US": "Circle of the Void"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Mark a Stress to create a void that extends up to Far range. No magic can be cast inside the void, and creatures within the void are immune to magic damage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sun_tree_sap",
+    "name": {
+      "en-US": "Sun Tree Sap"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Consume this sap to roll a d6. On a result of )–6, clear 2 HP. On a result of 2–(, clear ' Stress. On a result of/1, see through the veil of death and return changed, gaining one scar."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dripfang_poison",
+    "name": {
+      "en-US": "Dripfang Poison"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "A creature who consumes this poison takes 8d10 direct magic damage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "major_health_potion",
+    "name": {
+      "en-US": "Major Health Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Clear 1d4+2 HP."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "major_stamina_potion",
+    "name": {
+      "en-US": "Major Stamina Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Clear 1d4+2 Stress."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ogre_musk",
+    "name": {
+      "en-US": "Ogre Musk"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can use this musk to prevent anyone from tracking you by mundane or magical means until your next rest."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wingsprout",
+    "name": {
+      "en-US": "Wingsprout"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You gain magic wings that allow you to fly for a number of minutes equal to your level."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jar_of_lost_voices",
+    "name": {
+      "en-US": "Jar of Lost Voices"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can open this jar to release a deafening echo of voices for a number of minutes equal to your Instinct. Creatures within Far range unprepared for the sound take 6d8 magic damage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dragonbloom_tea",
+    "name": {
+      "en-US": "Dragonbloom Tea"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can drink this tea to unleash a fiery breath attack. Make an Instinct Roll against all adversaries in front of you within Close range. Targets you succeed against take d20 physical damage using your Proficiency."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bridge_seed",
+    "name": {
+      "en-US": "Bridge Seed"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "Thick vines grow from your location to a point of your choice within Far range, allowing you to climb up or across them. The vines dissipate on your next short rest."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sleeping_sap",
+    "name": {
+      "en-US": "Sleeping Sap"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can drink this potion to fall asleep for a full night's rest. You clear all Stress upon waking."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "feast_of_xuria",
+    "name": {
+      "en-US": "Feast of Xuria"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can eat this meal to clear all HP and Stress and gain 1d4 Hope."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bonding_honey",
+    "name": {
+      "en-US": "Bonding Honey"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "This honey can be used to glue two objects together permanently."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shrinking_potion",
+    "name": {
+      "en-US": "Shrinking Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can drink this potion to halve your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Agility and a -1 penalty to your Proficiency."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "growing_potion",
+    "name": {
+      "en-US": "Growing Potion"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can drink this potion to double your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Strength and a +1 bonus to your Proficiency."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "knowledge_stone",
+    "name": {
+      "en-US": "Knowledge Stone"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "If you die while holding this stone, an ally can take a card from your loadout to place in their loadout or vault. After they take this knowledge, the stone crumbles."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sweet_moss",
+    "name": {
+      "en-US": "Sweet Moss"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can consume this moss during a rest to clear 1d4 HP or 1d4 Stress."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blinding_orb",
+    "name": {
+      "en-US": "Blinding Orb"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can activate this orb to create a flash of bright light. All targets within Close range become Vulnerable until they mark HP."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "death_tea",
+    "name": {
+      "en-US": "Death Tea"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don't critically succeed on an attack before your next long rest, you die."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mirror_of_marigold",
+    "name": {
+      "en-US": "Mirror of Marigold"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stardrop",
+    "name": {
+      "en-US": "Stardrop"
+    },
+    "features": [
+      {
+        "description": [
+          {
+            "type": "PARAGRAPH",
+            "text": {
+              "en-US": "You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range."
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

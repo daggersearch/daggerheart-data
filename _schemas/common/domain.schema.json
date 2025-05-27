@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/domain.schema.json",
+  "type": "string",
+  "enum": [
+    "ARCANA",
+    "BLADE",
+    "BONE",
+    "CODEX",
+    "GRACE",
+    "MIDNIGHT",
+    "SAGE",
+    "SPLENDOR",
+    "VALOR"
+  ]
+}
