@@ -13,7 +13,7 @@
         "properties": {
           "type": {
             "type": "string",
-            "enum": ["PARAGRAPH", "ITEM"]
+            "enum": ["PARAGRAPH", "LIST_ITEM"]
           },
           "text": {
             "$ref": "./localized-string.schema.json"
