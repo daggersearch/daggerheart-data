@@ -1,0 +1,12 @@
+{
+  "name": "daggersearch-data",
+  "version": "1.0.0",
+  "scripts": {
+    "format": "prettier --write .",
+    "validate": "prettier --check . && _scripts/validate.sh"
+  },
+  "devDependencies": {
+    "ajv-cli": "^5.0.0",
+    "prettier": "^3.5.3"
+  }
+}
