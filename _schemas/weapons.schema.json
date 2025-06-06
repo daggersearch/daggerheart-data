@@ -6,34 +6,34 @@
     "type": "object",
     "properties": {
       "id": {
-        "$ref": "./id.schema.json"
+        "$ref": "./common/id.schema.json"
       },
       "name": {
-        "$ref": "./localized-string.schema.json"
+        "$ref": "./common/localized-string.schema.json"
       },
       "type": {
         "type": "string",
         "enum": ["PRIMARY_PHYSICAL", "PRIMARY_MAGIC", "SECONDARY"]
       },
       "tier": {
-        "$ref": "./tier.schema.json"
+        "$ref": "./common/tier.schema.json"
       },
       "trait": {
-        "$ref": "./trait.schema.json"
+        "$ref": "./common/trait.schema.json"
       },
       "range": {
-        "$ref": "./range.schema.json"
+        "$ref": "./common/range.schema.json"
       },
       "damage": {
-        "$ref": "./damage.schema.json"
+        "$ref": "./common/damage.schema.json"
       },
       "burden": {
-        "$ref": "./burden.schema.json"
+        "$ref": "./common/burden.schema.json"
       },
       "features": {
         "type": "array",
         "items": {
-          "$ref": "./feature.schema.json"
+          "$ref": "./common/feature.schema.json"
         }
       }
     },

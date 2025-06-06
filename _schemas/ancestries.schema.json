@@ -6,18 +6,18 @@
     "type": "object",
     "properties": {
       "id": {
-        "$ref": "./id.schema.json"
+        "$ref": "./common/id.schema.json"
       },
       "name": {
-        "$ref": "./localized-string.schema.json"
+        "$ref": "./common/localized-string.schema.json"
       },
       "description": {
-        "$ref": "./localized-string.schema.json"
+        "$ref": "./common/localized-string.schema.json"
       },
       "features": {
         "type": "array",
         "items": {
-          "$ref": "./feature.schema.json"
+          "$ref": "./common/feature.schema.json"
         }
       }
     },

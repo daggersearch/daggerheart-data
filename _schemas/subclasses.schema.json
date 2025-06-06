@@ -6,22 +6,22 @@
     "type": "object",
     "properties": {
       "id": {
-        "$ref": "./id.schema.json"
+        "$ref": "./common/id.schema.json"
       },
       "name": {
-        "$ref": "./localized-string.schema.json"
+        "$ref": "./common/localized-string.schema.json"
       },
       "class": {
-        "$ref": "./class.schema.json"
+        "$ref": "./common/class.schema.json"
       },
       "domains": {
         "type": "array",
         "items": {
-          "$ref": "./domain.schema.json"
+          "$ref": "./common/domain.schema.json"
         }
       },
       "spellcastTrait": {
-        "$ref": "./trait.schema.json"
+        "$ref": "./common/trait.schema.json"
       },
       "foundation": {
         "type": "object",
@@ -29,7 +29,7 @@
           "features": {
             "type": "array",
             "items": {
-              "$ref": "./feature.schema.json"
+              "$ref": "./common/feature.schema.json"
             }
           }
         },
@@ -42,7 +42,7 @@
           "features": {
             "type": "array",
             "items": {
-              "$ref": "./feature.schema.json"
+              "$ref": "./common/feature.schema.json"
             }
           }
         },
@@ -55,7 +55,7 @@
           "features": {
             "type": "array",
             "items": {
-              "$ref": "./feature.schema.json"
+              "$ref": "./common/feature.schema.json"
             }
           }
         },

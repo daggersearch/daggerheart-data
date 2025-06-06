@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://daggersearch.com/schemas/id.schema.json",
+  "$id": "https://daggersearch.com/schemas/common/id.schema.json",
   "type": "string",
   "pattern": "^[a-z0-9_]+$"
 }

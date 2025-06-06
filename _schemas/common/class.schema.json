@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://daggersearch.com/schemas/class.schema.json",
+  "$id": "https://daggersearch.com/schemas/common/class.schema.json",
   "type": "string",
   "enum": [
     "BARD",
