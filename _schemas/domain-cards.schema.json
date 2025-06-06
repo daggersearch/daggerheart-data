@@ -6,13 +6,13 @@
     "type": "object",
     "properties": {
       "id": {
-        "$ref": "./id.schema.json"
+        "$ref": "./common/id.schema.json"
       },
       "name": {
-        "$ref": "./localized-string.schema.json"
+        "$ref": "./common/localized-string.schema.json"
       },
       "domain": {
-        "$ref": "./domain.schema.json"
+        "$ref": "./common/domain.schema.json"
       },
       "type": {
         "type": "string",
@@ -30,7 +30,7 @@
       "features": {
         "type": "array",
         "items": {
-          "$ref": "./feature.schema.json"
+          "$ref": "./common/feature.schema.json"
         }
       }
     },

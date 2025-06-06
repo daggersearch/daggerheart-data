@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://daggersearch.com/schemas/feature.schema.json",
+  "$id": "https://daggersearch.com/schemas/common/feature.schema.json",
   "type": "object",
   "properties": {
     "name": {

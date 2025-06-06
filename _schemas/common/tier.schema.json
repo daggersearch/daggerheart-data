@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://daggersearch.com/schemas/tier.schema.json",
+  "$id": "https://daggersearch.com/schemas/common/tier.schema.json",
   "type": "integer",
   "minimum": 1,
   "maximum": 4
