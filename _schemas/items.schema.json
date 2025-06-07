@@ -3,22 +3,6 @@
   "$id": "https://daggersearch.com/schemas/items.schema.json",
   "type": "array",
   "items": {
-    "type": "object",
-    "properties": {
-      "id": {
-        "$ref": "./common/id.schema.json"
-      },
-      "name": {
-        "$ref": "./common/localized-string.schema.json"
-      },
-      "features": {
-        "type": "array",
-        "items": {
-          "$ref": "./common/feature.schema.json"
-        }
-      }
-    },
-    "required": ["id", "name", "features"],
-    "additionalProperties": false
+    "$ref": "./common/item.schema.json"
   }
 }

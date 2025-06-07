@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/common/subclass.schema.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "./id.schema.json"
+    },
+    "name": {
+      "$ref": "./localized-string.schema.json"
+    },
+    "class": {
+      "$ref": "./class.schema.json"
+    },
+    "domains": {
+      "type": "array",
+      "items": {
+        "$ref": "./domain.schema.json"
+      }
+    },
+    "spellcastTrait": {
+      "$ref": "./trait.schema.json"
+    },
+    "foundation": {
+      "type": "object",
+      "properties": {
+        "features": {
+          "type": "array",
+          "items": {
+            "$ref": "./feature.schema.json"
+          }
+        }
+      },
+      "required": ["features"],
+      "additionalProperties": false
+    },
+    "specialization": {
+      "type": "object",
+      "properties": {
+        "features": {
+          "type": "array",
+          "items": {
+            "$ref": "./feature.schema.json"
+          }
+        }
+      },
+      "required": ["features"],
+      "additionalProperties": false
+    },
+    "mastery": {
+      "type": "object",
+      "properties": {
+        "features": {
+          "type": "array",
+          "items": {
+            "$ref": "./feature.schema.json"
+          }
+        }
+      },
+      "required": ["features"],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "class",
+    "domains",
+    "foundation",
+    "specialization",
+    "mastery"
+  ],
+  "additionalProperties": false
+}
