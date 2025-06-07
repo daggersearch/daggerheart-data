@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/common/weapon.schema.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "./id.schema.json"
+    },
+    "name": {
+      "$ref": "./localized-string.schema.json"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["PRIMARY_PHYSICAL", "PRIMARY_MAGIC", "SECONDARY"]
+    },
+    "tier": {
+      "$ref": "./tier.schema.json"
+    },
+    "trait": {
+      "$ref": "./trait.schema.json"
+    },
+    "range": {
+      "$ref": "./range.schema.json"
+    },
+    "damage": {
+      "$ref": "./damage.schema.json"
+    },
+    "burden": {
+      "$ref": "./burden.schema.json"
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "$ref": "./feature.schema.json"
+      }
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "type",
+    "tier",
+    "trait",
+    "range",
+    "damage",
+    "burden"
+  ],
+  "additionalProperties": false
+}

@@ -3,31 +3,6 @@
   "$id": "https://daggersearch.com/schemas/communities.schema.json",
   "type": "array",
   "items": {
-    "type": "object",
-    "properties": {
-      "id": {
-        "$ref": "./common/id.schema.json"
-      },
-      "name": {
-        "$ref": "./common/localized-string.schema.json"
-      },
-      "description": {
-        "$ref": "./common/localized-string.schema.json"
-      },
-      "personalities": {
-        "type": "array",
-        "items": {
-          "$ref": "./common/localized-string.schema.json"
-        }
-      },
-      "features": {
-        "type": "array",
-        "items": {
-          "$ref": "./common/feature.schema.json"
-        }
-      }
-    },
-    "required": ["id", "name", "description", "personalities", "features"],
-    "additionalProperties": false
+    "$ref": "./common/community.schema.json"
   }
 }
