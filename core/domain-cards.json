@@ -1,6 +1,6 @@
 [
   {
-    "id": "a_soldiers_bond",
+    "id": "core_domain_card_a_soldiers_bond",
     "name": {
       "en-US": "A Soldier's Bond"
     },
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "id": "adjust_reality",
+    "id": "core_domain_card_adjust_reality",
     "name": {
       "en-US": "Adjust Reality"
     },
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "id": "arcana_touched",
+    "id": "core_domain_card_arcana_touched",
     "name": {
       "en-US": "Arcana-Touched"
     },
@@ -86,7 +86,7 @@
     ]
   },
   {
-    "id": "arcane_reflection",
+    "id": "core_domain_card_arcane_reflection",
     "name": {
       "en-US": "Arcane Reflection"
     },
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "id": "armorer",
+    "id": "core_domain_card_armorer",
     "name": {
       "en-US": "Armorer"
     },
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "id": "astral_projection",
+    "id": "core_domain_card_astral_projection",
     "name": {
       "en-US": "Astral Projection"
     },
@@ -172,7 +172,7 @@
     ]
   },
   {
-    "id": "banish",
+    "id": "core_domain_card_banish",
     "name": {
       "en-US": "Banish"
     },
@@ -204,7 +204,7 @@
     ]
   },
   {
-    "id": "bare_bones",
+    "id": "core_domain_card_bare_bones",
     "name": {
       "en-US": "Bare Bones"
     },
@@ -266,7 +266,7 @@
     ]
   },
   {
-    "id": "battle_cry",
+    "id": "core_domain_card_battle_cry",
     "name": {
       "en-US": "Battle Cry"
     },
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "id": "battle_monster",
+    "id": "core_domain_card_battle_monster",
     "name": {
       "en-US": "Battle Monster"
     },
@@ -310,7 +310,7 @@
     ]
   },
   {
-    "id": "battle_hardened",
+    "id": "core_domain_card_battle_hardened",
     "name": {
       "en-US": "Battle-Hardened"
     },
@@ -332,7 +332,7 @@
     ]
   },
   {
-    "id": "blade_touched",
+    "id": "core_domain_card_blade_touched",
     "name": {
       "en-US": "Blade-Touched"
     },
@@ -374,7 +374,7 @@
     ]
   },
   {
-    "id": "blink_out",
+    "id": "core_domain_card_blink_out",
     "name": {
       "en-US": "Blink Out"
     },
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "id": "body_basher",
+    "id": "core_domain_card_body_basher",
     "name": {
       "en-US": "Body Basher"
     },
@@ -418,7 +418,7 @@
     ]
   },
   {
-    "id": "bold_presence",
+    "id": "core_domain_card_bold_presence",
     "name": {
       "en-US": "Bold Presence"
     },
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "id": "bolt_beacon",
+    "id": "core_domain_card_bolt_beacon",
     "name": {
       "en-US": "Bolt Beacon"
     },
@@ -472,7 +472,7 @@
     ]
   },
   {
-    "id": "bone_touched",
+    "id": "core_domain_card_bone_touched",
     "name": {
       "en-US": "Bone-Touched"
     },
@@ -514,7 +514,7 @@
     ]
   },
   {
-    "id": "book_of_ava",
+    "id": "core_domain_card_book_of_ava",
     "name": {
       "en-US": "Book of Ava"
     },
@@ -565,7 +565,7 @@
     ]
   },
   {
-    "id": "book_of_exota",
+    "id": "core_domain_card_book_of_exota",
     "name": {
       "en-US": "Book of Exota"
     },
@@ -603,7 +603,7 @@
     ]
   },
   {
-    "id": "book_of_grynn",
+    "id": "core_domain_card_book_of_grynn",
     "name": {
       "en-US": "Book of Grynn"
     },
@@ -654,7 +654,7 @@
     ]
   },
   {
-    "id": "book_of_homet",
+    "id": "core_domain_card_book_of_homet",
     "name": {
       "en-US": "Book of Homet"
     },
@@ -692,7 +692,7 @@
     ]
   },
   {
-    "id": "book_of_illiat",
+    "id": "core_domain_card_book_of_illiat",
     "name": {
       "en-US": "Book of Illiat"
     },
@@ -743,7 +743,7 @@
     ]
   },
   {
-    "id": "book_of_korvax",
+    "id": "core_domain_card_book_of_korvax",
     "name": {
       "en-US": "Book of Korvax"
     },
@@ -794,7 +794,7 @@
     ]
   },
   {
-    "id": "book_of_norai",
+    "id": "core_domain_card_book_of_norai",
     "name": {
       "en-US": "Book of Norai"
     },
@@ -832,7 +832,7 @@
     ]
   },
   {
-    "id": "book_of_ronin",
+    "id": "core_domain_card_book_of_ronin",
     "name": {
       "en-US": "Book of Ronin"
     },
@@ -870,7 +870,7 @@
     ]
   },
   {
-    "id": "book_of_sitil",
+    "id": "core_domain_card_book_of_sitil",
     "name": {
       "en-US": "Book of Sitil"
     },
@@ -921,7 +921,7 @@
     ]
   },
   {
-    "id": "book_of_tyfar",
+    "id": "core_domain_card_book_of_tyfar",
     "name": {
       "en-US": "Book of Tyfar"
     },
@@ -972,7 +972,7 @@
     ]
   },
   {
-    "id": "book_of_vagras",
+    "id": "core_domain_card_book_of_vagras",
     "name": {
       "en-US": "Book of Vagras"
     },
@@ -1023,7 +1023,7 @@
     ]
   },
   {
-    "id": "book_of_vyola",
+    "id": "core_domain_card_book_of_vyola",
     "name": {
       "en-US": "Book of Vyola"
     },
@@ -1061,7 +1061,7 @@
     ]
   },
   {
-    "id": "book_of_yarrow",
+    "id": "core_domain_card_book_of_yarrow",
     "name": {
       "en-US": "Book of Yarrow"
     },
@@ -1099,7 +1099,7 @@
     ]
   },
   {
-    "id": "boost",
+    "id": "core_domain_card_boost",
     "name": {
       "en-US": "Boost"
     },
@@ -1121,7 +1121,7 @@
     ]
   },
   {
-    "id": "brace",
+    "id": "core_domain_card_brace",
     "name": {
       "en-US": "Brace"
     },
@@ -1143,7 +1143,7 @@
     ]
   },
   {
-    "id": "breaking_blow",
+    "id": "core_domain_card_breaking_blow",
     "name": {
       "en-US": "Breaking Blow"
     },
@@ -1165,7 +1165,7 @@
     ]
   },
   {
-    "id": "chain_lightning",
+    "id": "core_domain_card_chain_lightning",
     "name": {
       "en-US": "Chain Lightning"
     },
@@ -1187,7 +1187,7 @@
     ]
   },
   {
-    "id": "champions_edge",
+    "id": "core_domain_card_champions_edge",
     "name": {
       "en-US": "Champion's Edge"
     },
@@ -1249,7 +1249,7 @@
     ]
   },
   {
-    "id": "chokehold",
+    "id": "core_domain_card_chokehold",
     "name": {
       "en-US": "Chokehold"
     },
@@ -1281,7 +1281,7 @@
     ]
   },
   {
-    "id": "cinder_grasp",
+    "id": "core_domain_card_cinder_grasp",
     "name": {
       "en-US": "Cinder Grasp"
     },
@@ -1313,7 +1313,7 @@
     ]
   },
   {
-    "id": "cloaking_blast",
+    "id": "core_domain_card_cloaking_blast",
     "name": {
       "en-US": "Cloaking Blast"
     },
@@ -1335,7 +1335,7 @@
     ]
   },
   {
-    "id": "codex_touched",
+    "id": "core_domain_card_codex_touched",
     "name": {
       "en-US": "Codex-Touched"
     },
@@ -1377,7 +1377,7 @@
     ]
   },
   {
-    "id": "confusing_aura",
+    "id": "core_domain_card_confusing_aura",
     "name": {
       "en-US": "Confusing Aura"
     },
@@ -1399,7 +1399,7 @@
     ]
   },
   {
-    "id": "conjure_swarm",
+    "id": "core_domain_card_conjure_swarm",
     "name": {
       "en-US": "Conjure Swarm"
     },
@@ -1431,7 +1431,7 @@
     ]
   },
   {
-    "id": "conjured_steeds",
+    "id": "core_domain_card_conjured_steeds",
     "name": {
       "en-US": "Conjured Steeds"
     },
@@ -1453,7 +1453,7 @@
     ]
   },
   {
-    "id": "copycat",
+    "id": "core_domain_card_copycat",
     "name": {
       "en-US": "Copycat"
     },
@@ -1475,7 +1475,7 @@
     ]
   },
   {
-    "id": "corrosive_projectile",
+    "id": "core_domain_card_corrosive_projectile",
     "name": {
       "en-US": "Corrosive Projectile"
     },
@@ -1497,7 +1497,7 @@
     ]
   },
   {
-    "id": "counterspell",
+    "id": "core_domain_card_counterspell",
     "name": {
       "en-US": "Counterspell"
     },
@@ -1519,7 +1519,7 @@
     ]
   },
   {
-    "id": "critical_inspiration",
+    "id": "core_domain_card_critical_inspiration",
     "name": {
       "en-US": "Critical Inspiration"
     },
@@ -1541,7 +1541,7 @@
     ]
   },
   {
-    "id": "cruel_precision",
+    "id": "core_domain_card_cruel_precision",
     "name": {
       "en-US": "Cruel Precision"
     },
@@ -1563,7 +1563,7 @@
     ]
   },
   {
-    "id": "dark_whispers",
+    "id": "core_domain_card_dark_whispers",
     "name": {
       "en-US": "Dark Whispers"
     },
@@ -1625,7 +1625,7 @@
     ]
   },
   {
-    "id": "deadly_focus",
+    "id": "core_domain_card_deadly_focus",
     "name": {
       "en-US": "Deadly Focus"
     },
@@ -1647,7 +1647,7 @@
     ]
   },
   {
-    "id": "death_grip",
+    "id": "core_domain_card_death_grip",
     "name": {
       "en-US": "Death Grip"
     },
@@ -1709,7 +1709,7 @@
     ]
   },
   {
-    "id": "deathrun",
+    "id": "core_domain_card_deathrun",
     "name": {
       "en-US": "Deathrun"
     },
@@ -1741,7 +1741,7 @@
     ]
   },
   {
-    "id": "deft_deceiver",
+    "id": "core_domain_card_deft_deceiver",
     "name": {
       "en-US": "Deft Deceiver"
     },
@@ -1763,7 +1763,7 @@
     ]
   },
   {
-    "id": "deft_maneuvers",
+    "id": "core_domain_card_deft_maneuvers",
     "name": {
       "en-US": "Deft Maneuvers"
     },
@@ -1795,7 +1795,7 @@
     ]
   },
   {
-    "id": "disintegration_wave",
+    "id": "core_domain_card_disintegration_wave",
     "name": {
       "en-US": "Disintegration Wave"
     },
@@ -1817,7 +1817,7 @@
     ]
   },
   {
-    "id": "divination",
+    "id": "core_domain_card_divination",
     "name": {
       "en-US": "Divination"
     },
@@ -1839,7 +1839,7 @@
     ]
   },
   {
-    "id": "earthquake",
+    "id": "core_domain_card_earthquake",
     "name": {
       "en-US": "Earthquake"
     },
@@ -1871,7 +1871,7 @@
     ]
   },
   {
-    "id": "eclipse",
+    "id": "core_domain_card_eclipse",
     "name": {
       "en-US": "Eclipse"
     },
@@ -1913,7 +1913,7 @@
     ]
   },
   {
-    "id": "encore",
+    "id": "core_domain_card_encore",
     "name": {
       "en-US": "Encore"
     },
@@ -1935,7 +1935,7 @@
     ]
   },
   {
-    "id": "endless_charisma",
+    "id": "core_domain_card_endless_charisma",
     "name": {
       "en-US": "Endless Charisma"
     },
@@ -1957,7 +1957,7 @@
     ]
   },
   {
-    "id": "enrapture",
+    "id": "core_domain_card_enrapture",
     "name": {
       "en-US": "Enrapture"
     },
@@ -1979,7 +1979,7 @@
     ]
   },
   {
-    "id": "falling_sky",
+    "id": "core_domain_card_falling_sky",
     "name": {
       "en-US": "Falling Sky"
     },
@@ -2001,7 +2001,7 @@
     ]
   },
   {
-    "id": "fane_of_the_wilds",
+    "id": "core_domain_card_fane_of_the_wilds",
     "name": {
       "en-US": "Fane of the Wilds"
     },
@@ -2053,7 +2053,7 @@
     ]
   },
   {
-    "id": "ferocity",
+    "id": "core_domain_card_ferocity",
     "name": {
       "en-US": "Ferocity"
     },
@@ -2075,7 +2075,7 @@
     ]
   },
   {
-    "id": "final_words",
+    "id": "core_domain_card_final_words",
     "name": {
       "en-US": "Final Words"
     },
@@ -2097,7 +2097,7 @@
     ]
   },
   {
-    "id": "flight",
+    "id": "core_domain_card_flight",
     "name": {
       "en-US": "Flight"
     },
@@ -2119,7 +2119,7 @@
     ]
   },
   {
-    "id": "floating_eye",
+    "id": "core_domain_card_floating_eye",
     "name": {
       "en-US": "Floating Eye"
     },
@@ -2141,7 +2141,7 @@
     ]
   },
   {
-    "id": "forager",
+    "id": "core_domain_card_forager",
     "name": {
       "en-US": "Forager"
     },
@@ -2223,7 +2223,7 @@
     ]
   },
   {
-    "id": "force_of_nature",
+    "id": "core_domain_card_force_of_nature",
     "name": {
       "en-US": "Force of Nature"
     },
@@ -2285,7 +2285,7 @@
     ]
   },
   {
-    "id": "forceful_push",
+    "id": "core_domain_card_forceful_push",
     "name": {
       "en-US": "Forceful Push"
     },
@@ -2317,7 +2317,7 @@
     ]
   },
   {
-    "id": "forest_sprites",
+    "id": "core_domain_card_forest_sprites",
     "name": {
       "en-US": "Forest Sprites"
     },
@@ -2369,7 +2369,7 @@
     ]
   },
   {
-    "id": "fortified_armor",
+    "id": "core_domain_card_fortified_armor",
     "name": {
       "en-US": "Fortified Armor"
     },
@@ -2391,7 +2391,7 @@
     ]
   },
   {
-    "id": "frenzy",
+    "id": "core_domain_card_frenzy",
     "name": {
       "en-US": "Frenzy"
     },
@@ -2423,7 +2423,7 @@
     ]
   },
   {
-    "id": "full_surge",
+    "id": "core_domain_card_full_surge",
     "name": {
       "en-US": "Full Surge"
     },
@@ -2445,7 +2445,7 @@
     ]
   },
   {
-    "id": "get_back_up",
+    "id": "core_domain_card_get_back_up",
     "name": {
       "en-US": "Get Back Up"
     },
@@ -2467,7 +2467,7 @@
     ]
   },
   {
-    "id": "gifted_tracker",
+    "id": "core_domain_card_gifted_tracker",
     "name": {
       "en-US": "Gifted Tracker"
     },
@@ -2539,7 +2539,7 @@
     ]
   },
   {
-    "id": "glancing_blow",
+    "id": "core_domain_card_glancing_blow",
     "name": {
       "en-US": "Glancing Blow"
     },
@@ -2561,7 +2561,7 @@
     ]
   },
   {
-    "id": "glyph_of_nightfall",
+    "id": "core_domain_card_glyph_of_nightfall",
     "name": {
       "en-US": "Glyph of Nightfall"
     },
@@ -2583,7 +2583,7 @@
     ]
   },
   {
-    "id": "goad_them_on",
+    "id": "core_domain_card_goad_them_on",
     "name": {
       "en-US": "Goad Them On"
     },
@@ -2605,7 +2605,7 @@
     ]
   },
   {
-    "id": "gore_and_glory",
+    "id": "core_domain_card_gore_and_glory",
     "name": {
       "en-US": "Gore and Glory"
     },
@@ -2637,7 +2637,7 @@
     ]
   },
   {
-    "id": "grace_touched",
+    "id": "core_domain_card_grace_touched",
     "name": {
       "en-US": "Grace-Touched"
     },
@@ -2679,7 +2679,7 @@
     ]
   },
   {
-    "id": "ground_pound",
+    "id": "core_domain_card_ground_pound",
     "name": {
       "en-US": "Ground Pound"
     },
@@ -2701,7 +2701,7 @@
     ]
   },
   {
-    "id": "healing_field",
+    "id": "core_domain_card_healing_field",
     "name": {
       "en-US": "Healing Field"
     },
@@ -2733,7 +2733,7 @@
     ]
   },
   {
-    "id": "healing_hands",
+    "id": "core_domain_card_healing_hands",
     "name": {
       "en-US": "Healing Hands"
     },
@@ -2755,7 +2755,7 @@
     ]
   },
   {
-    "id": "healing_strike",
+    "id": "core_domain_card_healing_strike",
     "name": {
       "en-US": "Healing Strike"
     },
@@ -2777,7 +2777,7 @@
     ]
   },
   {
-    "id": "hold_the_line",
+    "id": "core_domain_card_hold_the_line",
     "name": {
       "en-US": "Hold the Line"
     },
@@ -2809,7 +2809,7 @@
     ]
   },
   {
-    "id": "hush",
+    "id": "core_domain_card_hush",
     "name": {
       "en-US": "Hush"
     },
@@ -2841,7 +2841,7 @@
     ]
   },
   {
-    "id": "hypnotic_shimmer",
+    "id": "core_domain_card_hypnotic_shimmer",
     "name": {
       "en-US": "Hypnotic Shimmer"
     },
@@ -2863,7 +2863,7 @@
     ]
   },
   {
-    "id": "i_am_your_shield",
+    "id": "core_domain_card_i_am_your_shield",
     "name": {
       "en-US": "I Am Your Shield"
     },
@@ -2885,7 +2885,7 @@
     ]
   },
   {
-    "id": "i_see_it_coming",
+    "id": "core_domain_card_i_see_it_coming",
     "name": {
       "en-US": "I See It Coming"
     },
@@ -2907,7 +2907,7 @@
     ]
   },
   {
-    "id": "inevitable",
+    "id": "core_domain_card_inevitable",
     "name": {
       "en-US": "Inevitable"
     },
@@ -2929,7 +2929,7 @@
     ]
   },
   {
-    "id": "inspirational_words",
+    "id": "core_domain_card_inspirational_words",
     "name": {
       "en-US": "Inspirational Words"
     },
@@ -2991,7 +2991,7 @@
     ]
   },
   {
-    "id": "invigoration",
+    "id": "core_domain_card_invigoration",
     "name": {
       "en-US": "Invigoration"
     },
@@ -3013,7 +3013,7 @@
     ]
   },
   {
-    "id": "invisibility",
+    "id": "core_domain_card_invisibility",
     "name": {
       "en-US": "Invisibility"
     },
@@ -3045,7 +3045,7 @@
     ]
   },
   {
-    "id": "know_thy_enemy",
+    "id": "core_domain_card_know_thy_enemy",
     "name": {
       "en-US": "Know Thy Enemy"
     },
@@ -3117,7 +3117,7 @@
     ]
   },
   {
-    "id": "lead_by_example",
+    "id": "core_domain_card_lead_by_example",
     "name": {
       "en-US": "Lead by Example"
     },
@@ -3139,7 +3139,7 @@
     ]
   },
   {
-    "id": "lean_on_me",
+    "id": "core_domain_card_lean_on_me",
     "name": {
       "en-US": "Lean on Me"
     },
@@ -3161,7 +3161,7 @@
     ]
   },
   {
-    "id": "life_ward",
+    "id": "core_domain_card_life_ward",
     "name": {
       "en-US": "Life Ward"
     },
@@ -3193,7 +3193,7 @@
     ]
   },
   {
-    "id": "manifest_wall",
+    "id": "core_domain_card_manifest_wall",
     "name": {
       "en-US": "Manifest Wall"
     },
@@ -3215,7 +3215,7 @@
     ]
   },
   {
-    "id": "mass_disguise",
+    "id": "core_domain_card_mass_disguise",
     "name": {
       "en-US": "Mass Disguise"
     },
@@ -3247,7 +3247,7 @@
     ]
   },
   {
-    "id": "mass_enrapture",
+    "id": "core_domain_card_mass_enrapture",
     "name": {
       "en-US": "Mass Enrapture"
     },
@@ -3269,7 +3269,7 @@
     ]
   },
   {
-    "id": "master_of_the_craft",
+    "id": "core_domain_card_master_of_the_craft",
     "name": {
       "en-US": "Master of the Craft"
     },
@@ -3291,7 +3291,7 @@
     ]
   },
   {
-    "id": "mending_touch",
+    "id": "core_domain_card_mending_touch",
     "name": {
       "en-US": "Mending Touch"
     },
@@ -3323,7 +3323,7 @@
     ]
   },
   {
-    "id": "midnight_spirit",
+    "id": "core_domain_card_midnight_spirit",
     "name": {
       "en-US": "Midnight Spirit"
     },
@@ -3355,7 +3355,7 @@
     ]
   },
   {
-    "id": "midnight_touched",
+    "id": "core_domain_card_midnight_touched",
     "name": {
       "en-US": "Midnight-Touched"
     },
@@ -3397,7 +3397,7 @@
     ]
   },
   {
-    "id": "natural_familiar",
+    "id": "core_domain_card_natural_familiar",
     "name": {
       "en-US": "Natural Familiar"
     },
@@ -3429,7 +3429,7 @@
     ]
   },
   {
-    "id": "natures_tongue",
+    "id": "core_domain_card_natures_tongue",
     "name": {
       "en-US": "Nature's Tongue"
     },
@@ -3461,7 +3461,7 @@
     ]
   },
   {
-    "id": "never_upstaged",
+    "id": "core_domain_card_never_upstaged",
     "name": {
       "en-US": "Never Upstaged"
     },
@@ -3483,7 +3483,7 @@
     ]
   },
   {
-    "id": "night_terror",
+    "id": "core_domain_card_night_terror",
     "name": {
       "en-US": "Night Terror"
     },
@@ -3505,7 +3505,7 @@
     ]
   },
   {
-    "id": "not_good_enough",
+    "id": "core_domain_card_not_good_enough",
     "name": {
       "en-US": "Not Good Enough"
     },
@@ -3527,7 +3527,7 @@
     ]
   },
   {
-    "id": "notorious",
+    "id": "core_domain_card_notorious",
     "name": {
       "en-US": "Notorious"
     },
@@ -3559,7 +3559,7 @@
     ]
   },
   {
-    "id": "on_the_brink",
+    "id": "core_domain_card_on_the_brink",
     "name": {
       "en-US": "On the Brink"
     },
@@ -3581,7 +3581,7 @@
     ]
   },
   {
-    "id": "onslaught",
+    "id": "core_domain_card_onslaught",
     "name": {
       "en-US": "Onslaught"
     },
@@ -3613,7 +3613,7 @@
     ]
   },
   {
-    "id": "overwhelming_aura",
+    "id": "core_domain_card_overwhelming_aura",
     "name": {
       "en-US": "Overwhelming Aura"
     },
@@ -3645,7 +3645,7 @@
     ]
   },
   {
-    "id": "phantom_retreat",
+    "id": "core_domain_card_phantom_retreat",
     "name": {
       "en-US": "Phantom Retreat"
     },
@@ -3667,7 +3667,7 @@
     ]
   },
   {
-    "id": "pick_and_pull",
+    "id": "core_domain_card_pick_and_pull",
     "name": {
       "en-US": "Pick and Pull"
     },
@@ -3689,7 +3689,7 @@
     ]
   },
   {
-    "id": "plant_dominion",
+    "id": "core_domain_card_plant_dominion",
     "name": {
       "en-US": "Plant Dominion"
     },
@@ -3711,7 +3711,7 @@
     ]
   },
   {
-    "id": "premonition",
+    "id": "core_domain_card_premonition",
     "name": {
       "en-US": "Premonition"
     },
@@ -3733,7 +3733,7 @@
     ]
   },
   {
-    "id": "preservation_blast",
+    "id": "core_domain_card_preservation_blast",
     "name": {
       "en-US": "Preservation Blast"
     },
@@ -3755,7 +3755,7 @@
     ]
   },
   {
-    "id": "rage_up",
+    "id": "core_domain_card_rage_up",
     "name": {
       "en-US": "Rage Up"
     },
@@ -3787,7 +3787,7 @@
     ]
   },
   {
-    "id": "rain_of_blades",
+    "id": "core_domain_card_rain_of_blades",
     "name": {
       "en-US": "Rain of Blades"
     },
@@ -3819,7 +3819,7 @@
     ]
   },
   {
-    "id": "rapid_riposte",
+    "id": "core_domain_card_rapid_riposte",
     "name": {
       "en-US": "Rapid Riposte"
     },
@@ -3841,7 +3841,7 @@
     ]
   },
   {
-    "id": "reapers_strike",
+    "id": "core_domain_card_reapers_strike",
     "name": {
       "en-US": "Reaper's Strike"
     },
@@ -3863,7 +3863,7 @@
     ]
   },
   {
-    "id": "reassurance",
+    "id": "core_domain_card_reassurance",
     "name": {
       "en-US": "Reassurance"
     },
@@ -3885,7 +3885,7 @@
     ]
   },
   {
-    "id": "reckless",
+    "id": "core_domain_card_reckless",
     "name": {
       "en-US": "Reckless"
     },
@@ -3907,7 +3907,7 @@
     ]
   },
   {
-    "id": "recovery",
+    "id": "core_domain_card_recovery",
     "name": {
       "en-US": "Recovery"
     },
@@ -3929,7 +3929,7 @@
     ]
   },
   {
-    "id": "redirect",
+    "id": "core_domain_card_redirect",
     "name": {
       "en-US": "Redirect"
     },
@@ -3951,7 +3951,7 @@
     ]
   },
   {
-    "id": "rejuvenation_barrier",
+    "id": "core_domain_card_rejuvenation_barrier",
     "name": {
       "en-US": "Rejuvenation Barrier"
     },
@@ -3983,7 +3983,7 @@
     ]
   },
   {
-    "id": "restoration",
+    "id": "core_domain_card_restoration",
     "name": {
       "en-US": "Restoration"
     },
@@ -4025,7 +4025,7 @@
     ]
   },
   {
-    "id": "resurrection",
+    "id": "core_domain_card_resurrection",
     "name": {
       "en-US": "Resurrection"
     },
@@ -4057,7 +4057,7 @@
     ]
   },
   {
-    "id": "rift_walker",
+    "id": "core_domain_card_rift_walker",
     "name": {
       "en-US": "Rift Walker"
     },
@@ -4089,7 +4089,7 @@
     ]
   },
   {
-    "id": "rise_up",
+    "id": "core_domain_card_rise_up",
     "name": {
       "en-US": "Rise Up"
     },
@@ -4121,7 +4121,7 @@
     ]
   },
   {
-    "id": "rousing_strike",
+    "id": "core_domain_card_rousing_strike",
     "name": {
       "en-US": "Rousing Strike"
     },
@@ -4143,7 +4143,7 @@
     ]
   },
   {
-    "id": "rune_ward",
+    "id": "core_domain_card_rune_ward",
     "name": {
       "en-US": "Rune Ward"
     },
@@ -4175,7 +4175,7 @@
     ]
   },
   {
-    "id": "safe_haven",
+    "id": "core_domain_card_safe_haven",
     "name": {
       "en-US": "Safe Haven"
     },
@@ -4207,7 +4207,7 @@
     ]
   },
   {
-    "id": "sage_touched",
+    "id": "core_domain_card_sage_touched",
     "name": {
       "en-US": "Sage-Touched"
     },
@@ -4249,7 +4249,7 @@
     ]
   },
   {
-    "id": "salvation_beam",
+    "id": "core_domain_card_salvation_beam",
     "name": {
       "en-US": "Salvation Beam"
     },
@@ -4271,7 +4271,7 @@
     ]
   },
   {
-    "id": "scramble",
+    "id": "core_domain_card_scramble",
     "name": {
       "en-US": "Scramble"
     },
@@ -4293,7 +4293,7 @@
     ]
   },
   {
-    "id": "second_wind",
+    "id": "core_domain_card_second_wind",
     "name": {
       "en-US": "Second Wind"
     },
@@ -4315,7 +4315,7 @@
     ]
   },
   {
-    "id": "sensory_projection",
+    "id": "core_domain_card_sensory_projection",
     "name": {
       "en-US": "Sensory Projection"
     },
@@ -4337,7 +4337,7 @@
     ]
   },
   {
-    "id": "shadowbind",
+    "id": "core_domain_card_shadowbind",
     "name": {
       "en-US": "Shadowbind"
     },
@@ -4359,7 +4359,7 @@
     ]
   },
   {
-    "id": "shadowhunter",
+    "id": "core_domain_card_shadowhunter",
     "name": {
       "en-US": "Shadowhunter"
     },
@@ -4381,7 +4381,7 @@
     ]
   },
   {
-    "id": "shape_material",
+    "id": "core_domain_card_shape_material",
     "name": {
       "en-US": "Shape Material"
     },
@@ -4413,7 +4413,7 @@
     ]
   },
   {
-    "id": "share_the_burden",
+    "id": "core_domain_card_share_the_burden",
     "name": {
       "en-US": "Share the Burden"
     },
@@ -4435,7 +4435,7 @@
     ]
   },
   {
-    "id": "shield_aura",
+    "id": "core_domain_card_shield_aura",
     "name": {
       "en-US": "Shield Aura"
     },
@@ -4467,7 +4467,7 @@
     ]
   },
   {
-    "id": "shrug_it_off",
+    "id": "core_domain_card_shrug_it_off",
     "name": {
       "en-US": "Shrug It Off"
     },
@@ -4489,7 +4489,7 @@
     ]
   },
   {
-    "id": "sigil_of_retribution",
+    "id": "core_domain_card_sigil_of_retribution",
     "name": {
       "en-US": "Sigil of Retribution"
     },
@@ -4511,7 +4511,7 @@
     ]
   },
   {
-    "id": "signature_move",
+    "id": "core_domain_card_signature_move",
     "name": {
       "en-US": "Signature Move"
     },
@@ -4533,7 +4533,7 @@
     ]
   },
   {
-    "id": "smite",
+    "id": "core_domain_card_smite",
     "name": {
       "en-US": "Smite"
     },
@@ -4555,7 +4555,7 @@
     ]
   },
   {
-    "id": "soothing_speech",
+    "id": "core_domain_card_soothing_speech",
     "name": {
       "en-US": "Soothing Speech"
     },
@@ -4577,7 +4577,7 @@
     ]
   },
   {
-    "id": "specter_of_the_dark",
+    "id": "core_domain_card_specter_of_the_dark",
     "name": {
       "en-US": "Specter of the Dark"
     },
@@ -4599,7 +4599,7 @@
     ]
   },
   {
-    "id": "spellcharge",
+    "id": "core_domain_card_spellcharge",
     "name": {
       "en-US": "Spellcharge"
     },
@@ -4631,7 +4631,7 @@
     ]
   },
   {
-    "id": "splendor_touched",
+    "id": "core_domain_card_splendor_touched",
     "name": {
       "en-US": "Splendor-Touched"
     },
@@ -4673,7 +4673,7 @@
     ]
   },
   {
-    "id": "splintering_strike",
+    "id": "core_domain_card_splintering_strike",
     "name": {
       "en-US": "Splintering Strike"
     },
@@ -4695,7 +4695,7 @@
     ]
   },
   {
-    "id": "stealth_expertise",
+    "id": "core_domain_card_stealth_expertise",
     "name": {
       "en-US": "Stealth Expertise"
     },
@@ -4727,7 +4727,7 @@
     ]
   },
   {
-    "id": "strategic_approach",
+    "id": "core_domain_card_strategic_approach",
     "name": {
       "en-US": "Strategic Approach"
     },
@@ -4789,7 +4789,7 @@
     ]
   },
   {
-    "id": "stunning_sunlight",
+    "id": "core_domain_card_stunning_sunlight",
     "name": {
       "en-US": "Stunning Sunlight"
     },
@@ -4821,7 +4821,7 @@
     ]
   },
   {
-    "id": "support_tank",
+    "id": "core_domain_card_support_tank",
     "name": {
       "en-US": "Support Tank"
     },
@@ -4843,7 +4843,7 @@
     ]
   },
   {
-    "id": "swift_step",
+    "id": "core_domain_card_swift_step",
     "name": {
       "en-US": "Swift Step"
     },
@@ -4865,7 +4865,7 @@
     ]
   },
   {
-    "id": "tactician",
+    "id": "core_domain_card_tactician",
     "name": {
       "en-US": "Tactician"
     },
@@ -4897,7 +4897,7 @@
     ]
   },
   {
-    "id": "telekinesis",
+    "id": "core_domain_card_telekinesis",
     "name": {
       "en-US": "Telekinesis"
     },
@@ -4919,7 +4919,7 @@
     ]
   },
   {
-    "id": "teleport",
+    "id": "core_domain_card_teleport",
     "name": {
       "en-US": "Teleport"
     },
@@ -4991,7 +4991,7 @@
     ]
   },
   {
-    "id": "tell_no_lies",
+    "id": "core_domain_card_tell_no_lies",
     "name": {
       "en-US": "Tell No Lies"
     },
@@ -5013,7 +5013,7 @@
     ]
   },
   {
-    "id": "tempest",
+    "id": "core_domain_card_tempest",
     "name": {
       "en-US": "Tempest"
     },
@@ -5065,7 +5065,7 @@
     ]
   },
   {
-    "id": "thorn_skin",
+    "id": "core_domain_card_thorn_skin",
     "name": {
       "en-US": "Thorn Skin"
     },
@@ -5097,7 +5097,7 @@
     ]
   },
   {
-    "id": "thought_delver",
+    "id": "core_domain_card_thought_delver",
     "name": {
       "en-US": "Thought Delver"
     },
@@ -5129,7 +5129,7 @@
     ]
   },
   {
-    "id": "through_your_eyes",
+    "id": "core_domain_card_through_your_eyes",
     "name": {
       "en-US": "Through Your Eyes"
     },
@@ -5151,7 +5151,7 @@
     ]
   },
   {
-    "id": "towering_stalk",
+    "id": "core_domain_card_towering_stalk",
     "name": {
       "en-US": "Towering Stalk"
     },
@@ -5183,7 +5183,7 @@
     ]
   },
   {
-    "id": "transcendent_union",
+    "id": "core_domain_card_transcendent_union",
     "name": {
       "en-US": "Transcendent Union"
     },
@@ -5205,7 +5205,7 @@
     ]
   },
   {
-    "id": "troublemaker",
+    "id": "core_domain_card_troublemaker",
     "name": {
       "en-US": "Troublemaker"
     },
@@ -5227,7 +5227,7 @@
     ]
   },
   {
-    "id": "twilight_toll",
+    "id": "core_domain_card_twilight_toll",
     "name": {
       "en-US": "Twilight Toll"
     },
@@ -5259,7 +5259,7 @@
     ]
   },
   {
-    "id": "unbreakable",
+    "id": "core_domain_card_unbreakable",
     "name": {
       "en-US": "Unbreakable"
     },
@@ -5281,7 +5281,7 @@
     ]
   },
   {
-    "id": "uncanny_disguise",
+    "id": "core_domain_card_uncanny_disguise",
     "name": {
       "en-US": "Uncanny Disguise"
     },
@@ -5313,7 +5313,7 @@
     ]
   },
   {
-    "id": "unleash_chaos",
+    "id": "core_domain_card_unleash_chaos",
     "name": {
       "en-US": "Unleash Chaos"
     },
@@ -5355,7 +5355,7 @@
     ]
   },
   {
-    "id": "untouchable",
+    "id": "core_domain_card_untouchable",
     "name": {
       "en-US": "Untouchable"
     },
@@ -5377,7 +5377,7 @@
     ]
   },
   {
-    "id": "unyielding_armor",
+    "id": "core_domain_card_unyielding_armor",
     "name": {
       "en-US": "Unyielding Armor"
     },
@@ -5399,7 +5399,7 @@
     ]
   },
   {
-    "id": "valor_touched",
+    "id": "core_domain_card_valor_touched",
     "name": {
       "en-US": "Valor-Touched"
     },
@@ -5441,7 +5441,7 @@
     ]
   },
   {
-    "id": "vanishing_dodge",
+    "id": "core_domain_card_vanishing_dodge",
     "name": {
       "en-US": "Vanishing Dodge"
     },
@@ -5463,7 +5463,7 @@
     ]
   },
   {
-    "id": "veil_of_night",
+    "id": "core_domain_card_veil_of_night",
     "name": {
       "en-US": "Veil of Night"
     },
@@ -5485,7 +5485,7 @@
     ]
   },
   {
-    "id": "versatile_fighter",
+    "id": "core_domain_card_versatile_fighter",
     "name": {
       "en-US": "Versatile Fighter"
     },
@@ -5517,7 +5517,7 @@
     ]
   },
   {
-    "id": "vicious_entangle",
+    "id": "core_domain_card_vicious_entangle",
     "name": {
       "en-US": "Vicious Entangle"
     },
@@ -5549,7 +5549,7 @@
     ]
   },
   {
-    "id": "vitality",
+    "id": "core_domain_card_vitality",
     "name": {
       "en-US": "Vitality"
     },
@@ -5611,7 +5611,7 @@
     ]
   },
   {
-    "id": "voice_of_reason",
+    "id": "core_domain_card_voice_of_reason",
     "name": {
       "en-US": "Voice of Reason"
     },
@@ -5643,7 +5643,7 @@
     ]
   },
   {
-    "id": "wall_walk",
+    "id": "core_domain_card_wall_walk",
     "name": {
       "en-US": "Wall Walk"
     },
@@ -5665,7 +5665,7 @@
     ]
   },
   {
-    "id": "whirlwind",
+    "id": "core_domain_card_whirlwind",
     "name": {
       "en-US": "Whirlwind"
     },
@@ -5687,7 +5687,7 @@
     ]
   },
   {
-    "id": "wild_fortress",
+    "id": "core_domain_card_wild_fortress",
     "name": {
       "en-US": "Wild Fortress"
     },
@@ -5709,7 +5709,7 @@
     ]
   },
   {
-    "id": "wild_surge",
+    "id": "core_domain_card_wild_surge",
     "name": {
       "en-US": "Wild Surge"
     },
@@ -5741,7 +5741,7 @@
     ]
   },
   {
-    "id": "words_of_discord",
+    "id": "core_domain_card_words_of_discord",
     "name": {
       "en-US": "Words of Discord"
     },
@@ -5773,7 +5773,7 @@
     ]
   },
   {
-    "id": "wrangle",
+    "id": "core_domain_card_wrangle",
     "name": {
       "en-US": "Wrangle"
     },
@@ -5795,7 +5795,7 @@
     ]
   },
   {
-    "id": "zone_of_protection",
+    "id": "core_domain_card_zone_of_protection",
     "name": {
       "en-US": "Zone of Protection"
     },

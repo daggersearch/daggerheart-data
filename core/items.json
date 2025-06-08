@@ -1,6 +1,6 @@
 [
   {
-    "id": "premium_bedroll",
+    "id": "core_item_premium_bedroll",
     "name": {
       "en-US": "Premium Bedroll"
     },
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "id": "piper_whistle",
+    "id": "core_item_piper_whistle",
     "name": {
       "en-US": "Piper Whistle"
     },
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "id": "charging_quiver",
+    "id": "core_item_charging_quiver",
     "name": {
       "en-US": "Charging Quiver"
     },
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "id": "alistairs_torch",
+    "id": "core_item_alistairs_torch",
     "name": {
       "en-US": "Alistair's Torch"
     },
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "id": "speaking_orbs",
+    "id": "core_item_speaking_orbs",
     "name": {
       "en-US": "Speaking Orbs"
     },
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "id": "manacles",
+    "id": "core_item_manacles",
     "name": {
       "en-US": "Manacles"
     },
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "id": "arcane_cloak",
+    "id": "core_item_arcane_cloak",
     "name": {
       "en-US": "Arcane Cloak"
     },
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "id": "woven_net",
+    "id": "core_item_woven_net",
     "name": {
       "en-US": "Woven Net"
     },
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "id": "fire_jar",
+    "id": "core_item_fire_jar",
     "name": {
       "en-US": "Fire Jar"
     },
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "id": "suspended_rod",
+    "id": "core_item_suspended_rod",
     "name": {
       "en-US": "Suspended Rod"
     },
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "id": "glamour_stone",
+    "id": "core_item_glamour_stone",
     "name": {
       "en-US": "Glamour Stone"
     },
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "id": "empty_chest",
+    "id": "core_item_empty_chest",
     "name": {
       "en-US": "Empty Chest"
     },
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "id": "companion_case",
+    "id": "core_item_companion_case",
     "name": {
       "en-US": "Companion Case"
     },
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "id": "piercing_arrows",
+    "id": "core_item_piercing_arrows",
     "name": {
       "en-US": "Piercing Arrows"
     },
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "id": "valorstone",
+    "id": "core_item_valorstone",
     "name": {
       "en-US": "Valorstone"
     },
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "id": "skeleton_key",
+    "id": "core_item_skeleton_key",
     "name": {
       "en-US": "Skeleton Key"
     },
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "id": "arcane_prism",
+    "id": "core_item_arcane_prism",
     "name": {
       "en-US": "Arcane Prism"
     },
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "id": "minor_stamina_potion_recipe",
+    "id": "core_item_minor_stamina_potion_recipe",
     "name": {
       "en-US": "Minor Stamina Potion Recipe"
     },
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "id": "minor_health_potion_recipe",
+    "id": "core_item_minor_health_potion_recipe",
     "name": {
       "en-US": "Minor Health Potion Recipe"
     },
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "id": "homing_compasses",
+    "id": "core_item_homing_compasses",
     "name": {
       "en-US": "Homing Compasses"
     },
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "id": "corrector_sprite",
+    "id": "core_item_corrector_sprite",
     "name": {
       "en-US": "Corrector Sprite"
     },
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "id": "gecko_gloves",
+    "id": "core_item_gecko_gloves",
     "name": {
       "en-US": "Gecko Gloves"
     },
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "id": "lorekeeper",
+    "id": "core_item_lorekeeper",
     "name": {
       "en-US": "Lorekeeper"
     },
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "id": "vial_of_darksmoke_recipe",
+    "id": "core_item_vial_of_darksmoke_recipe",
     "name": {
       "en-US": "Vial of Darksmoke Recipe"
     },
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "id": "bloodstone",
+    "id": "core_item_bloodstone",
     "name": {
       "en-US": "Bloodstone"
     },
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "id": "greatstone",
+    "id": "core_item_greatstone",
     "name": {
       "en-US": "Greatstone"
     },
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "id": "glider",
+    "id": "core_item_glider",
     "name": {
       "en-US": "Glider"
     },
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "id": "ring_of_silence",
+    "id": "core_item_ring_of_silence",
     "name": {
       "en-US": "Ring of Silence"
     },
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "id": "calming_pendant",
+    "id": "core_item_calming_pendant",
     "name": {
       "en-US": "Calming Pendant"
     },
@@ -522,7 +522,7 @@
     ]
   },
   {
-    "id": "dual_flask",
+    "id": "core_item_dual_flask",
     "name": {
       "en-US": "Dual Flask"
     },
@@ -540,7 +540,7 @@
     ]
   },
   {
-    "id": "bag_of_ficklesand",
+    "id": "core_item_bag_of_ficklesand",
     "name": {
       "en-US": "Bag of Ficklesand"
     },
@@ -558,7 +558,7 @@
     ]
   },
   {
-    "id": "ring_of_resistance",
+    "id": "core_item_ring_of_resistance",
     "name": {
       "en-US": "Ring of Resistance"
     },
@@ -576,7 +576,7 @@
     ]
   },
   {
-    "id": "phoenix_feather",
+    "id": "core_item_phoenix_feather",
     "name": {
       "en-US": "Phoenix Feather"
     },
@@ -594,7 +594,7 @@
     ]
   },
   {
-    "id": "box_of_many_goods",
+    "id": "core_item_box_of_many_goods",
     "name": {
       "en-US": "Box of Many Goods"
     },
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "id": "airblade_charm",
+    "id": "core_item_airblade_charm",
     "name": {
       "en-US": "Airblade Charm"
     },
@@ -630,7 +630,7 @@
     ]
   },
   {
-    "id": "portal_seed",
+    "id": "core_item_portal_seed",
     "name": {
       "en-US": "Portal Seed"
     },
@@ -648,7 +648,7 @@
     ]
   },
   {
-    "id": "paragons_chain",
+    "id": "core_item_paragons_chain",
     "name": {
       "en-US": "Paragon's Chain"
     },
@@ -666,7 +666,7 @@
     ]
   },
   {
-    "id": "elusive_amulet",
+    "id": "core_item_elusive_amulet",
     "name": {
       "en-US": "Elusive Amulet"
     },
@@ -684,7 +684,7 @@
     ]
   },
   {
-    "id": "hopekeeper_locket",
+    "id": "core_item_hopekeeper_locket",
     "name": {
       "en-US": "Hopekeeper Locket"
     },
@@ -702,7 +702,7 @@
     ]
   },
   {
-    "id": "infinite_bag",
+    "id": "core_item_infinite_bag",
     "name": {
       "en-US": "Infinite Bag"
     },
@@ -720,7 +720,7 @@
     ]
   },
   {
-    "id": "stride_relic",
+    "id": "core_item_stride_relic",
     "name": {
       "en-US": "Stride Relic"
     },
@@ -738,7 +738,7 @@
     ]
   },
   {
-    "id": "bolster_relic",
+    "id": "core_item_bolster_relic",
     "name": {
       "en-US": "Bolster Relic"
     },
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "id": "control_relic",
+    "id": "core_item_control_relic",
     "name": {
       "en-US": "Control Relic"
     },
@@ -774,7 +774,7 @@
     ]
   },
   {
-    "id": "attune_relic",
+    "id": "core_item_attune_relic",
     "name": {
       "en-US": "Attune Relic"
     },
@@ -792,7 +792,7 @@
     ]
   },
   {
-    "id": "charm_relic",
+    "id": "core_item_charm_relic",
     "name": {
       "en-US": "Charm Relic"
     },
@@ -810,7 +810,7 @@
     ]
   },
   {
-    "id": "enlighten_relic",
+    "id": "core_item_enlighten_relic",
     "name": {
       "en-US": "Enlighten Relic"
     },
@@ -828,7 +828,7 @@
     ]
   },
   {
-    "id": "honing_relic",
+    "id": "core_item_honing_relic",
     "name": {
       "en-US": "Honing Relic"
     },
@@ -846,7 +846,7 @@
     ]
   },
   {
-    "id": "flickerfly_pendant",
+    "id": "core_item_flickerfly_pendant",
     "name": {
       "en-US": "Flickerfly Pendant"
     },
@@ -864,7 +864,7 @@
     ]
   },
   {
-    "id": "lakestrider_boots",
+    "id": "core_item_lakestrider_boots",
     "name": {
       "en-US": "Lakestrider Boots"
     },
@@ -882,7 +882,7 @@
     ]
   },
   {
-    "id": "clay_companion",
+    "id": "core_item_clay_companion",
     "name": {
       "en-US": "Clay Companion"
     },
@@ -900,7 +900,7 @@
     ]
   },
   {
-    "id": "mythic_dust_recipe",
+    "id": "core_item_mythic_dust_recipe",
     "name": {
       "en-US": "Mythic Dust Recipe"
     },
@@ -918,7 +918,7 @@
     ]
   },
   {
-    "id": "shard_of_memory",
+    "id": "core_item_shard_of_memory",
     "name": {
       "en-US": "Shard of Memory"
     },
@@ -936,7 +936,7 @@
     ]
   },
   {
-    "id": "gem_of_alacrity",
+    "id": "core_item_gem_of_alacrity",
     "name": {
       "en-US": "Gem of Alacrity"
     },
@@ -954,7 +954,7 @@
     ]
   },
   {
-    "id": "gem_of_might",
+    "id": "core_item_gem_of_might",
     "name": {
       "en-US": "Gem of Might"
     },
@@ -972,7 +972,7 @@
     ]
   },
   {
-    "id": "gem_of_precision",
+    "id": "core_item_gem_of_precision",
     "name": {
       "en-US": "Gem of Precision"
     },
@@ -990,7 +990,7 @@
     ]
   },
   {
-    "id": "gem_of_insight",
+    "id": "core_item_gem_of_insight",
     "name": {
       "en-US": "Gem of Insight"
     },
@@ -1008,7 +1008,7 @@
     ]
   },
   {
-    "id": "gem_of_audacity",
+    "id": "core_item_gem_of_audacity",
     "name": {
       "en-US": "Gem of Audacity"
     },
@@ -1026,7 +1026,7 @@
     ]
   },
   {
-    "id": "gem_of_sagacity",
+    "id": "core_item_gem_of_sagacity",
     "name": {
       "en-US": "Gem of Sagacity"
     },
@@ -1044,7 +1044,7 @@
     ]
   },
   {
-    "id": "ring_of_unbreakable_resolve",
+    "id": "core_item_ring_of_unbreakable_resolve",
     "name": {
       "en-US": "Ring of Unbreakable Resolve"
     },
@@ -1062,7 +1062,7 @@
     ]
   },
   {
-    "id": "belt_of_unity",
+    "id": "core_item_belt_of_unity",
     "name": {
       "en-US": "Belt of Unity"
     },
