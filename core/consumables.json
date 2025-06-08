@@ -1,6 +1,6 @@
 [
   {
-    "id": "stride_potion",
+    "id": "core_consumable_stride_potion",
     "name": {
       "en-US": "Stride Potion"
     },
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "id": "bolster_potion",
+    "id": "core_consumable_bolster_potion",
     "name": {
       "en-US": "Bolster Potion"
     },
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "id": "control_potion",
+    "id": "core_consumable_control_potion",
     "name": {
       "en-US": "Control Potion"
     },
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "id": "attune_potion",
+    "id": "core_consumable_attune_potion",
     "name": {
       "en-US": "Attune Potion"
     },
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "id": "charm_potion",
+    "id": "core_consumable_charm_potion",
     "name": {
       "en-US": "Charm Potion"
     },
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "id": "enlighten_potion",
+    "id": "core_consumable_enlighten_potion",
     "name": {
       "en-US": "Enlighten Potion"
     },
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "id": "minor_health_potion",
+    "id": "core_consumable_minor_health_potion",
     "name": {
       "en-US": "Minor Health Potion"
     },
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "id": "minor_stamina_potion",
+    "id": "core_consumable_minor_stamina_potion",
     "name": {
       "en-US": "Minor Stamina Potion"
     },
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "id": "grindletooth_venom",
+    "id": "core_consumable_grindletooth_venom",
     "name": {
       "en-US": "Grindletooth Venom"
     },
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "id": "varik_leaves",
+    "id": "core_consumable_varik_leaves",
     "name": {
       "en-US": "Varik Leaves"
     },
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "id": "vial_of_moondrip",
+    "id": "core_consumable_vial_of_moondrip",
     "name": {
       "en-US": "Vial of Moondrip"
     },
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "id": "unstable_arcane_shard",
+    "id": "core_consumable_unstable_arcane_shard",
     "name": {
       "en-US": "Unstable Arcane Shard"
     },
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "id": "potion_of_stability",
+    "id": "core_consumable_potion_of_stability",
     "name": {
       "en-US": "Potion of Stability"
     },
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "id": "improved_grindletooth_venom",
+    "id": "core_consumable_improved_grindletooth_venom",
     "name": {
       "en-US": "Improved Grindletooth Venom"
     },
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "id": "morphing_clay",
+    "id": "core_consumable_morphing_clay",
     "name": {
       "en-US": "Morphing Clay"
     },
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "id": "vial_of_darksmoke",
+    "id": "core_consumable_vial_of_darksmoke",
     "name": {
       "en-US": "Vial of Darksmoke"
     },
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "id": "jumping_root",
+    "id": "core_consumable_jumping_root",
     "name": {
       "en-US": "Jumping Root"
     },
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "id": "snap_powder",
+    "id": "core_consumable_snap_powder",
     "name": {
       "en-US": "Snap Powder"
     },
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "id": "health_potion",
+    "id": "core_consumable_health_potion",
     "name": {
       "en-US": "Health Potion"
     },
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "id": "stamina_potion",
+    "id": "core_consumable_stamina_potion",
     "name": {
       "en-US": "Stamina Potion"
     },
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "id": "armor_stitcher",
+    "id": "core_consumable_armor_stitcher",
     "name": {
       "en-US": "Armor Stitcher"
     },
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "id": "gill_salve",
+    "id": "core_consumable_gill_salve",
     "name": {
       "en-US": "Gill Salve"
     },
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "id": "replication_parchment",
+    "id": "core_consumable_replication_parchment",
     "name": {
       "en-US": "Replication Parchment"
     },
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "id": "improved_arcane_shard",
+    "id": "core_consumable_improved_arcane_shard",
     "name": {
       "en-US": "Improved Arcane Shard"
     },
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "id": "major_stride_potion",
+    "id": "core_consumable_major_stride_potion",
     "name": {
       "en-US": "Major Stride Potion"
     },
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "id": "major_bolster_potion",
+    "id": "core_consumable_major_bolster_potion",
     "name": {
       "en-US": "Major Bolster Potion"
     },
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "id": "major_control_potion",
+    "id": "core_consumable_major_control_potion",
     "name": {
       "en-US": "Major Control Potion"
     },
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "id": "major_attune_potion",
+    "id": "core_consumable_major_attune_potion",
     "name": {
       "en-US": "Major Attune Potion"
     },
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "id": "major_charm_potion",
+    "id": "core_consumable_major_charm_potion",
     "name": {
       "en-US": "Major Charm Potion"
     },
@@ -522,7 +522,7 @@
     ]
   },
   {
-    "id": "major_enlighten_potion",
+    "id": "core_consumable_major_enlighten_potion",
     "name": {
       "en-US": "Major Enlighten Potion"
     },
@@ -540,7 +540,7 @@
     ]
   },
   {
-    "id": "blood_of_the_yorgi",
+    "id": "core_consumable_blood_of_the_yorgi",
     "name": {
       "en-US": "Blood of the Yorgi"
     },
@@ -558,7 +558,7 @@
     ]
   },
   {
-    "id": "homet_s_secret_potion",
+    "id": "core_consumable_homet_s_secret_potion",
     "name": {
       "en-US": "Homet's Secret Potion"
     },
@@ -576,7 +576,7 @@
     ]
   },
   {
-    "id": "redthorn_saliva",
+    "id": "core_consumable_redthorn_saliva",
     "name": {
       "en-US": "Redthorn Saliva"
     },
@@ -594,7 +594,7 @@
     ]
   },
   {
-    "id": "channelstone",
+    "id": "core_consumable_channelstone",
     "name": {
       "en-US": "Channelstone"
     },
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "id": "mythic_dust",
+    "id": "core_consumable_mythic_dust",
     "name": {
       "en-US": "Mythic Dust"
     },
@@ -630,7 +630,7 @@
     ]
   },
   {
-    "id": "acidpaste",
+    "id": "core_consumable_acidpaste",
     "name": {
       "en-US": "Acidpaste"
     },
@@ -648,7 +648,7 @@
     ]
   },
   {
-    "id": "hopehold_flare",
+    "id": "core_consumable_hopehold_flare",
     "name": {
       "en-US": "Hopehold Flare"
     },
@@ -666,7 +666,7 @@
     ]
   },
   {
-    "id": "major_arcane_shard",
+    "id": "core_consumable_major_arcane_shard",
     "name": {
       "en-US": "Major Arcane Shard"
     },
@@ -684,7 +684,7 @@
     ]
   },
   {
-    "id": "featherbone",
+    "id": "core_consumable_featherbone",
     "name": {
       "en-US": "Featherbone"
     },
@@ -702,7 +702,7 @@
     ]
   },
   {
-    "id": "circle_of_the_void",
+    "id": "core_consumable_circle_of_the_void",
     "name": {
       "en-US": "Circle of the Void"
     },
@@ -720,7 +720,7 @@
     ]
   },
   {
-    "id": "sun_tree_sap",
+    "id": "core_consumable_sun_tree_sap",
     "name": {
       "en-US": "Sun Tree Sap"
     },
@@ -738,7 +738,7 @@
     ]
   },
   {
-    "id": "dripfang_poison",
+    "id": "core_consumable_dripfang_poison",
     "name": {
       "en-US": "Dripfang Poison"
     },
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "id": "major_health_potion",
+    "id": "core_consumable_major_health_potion",
     "name": {
       "en-US": "Major Health Potion"
     },
@@ -774,7 +774,7 @@
     ]
   },
   {
-    "id": "major_stamina_potion",
+    "id": "core_consumable_major_stamina_potion",
     "name": {
       "en-US": "Major Stamina Potion"
     },
@@ -792,7 +792,7 @@
     ]
   },
   {
-    "id": "ogre_musk",
+    "id": "core_consumable_ogre_musk",
     "name": {
       "en-US": "Ogre Musk"
     },
@@ -810,7 +810,7 @@
     ]
   },
   {
-    "id": "wingsprout",
+    "id": "core_consumable_wingsprout",
     "name": {
       "en-US": "Wingsprout"
     },
@@ -828,7 +828,7 @@
     ]
   },
   {
-    "id": "jar_of_lost_voices",
+    "id": "core_consumable_jar_of_lost_voices",
     "name": {
       "en-US": "Jar of Lost Voices"
     },
@@ -846,7 +846,7 @@
     ]
   },
   {
-    "id": "dragonbloom_tea",
+    "id": "core_consumable_dragonbloom_tea",
     "name": {
       "en-US": "Dragonbloom Tea"
     },
@@ -864,7 +864,7 @@
     ]
   },
   {
-    "id": "bridge_seed",
+    "id": "core_consumable_bridge_seed",
     "name": {
       "en-US": "Bridge Seed"
     },
@@ -882,7 +882,7 @@
     ]
   },
   {
-    "id": "sleeping_sap",
+    "id": "core_consumable_sleeping_sap",
     "name": {
       "en-US": "Sleeping Sap"
     },
@@ -900,7 +900,7 @@
     ]
   },
   {
-    "id": "feast_of_xuria",
+    "id": "core_consumable_feast_of_xuria",
     "name": {
       "en-US": "Feast of Xuria"
     },
@@ -918,7 +918,7 @@
     ]
   },
   {
-    "id": "bonding_honey",
+    "id": "core_consumable_bonding_honey",
     "name": {
       "en-US": "Bonding Honey"
     },
@@ -936,7 +936,7 @@
     ]
   },
   {
-    "id": "shrinking_potion",
+    "id": "core_consumable_shrinking_potion",
     "name": {
       "en-US": "Shrinking Potion"
     },
@@ -954,7 +954,7 @@
     ]
   },
   {
-    "id": "growing_potion",
+    "id": "core_consumable_growing_potion",
     "name": {
       "en-US": "Growing Potion"
     },
@@ -972,7 +972,7 @@
     ]
   },
   {
-    "id": "knowledge_stone",
+    "id": "core_consumable_knowledge_stone",
     "name": {
       "en-US": "Knowledge Stone"
     },
@@ -990,7 +990,7 @@
     ]
   },
   {
-    "id": "sweet_moss",
+    "id": "core_consumable_sweet_moss",
     "name": {
       "en-US": "Sweet Moss"
     },
@@ -1008,7 +1008,7 @@
     ]
   },
   {
-    "id": "blinding_orb",
+    "id": "core_consumable_blinding_orb",
     "name": {
       "en-US": "Blinding Orb"
     },
@@ -1026,7 +1026,7 @@
     ]
   },
   {
-    "id": "death_tea",
+    "id": "core_consumable_death_tea",
     "name": {
       "en-US": "Death Tea"
     },
@@ -1044,7 +1044,7 @@
     ]
   },
   {
-    "id": "mirror_of_marigold",
+    "id": "core_consumable_mirror_of_marigold",
     "name": {
       "en-US": "Mirror of Marigold"
     },
@@ -1062,7 +1062,7 @@
     ]
   },
   {
-    "id": "stardrop",
+    "id": "core_consumable_stardrop",
     "name": {
       "en-US": "Stardrop"
     },

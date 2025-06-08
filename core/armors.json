@@ -1,6 +1,6 @@
 [
   {
-    "id": "gambeson_armor",
+    "id": "core_armor_gambeson_armor",
     "name": {
       "en-US": "Gambeson Armor"
     },
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "id": "leather_armor",
+    "id": "core_armor_leather_armor",
     "name": {
       "en-US": "Leather Armor"
     },
@@ -35,7 +35,7 @@
     "baseScore": 3
   },
   {
-    "id": "chainmail_armor",
+    "id": "core_armor_chainmail_armor",
     "name": {
       "en-US": "Chainmail Armor"
     },
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "id": "full_plate_armor",
+    "id": "core_armor_full_plate_armor",
     "name": {
       "en-US": "Full Plate Armor"
     },
@@ -85,7 +85,7 @@
     ]
   },
   {
-    "id": "improved_gambeson_armor",
+    "id": "core_armor_improved_gambeson_armor",
     "name": {
       "en-US": "Improved Gambeson Armor"
     },
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "id": "improved_leather_armor",
+    "id": "core_armor_improved_leather_armor",
     "name": {
       "en-US": "Improved Leather Armor"
     },
@@ -120,7 +120,7 @@
     "baseScore": 4
   },
   {
-    "id": "improved_chainmail_armor",
+    "id": "core_armor_improved_chainmail_armor",
     "name": {
       "en-US": "Improved Chainmail Armor"
     },
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "id": "improved_full_plate_armor",
+    "id": "core_armor_improved_full_plate_armor",
     "name": {
       "en-US": "Improved Full Plate Armor"
     },
@@ -170,7 +170,7 @@
     ]
   },
   {
-    "id": "elundrian_chain_armor",
+    "id": "core_armor_elundrian_chain_armor",
     "name": {
       "en-US": "Elundrian Chain Armor"
     },
@@ -195,7 +195,7 @@
     ]
   },
   {
-    "id": "harrowbone_armor",
+    "id": "core_armor_harrowbone_armor",
     "name": {
       "en-US": "Harrowbone Armor"
     },
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "id": "irontree_breastplate_armor",
+    "id": "core_armor_irontree_breastplate_armor",
     "name": {
       "en-US": "Irontree Breastplate Armor"
     },
@@ -245,7 +245,7 @@
     ]
   },
   {
-    "id": "runetan_floating_armor",
+    "id": "core_armor_runetan_floating_armor",
     "name": {
       "en-US": "Runetan Floating Armor"
     },
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "id": "tyris_soft_armor",
+    "id": "core_armor_tyris_soft_armor",
     "name": {
       "en-US": "Tyris Soft Armor"
     },
@@ -295,7 +295,7 @@
     ]
   },
   {
-    "id": "rosewild_armor",
+    "id": "core_armor_rosewild_armor",
     "name": {
       "en-US": "Rosewild Armor"
     },
@@ -320,7 +320,7 @@
     ]
   },
   {
-    "id": "advanced_gambeson_armor",
+    "id": "core_armor_advanced_gambeson_armor",
     "name": {
       "en-US": "Advanced Gambeson Armor"
     },
@@ -345,7 +345,7 @@
     ]
   },
   {
-    "id": "advanced_leather_armor",
+    "id": "core_armor_advanced_leather_armor",
     "name": {
       "en-US": "Advanced Leather Armor"
     },
@@ -355,7 +355,7 @@
     "baseScore": 5
   },
   {
-    "id": "advanced_chainmail_armor",
+    "id": "core_armor_advanced_chainmail_armor",
     "name": {
       "en-US": "Advanced Chainmail Armor"
     },
@@ -380,7 +380,7 @@
     ]
   },
   {
-    "id": "advanced_full_plate_armor",
+    "id": "core_armor_advanced_full_plate_armor",
     "name": {
       "en-US": "Advanced Full Plate Armor"
     },
@@ -405,7 +405,7 @@
     ]
   },
   {
-    "id": "bellamoi_fine_armor",
+    "id": "core_armor_bellamoi_fine_armor",
     "name": {
       "en-US": "Bellamoi Fine Armor"
     },
@@ -430,7 +430,7 @@
     ]
   },
   {
-    "id": "dragonscale_armor",
+    "id": "core_armor_dragonscale_armor",
     "name": {
       "en-US": "Dragonscale Armor"
     },
@@ -455,7 +455,7 @@
     ]
   },
   {
-    "id": "spiked_plate_armor",
+    "id": "core_armor_spiked_plate_armor",
     "name": {
       "en-US": "Spiked Plate Armor"
     },
@@ -480,7 +480,7 @@
     ]
   },
   {
-    "id": "bladefare_armor",
+    "id": "core_armor_bladefare_armor",
     "name": {
       "en-US": "Bladefare Armor"
     },
@@ -505,7 +505,7 @@
     ]
   },
   {
-    "id": "monetts_cloak",
+    "id": "core_armor_monetts_cloak",
     "name": {
       "en-US": "Monett's Cloak"
     },
@@ -530,7 +530,7 @@
     ]
   },
   {
-    "id": "runes_of_fortification",
+    "id": "core_armor_runes_of_fortification",
     "name": {
       "en-US": "Runes of Fortification"
     },
@@ -555,7 +555,7 @@
     ]
   },
   {
-    "id": "legendary_gambeson_armor",
+    "id": "core_armor_legendary_gambeson_armor",
     "name": {
       "en-US": "Legendary Gambeson Armor"
     },
@@ -580,7 +580,7 @@
     ]
   },
   {
-    "id": "legendary_leather_armor",
+    "id": "core_armor_legendary_leather_armor",
     "name": {
       "en-US": "Legendary Leather Armor"
     },
@@ -590,7 +590,7 @@
     "baseScore": 6
   },
   {
-    "id": "legendary_chainmail_armor",
+    "id": "core_armor_legendary_chainmail_armor",
     "name": {
       "en-US": "Legendary Chainmail Armor"
     },
@@ -615,7 +615,7 @@
     ]
   },
   {
-    "id": "legendary_full_plate_armor",
+    "id": "core_armor_legendary_full_plate_armor",
     "name": {
       "en-US": "Legendary Full Plate Armor"
     },
@@ -640,7 +640,7 @@
     ]
   },
   {
-    "id": "dunamis_silkchain",
+    "id": "core_armor_dunamis_silkchain",
     "name": {
       "en-US": "Dunamis Silkchain"
     },
@@ -665,7 +665,7 @@
     ]
   },
   {
-    "id": "channeling_armor",
+    "id": "core_armor_channeling_armor",
     "name": {
       "en-US": "Channeling Armor"
     },
@@ -690,7 +690,7 @@
     ]
   },
   {
-    "id": "emberwoven_armor",
+    "id": "core_armor_emberwoven_armor",
     "name": {
       "en-US": "Emberwoven Armor"
     },
@@ -715,7 +715,7 @@
     ]
   },
   {
-    "id": "full_fortified_armor",
+    "id": "core_armor_full_fortified_armor",
     "name": {
       "en-US": "Full Fortified Armor"
     },
@@ -740,7 +740,7 @@
     ]
   },
   {
-    "id": "veritas_opal_armor",
+    "id": "core_armor_veritas_opal_armor",
     "name": {
       "en-US": "Veritas Opal Armor"
     },
@@ -765,7 +765,7 @@
     ]
   },
   {
-    "id": "savior_chainmail",
+    "id": "core_armor_savior_chainmail",
     "name": {
       "en-US": "Savior Chainmail"
     },

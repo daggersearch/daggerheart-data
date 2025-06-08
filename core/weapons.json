@@ -1,6 +1,6 @@
 [
   {
-    "id": "broadsword",
+    "id": "core_weapon_broadsword",
     "name": {
       "en-US": "Broadsword"
     },
@@ -30,7 +30,7 @@
     ]
   },
   {
-    "id": "longsword",
+    "id": "core_weapon_longsword",
     "name": {
       "en-US": "Longsword"
     },
@@ -46,7 +46,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "battleaxe",
+    "id": "core_weapon_battleaxe",
     "name": {
       "en-US": "Battleaxe"
     },
@@ -62,7 +62,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "greatsword",
+    "id": "core_weapon_greatsword",
     "name": {
       "en-US": "Greatsword"
     },
@@ -93,7 +93,7 @@
     ]
   },
   {
-    "id": "mace",
+    "id": "core_weapon_mace",
     "name": {
       "en-US": "Mace"
     },
@@ -109,7 +109,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "warhammer",
+    "id": "core_weapon_warhammer",
     "name": {
       "en-US": "Warhammer"
     },
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "id": "dagger",
+    "id": "core_weapon_dagger",
     "name": {
       "en-US": "Dagger"
     },
@@ -156,7 +156,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "quarterstaff",
+    "id": "core_weapon_quarterstaff",
     "name": {
       "en-US": "Quarterstaff"
     },
@@ -172,7 +172,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "cutlass",
+    "id": "core_weapon_cutlass",
     "name": {
       "en-US": "Cutlass"
     },
@@ -188,7 +188,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "rapier",
+    "id": "core_weapon_rapier",
     "name": {
       "en-US": "Rapier"
     },
@@ -218,7 +218,7 @@
     ]
   },
   {
-    "id": "halberd",
+    "id": "core_weapon_halberd",
     "name": {
       "en-US": "Halberd"
     },
@@ -249,7 +249,7 @@
     ]
   },
   {
-    "id": "spear",
+    "id": "core_weapon_spear",
     "name": {
       "en-US": "Spear"
     },
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "id": "shortbow",
+    "id": "core_weapon_shortbow",
     "name": {
       "en-US": "Shortbow"
     },
@@ -296,7 +296,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "crossbow",
+    "id": "core_weapon_crossbow",
     "name": {
       "en-US": "Crossbow"
     },
@@ -312,7 +312,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "longbow",
+    "id": "core_weapon_longbow",
     "name": {
       "en-US": "Longbow"
     },
@@ -343,7 +343,7 @@
     ]
   },
   {
-    "id": "arcane_gauntlets",
+    "id": "core_weapon_arcane_gauntlets",
     "name": {
       "en-US": "Arcane Gauntlets"
     },
@@ -359,7 +359,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "hallowed_axe",
+    "id": "core_weapon_hallowed_axe",
     "name": {
       "en-US": "Hallowed Axe"
     },
@@ -375,7 +375,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "glowing_rings",
+    "id": "core_weapon_glowing_rings",
     "name": {
       "en-US": "Glowing Rings"
     },
@@ -391,7 +391,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "hand_runes",
+    "id": "core_weapon_hand_runes",
     "name": {
       "en-US": "Hand Runes"
     },
@@ -406,7 +406,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "returning_blade",
+    "id": "core_weapon_returning_blade",
     "name": {
       "en-US": "Returning Blade"
     },
@@ -436,7 +436,7 @@
     ]
   },
   {
-    "id": "shortstaff",
+    "id": "core_weapon_shortstaff",
     "name": {
       "en-US": "Shortstaff"
     },
@@ -452,7 +452,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "dualstaff",
+    "id": "core_weapon_dualstaff",
     "name": {
       "en-US": "Dualstaff"
     },
@@ -468,7 +468,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "scepter",
+    "id": "core_weapon_scepter",
     "name": {
       "en-US": "Scepter"
     },
@@ -498,7 +498,7 @@
     ]
   },
   {
-    "id": "wand",
+    "id": "core_weapon_wand",
     "name": {
       "en-US": "Wand"
     },
@@ -514,7 +514,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "greatstaff",
+    "id": "core_weapon_greatstaff",
     "name": {
       "en-US": "Greatstaff"
     },
@@ -544,7 +544,7 @@
     ]
   },
   {
-    "id": "improved_broadsword",
+    "id": "core_weapon_improved_broadsword",
     "name": {
       "en-US": "Improved Broadsword"
     },
@@ -560,7 +560,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "improved_longsword",
+    "id": "core_weapon_improved_longsword",
     "name": {
       "en-US": "Improved Longsword"
     },
@@ -576,7 +576,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "improved_battleaxe",
+    "id": "core_weapon_improved_battleaxe",
     "name": {
       "en-US": "Improved Battleaxe"
     },
@@ -592,7 +592,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "improved_greatsword",
+    "id": "core_weapon_improved_greatsword",
     "name": {
       "en-US": "Improved Greatsword"
     },
@@ -623,7 +623,7 @@
     ]
   },
   {
-    "id": "improved_mace",
+    "id": "core_weapon_improved_mace",
     "name": {
       "en-US": "Improved Mace"
     },
@@ -639,7 +639,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "improved_warhammer",
+    "id": "core_weapon_improved_warhammer",
     "name": {
       "en-US": "Improved Warhammer"
     },
@@ -670,7 +670,7 @@
     ]
   },
   {
-    "id": "improved_dagger",
+    "id": "core_weapon_improved_dagger",
     "name": {
       "en-US": "Improved Dagger"
     },
@@ -686,7 +686,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "improved_quarterstaff",
+    "id": "core_weapon_improved_quarterstaff",
     "name": {
       "en-US": "Improved Quarterstaff"
     },
@@ -702,7 +702,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "improved_cutlass",
+    "id": "core_weapon_improved_cutlass",
     "name": {
       "en-US": "Improved Cutlass"
     },
@@ -718,7 +718,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "improved_rapier",
+    "id": "core_weapon_improved_rapier",
     "name": {
       "en-US": "Improved Rapier"
     },
@@ -749,7 +749,7 @@
     ]
   },
   {
-    "id": "improved_halberd",
+    "id": "core_weapon_improved_halberd",
     "name": {
       "en-US": "Improved Halberd"
     },
@@ -780,7 +780,7 @@
     ]
   },
   {
-    "id": "improved_spear",
+    "id": "core_weapon_improved_spear",
     "name": {
       "en-US": "Improved Spear"
     },
@@ -811,7 +811,7 @@
     ]
   },
   {
-    "id": "improved_shortbow",
+    "id": "core_weapon_improved_shortbow",
     "name": {
       "en-US": "Improved Shortbow"
     },
@@ -827,7 +827,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "improved_crossbow",
+    "id": "core_weapon_improved_crossbow",
     "name": {
       "en-US": "Improved Crossbow"
     },
@@ -843,7 +843,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "improved_longbow",
+    "id": "core_weapon_improved_longbow",
     "name": {
       "en-US": "Improved Longbow"
     },
@@ -874,7 +874,7 @@
     ]
   },
   {
-    "id": "gilded_falchion",
+    "id": "core_weapon_gilded_falchion",
     "name": {
       "en-US": "Gilded Falchion"
     },
@@ -905,7 +905,7 @@
     ]
   },
   {
-    "id": "knuckle_blades",
+    "id": "core_weapon_knuckle_blades",
     "name": {
       "en-US": "Knuckle Blades"
     },
@@ -936,7 +936,7 @@
     ]
   },
   {
-    "id": "urok_broadsword",
+    "id": "core_weapon_urok_broadsword",
     "name": {
       "en-US": "Urok Broadsword"
     },
@@ -967,7 +967,7 @@
     ]
   },
   {
-    "id": "bladed_whip",
+    "id": "core_weapon_bladed_whip",
     "name": {
       "en-US": "Bladed Whip"
     },
@@ -998,7 +998,7 @@
     ]
   },
   {
-    "id": "steelforged_halberd",
+    "id": "core_weapon_steelforged_halberd",
     "name": {
       "en-US": "Steelforged Halberd"
     },
@@ -1029,7 +1029,7 @@
     ]
   },
   {
-    "id": "war_scythe",
+    "id": "core_weapon_war_scythe",
     "name": {
       "en-US": "War Scythe"
     },
@@ -1060,7 +1060,7 @@
     ]
   },
   {
-    "id": "blunderbuss",
+    "id": "core_weapon_blunderbuss",
     "name": {
       "en-US": "Blunderbuss"
     },
@@ -1091,7 +1091,7 @@
     ]
   },
   {
-    "id": "greatbow",
+    "id": "core_weapon_greatbow",
     "name": {
       "en-US": "Greatbow"
     },
@@ -1122,7 +1122,7 @@
     ]
   },
   {
-    "id": "finehair_bow",
+    "id": "core_weapon_finehair_bow",
     "name": {
       "en-US": "Finehair Bow"
     },
@@ -1153,7 +1153,7 @@
     ]
   },
   {
-    "id": "improved_arcane_gauntlets",
+    "id": "core_weapon_improved_arcane_gauntlets",
     "name": {
       "en-US": "Improved Arcane Gauntlets"
     },
@@ -1169,7 +1169,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "improved_hallowed_axe",
+    "id": "core_weapon_improved_hallowed_axe",
     "name": {
       "en-US": "Improved Hallowed Axe"
     },
@@ -1185,7 +1185,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "improved_glowing_rings",
+    "id": "core_weapon_improved_glowing_rings",
     "name": {
       "en-US": "Improved Glowing Rings"
     },
@@ -1201,7 +1201,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "improved_hand_runes",
+    "id": "core_weapon_improved_hand_runes",
     "name": {
       "en-US": "Improved Hand Runes"
     },
@@ -1217,7 +1217,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "improved_returning_blade",
+    "id": "core_weapon_improved_returning_blade",
     "name": {
       "en-US": "Improved Returning Blade"
     },
@@ -1248,7 +1248,7 @@
     ]
   },
   {
-    "id": "improved_shortstaff",
+    "id": "core_weapon_improved_shortstaff",
     "name": {
       "en-US": "Improved Shortstaff"
     },
@@ -1264,7 +1264,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "improved_dualstaff",
+    "id": "core_weapon_improved_dualstaff",
     "name": {
       "en-US": "Improved Dualstaff"
     },
@@ -1280,7 +1280,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "improved_scepter",
+    "id": "core_weapon_improved_scepter",
     "name": {
       "en-US": "Improved Scepter"
     },
@@ -1311,7 +1311,7 @@
     ]
   },
   {
-    "id": "improved_wand",
+    "id": "core_weapon_improved_wand",
     "name": {
       "en-US": "Improved Wand"
     },
@@ -1327,7 +1327,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "improved_greatstaff",
+    "id": "core_weapon_improved_greatstaff",
     "name": {
       "en-US": "Improved Greatstaff"
     },
@@ -1358,7 +1358,7 @@
     ]
   },
   {
-    "id": "ego_blade",
+    "id": "core_weapon_ego_blade",
     "name": {
       "en-US": "Ego Blade"
     },
@@ -1389,7 +1389,7 @@
     ]
   },
   {
-    "id": "casting_sword",
+    "id": "core_weapon_casting_sword",
     "name": {
       "en-US": "Casting Sword"
     },
@@ -1420,7 +1420,7 @@
     ]
   },
   {
-    "id": "devouring_dagger",
+    "id": "core_weapon_devouring_dagger",
     "name": {
       "en-US": "Devouring Dagger"
     },
@@ -1451,7 +1451,7 @@
     ]
   },
   {
-    "id": "hammer_of_exota",
+    "id": "core_weapon_hammer_of_exota",
     "name": {
       "en-US": "Hammer of Exota"
     },
@@ -1482,7 +1482,7 @@
     ]
   },
   {
-    "id": "yutari_bloodbow",
+    "id": "core_weapon_yutari_bloodbow",
     "name": {
       "en-US": "Yutari Bloodbow"
     },
@@ -1513,7 +1513,7 @@
     ]
   },
   {
-    "id": "elder_bow",
+    "id": "core_weapon_elder_bow",
     "name": {
       "en-US": "Elder Bow"
     },
@@ -1544,7 +1544,7 @@
     ]
   },
   {
-    "id": "scepter_of_elias",
+    "id": "core_weapon_scepter_of_elias",
     "name": {
       "en-US": "Scepter of Elias"
     },
@@ -1575,7 +1575,7 @@
     ]
   },
   {
-    "id": "wand_of_enthrallment",
+    "id": "core_weapon_wand_of_enthrallment",
     "name": {
       "en-US": "Wand of Enthrallment"
     },
@@ -1606,7 +1606,7 @@
     ]
   },
   {
-    "id": "keeper_s_staff",
+    "id": "core_weapon_keeper_s_staff",
     "name": {
       "en-US": "Keeper's Staff"
     },
@@ -1637,7 +1637,7 @@
     ]
   },
   {
-    "id": "advanced_broadsword",
+    "id": "core_weapon_advanced_broadsword",
     "name": {
       "en-US": "Advanced Broadsword"
     },
@@ -1668,7 +1668,7 @@
     ]
   },
   {
-    "id": "advanced_longsword",
+    "id": "core_weapon_advanced_longsword",
     "name": {
       "en-US": "Advanced Longsword"
     },
@@ -1684,7 +1684,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "advanced_battleaxe",
+    "id": "core_weapon_advanced_battleaxe",
     "name": {
       "en-US": "Advanced Battleaxe"
     },
@@ -1700,7 +1700,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "advanced_greatsword",
+    "id": "core_weapon_advanced_greatsword",
     "name": {
       "en-US": "Advanced Greatsword"
     },
@@ -1731,7 +1731,7 @@
     ]
   },
   {
-    "id": "advanced_mace",
+    "id": "core_weapon_advanced_mace",
     "name": {
       "en-US": "Advanced Mace"
     },
@@ -1747,7 +1747,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "advanced_warhammer",
+    "id": "core_weapon_advanced_warhammer",
     "name": {
       "en-US": "Advanced Warhammer"
     },
@@ -1778,7 +1778,7 @@
     ]
   },
   {
-    "id": "advanced_dagger",
+    "id": "core_weapon_advanced_dagger",
     "name": {
       "en-US": "Advanced Dagger"
     },
@@ -1794,7 +1794,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "advanced_quarterstaff",
+    "id": "core_weapon_advanced_quarterstaff",
     "name": {
       "en-US": "Advanced Quarterstaff"
     },
@@ -1810,7 +1810,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "advanced_cutlass",
+    "id": "core_weapon_advanced_cutlass",
     "name": {
       "en-US": "Advanced Cutlass"
     },
@@ -1826,7 +1826,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "advanced_rapier",
+    "id": "core_weapon_advanced_rapier",
     "name": {
       "en-US": "Advanced Rapier"
     },
@@ -1857,7 +1857,7 @@
     ]
   },
   {
-    "id": "advanced_halberd",
+    "id": "core_weapon_advanced_halberd",
     "name": {
       "en-US": "Advanced Halberd"
     },
@@ -1888,7 +1888,7 @@
     ]
   },
   {
-    "id": "advanced_spear",
+    "id": "core_weapon_advanced_spear",
     "name": {
       "en-US": "Advanced Spear"
     },
@@ -1919,7 +1919,7 @@
     ]
   },
   {
-    "id": "advanced_shortbow",
+    "id": "core_weapon_advanced_shortbow",
     "name": {
       "en-US": "Advanced Shortbow"
     },
@@ -1935,7 +1935,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "advanced_crossbow",
+    "id": "core_weapon_advanced_crossbow",
     "name": {
       "en-US": "Advanced Crossbow"
     },
@@ -1951,7 +1951,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "advanced_longbow",
+    "id": "core_weapon_advanced_longbow",
     "name": {
       "en-US": "Advanced Longbow"
     },
@@ -1982,7 +1982,7 @@
     ]
   },
   {
-    "id": "flickerfly_blade",
+    "id": "core_weapon_flickerfly_blade",
     "name": {
       "en-US": "Flickerfly Blade"
     },
@@ -2013,7 +2013,7 @@
     ]
   },
   {
-    "id": "bravesword",
+    "id": "core_weapon_bravesword",
     "name": {
       "en-US": "Bravesword"
     },
@@ -2044,7 +2044,7 @@
     ]
   },
   {
-    "id": "hammer_of_wrath",
+    "id": "core_weapon_hammer_of_wrath",
     "name": {
       "en-US": "Hammer of Wrath"
     },
@@ -2075,7 +2075,7 @@
     ]
   },
   {
-    "id": "labrys_axe",
+    "id": "core_weapon_labrys_axe",
     "name": {
       "en-US": "Labrys Axe"
     },
@@ -2106,7 +2106,7 @@
     ]
   },
   {
-    "id": "meridian_cutlass",
+    "id": "core_weapon_meridian_cutlass",
     "name": {
       "en-US": "Meridian Cutlass"
     },
@@ -2137,7 +2137,7 @@
     ]
   },
   {
-    "id": "retractable_saber",
+    "id": "core_weapon_retractable_saber",
     "name": {
       "en-US": "Retractable Saber"
     },
@@ -2168,7 +2168,7 @@
     ]
   },
   {
-    "id": "double_flail",
+    "id": "core_weapon_double_flail",
     "name": {
       "en-US": "Double Flail"
     },
@@ -2199,7 +2199,7 @@
     ]
   },
   {
-    "id": "talon_blades",
+    "id": "core_weapon_talon_blades",
     "name": {
       "en-US": "Talon Blades"
     },
@@ -2230,7 +2230,7 @@
     ]
   },
   {
-    "id": "black_powder_revolver",
+    "id": "core_weapon_black_powder_revolver",
     "name": {
       "en-US": "Black Powder Revolver"
     },
@@ -2261,7 +2261,7 @@
     ]
   },
   {
-    "id": "spiked_bow",
+    "id": "core_weapon_spiked_bow",
     "name": {
       "en-US": "Spiked Bow"
     },
@@ -2292,7 +2292,7 @@
     ]
   },
   {
-    "id": "legendary_broadsword",
+    "id": "core_weapon_legendary_broadsword",
     "name": {
       "en-US": "Legendary Broadsword"
     },
@@ -2323,7 +2323,7 @@
     ]
   },
   {
-    "id": "legendary_longsword",
+    "id": "core_weapon_legendary_longsword",
     "name": {
       "en-US": "Legendary Longsword"
     },
@@ -2339,7 +2339,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "legendary_battleaxe",
+    "id": "core_weapon_legendary_battleaxe",
     "name": {
       "en-US": "Legendary Battleaxe"
     },
@@ -2355,7 +2355,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "legendary_greatsword",
+    "id": "core_weapon_legendary_greatsword",
     "name": {
       "en-US": "Legendary Greatsword"
     },
@@ -2386,7 +2386,7 @@
     ]
   },
   {
-    "id": "legendary_mace",
+    "id": "core_weapon_legendary_mace",
     "name": {
       "en-US": "Legendary Mace"
     },
@@ -2402,7 +2402,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "legendary_warhammer",
+    "id": "core_weapon_legendary_warhammer",
     "name": {
       "en-US": "Legendary Warhammer"
     },
@@ -2433,7 +2433,7 @@
     ]
   },
   {
-    "id": "legendary_dagger",
+    "id": "core_weapon_legendary_dagger",
     "name": {
       "en-US": "Legendary Dagger"
     },
@@ -2449,7 +2449,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "legendary_quarterstaff",
+    "id": "core_weapon_legendary_quarterstaff",
     "name": {
       "en-US": "Legendary Quarterstaff"
     },
@@ -2465,7 +2465,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "legendary_cutlass",
+    "id": "core_weapon_legendary_cutlass",
     "name": {
       "en-US": "Legendary Cutlass"
     },
@@ -2481,7 +2481,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "legendary_rapier",
+    "id": "core_weapon_legendary_rapier",
     "name": {
       "en-US": "Legendary Rapier"
     },
@@ -2512,7 +2512,7 @@
     ]
   },
   {
-    "id": "legendary_halberd",
+    "id": "core_weapon_legendary_halberd",
     "name": {
       "en-US": "Legendary Halberd"
     },
@@ -2543,7 +2543,7 @@
     ]
   },
   {
-    "id": "legendary_spear",
+    "id": "core_weapon_legendary_spear",
     "name": {
       "en-US": "Legendary Spear"
     },
@@ -2574,7 +2574,7 @@
     ]
   },
   {
-    "id": "legendary_shortbow",
+    "id": "core_weapon_legendary_shortbow",
     "name": {
       "en-US": "Legendary Shortbow"
     },
@@ -2590,7 +2590,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "legendary_crossbow",
+    "id": "core_weapon_legendary_crossbow",
     "name": {
       "en-US": "Legendary Crossbow"
     },
@@ -2606,7 +2606,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "legendary_longbow",
+    "id": "core_weapon_legendary_longbow",
     "name": {
       "en-US": "Legendary Longbow"
     },
@@ -2637,7 +2637,7 @@
     ]
   },
   {
-    "id": "dual_ended_sword",
+    "id": "core_weapon_dual_ended_sword",
     "name": {
       "en-US": "Dual-Ended Sword"
     },
@@ -2668,7 +2668,7 @@
     ]
   },
   {
-    "id": "impact_gauntlet",
+    "id": "core_weapon_impact_gauntlet",
     "name": {
       "en-US": "Impact Gauntlet"
     },
@@ -2699,7 +2699,7 @@
     ]
   },
   {
-    "id": "sledge_axe",
+    "id": "core_weapon_sledge_axe",
     "name": {
       "en-US": "Sledge Axe"
     },
@@ -2730,7 +2730,7 @@
     ]
   },
   {
-    "id": "curved_dagger",
+    "id": "core_weapon_curved_dagger",
     "name": {
       "en-US": "Curved Dagger"
     },
@@ -2761,7 +2761,7 @@
     ]
   },
   {
-    "id": "extended_polearm",
+    "id": "core_weapon_extended_polearm",
     "name": {
       "en-US": "Extended Polearm"
     },
@@ -2792,7 +2792,7 @@
     ]
   },
   {
-    "id": "swinging_ropeblade",
+    "id": "core_weapon_swinging_ropeblade",
     "name": {
       "en-US": "Swinging Ropeblade"
     },
@@ -2823,7 +2823,7 @@
     ]
   },
   {
-    "id": "ricochet_axes",
+    "id": "core_weapon_ricochet_axes",
     "name": {
       "en-US": "Ricochet Axes"
     },
@@ -2854,7 +2854,7 @@
     ]
   },
   {
-    "id": "aantari_bow",
+    "id": "core_weapon_aantari_bow",
     "name": {
       "en-US": "Aantari Bow"
     },
@@ -2885,7 +2885,7 @@
     ]
   },
   {
-    "id": "hand_cannon",
+    "id": "core_weapon_hand_cannon",
     "name": {
       "en-US": "Hand Cannon"
     },
@@ -2916,7 +2916,7 @@
     ]
   },
   {
-    "id": "legendary_arcane_gauntlets",
+    "id": "core_weapon_legendary_arcane_gauntlets",
     "name": {
       "en-US": "Legendary Arcane Gauntlets"
     },
@@ -2932,7 +2932,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "legendary_hallowed_axe",
+    "id": "core_weapon_legendary_hallowed_axe",
     "name": {
       "en-US": "Legendary Hallowed Axe"
     },
@@ -2948,7 +2948,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "legendary_glowing_rings",
+    "id": "core_weapon_legendary_glowing_rings",
     "name": {
       "en-US": "Legendary Glowing Rings"
     },
@@ -2964,7 +2964,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "legendary_hand_runes",
+    "id": "core_weapon_legendary_hand_runes",
     "name": {
       "en-US": "Legendary Hand Runes"
     },
@@ -2980,7 +2980,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "legendary_returning_blade",
+    "id": "core_weapon_legendary_returning_blade",
     "name": {
       "en-US": "Legendary Returning Blade"
     },
@@ -3011,7 +3011,7 @@
     ]
   },
   {
-    "id": "legendary_shortstaff",
+    "id": "core_weapon_legendary_shortstaff",
     "name": {
       "en-US": "Legendary Shortstaff"
     },
@@ -3027,7 +3027,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "legendary_dualstaff",
+    "id": "core_weapon_legendary_dualstaff",
     "name": {
       "en-US": "Legendary Dualstaff"
     },
@@ -3043,7 +3043,7 @@
     "burden": "TWO_HANDED"
   },
   {
-    "id": "legendary_scepter",
+    "id": "core_weapon_legendary_scepter",
     "name": {
       "en-US": "Legendary Scepter"
     },
@@ -3074,7 +3074,7 @@
     ]
   },
   {
-    "id": "legendary_wand",
+    "id": "core_weapon_legendary_wand",
     "name": {
       "en-US": "Legendary Wand"
     },
@@ -3090,7 +3090,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "legendary_greatstaff",
+    "id": "core_weapon_legendary_greatstaff",
     "name": {
       "en-US": "Legendary Greatstaff"
     },
@@ -3121,7 +3121,7 @@
     ]
   },
   {
-    "id": "sword_of_light_flame",
+    "id": "core_weapon_sword_of_light_flame",
     "name": {
       "en-US": "Sword of Light & Flame"
     },
@@ -3152,7 +3152,7 @@
     ]
   },
   {
-    "id": "siphoning_gauntlets",
+    "id": "core_weapon_siphoning_gauntlets",
     "name": {
       "en-US": "Siphoning Gauntlets"
     },
@@ -3183,7 +3183,7 @@
     ]
   },
   {
-    "id": "midas_scythe",
+    "id": "core_weapon_midas_scythe",
     "name": {
       "en-US": "Midas Scythe"
     },
@@ -3214,7 +3214,7 @@
     ]
   },
   {
-    "id": "floating_bladeshards",
+    "id": "core_weapon_floating_bladeshards",
     "name": {
       "en-US": "Floating Bladeshards"
     },
@@ -3245,7 +3245,7 @@
     ]
   },
   {
-    "id": "bloodstaff",
+    "id": "core_weapon_bloodstaff",
     "name": {
       "en-US": "Bloodstaff"
     },
@@ -3276,7 +3276,7 @@
     ]
   },
   {
-    "id": "thistlebow",
+    "id": "core_weapon_thistlebow",
     "name": {
       "en-US": "Thistlebow"
     },
@@ -3307,7 +3307,7 @@
     ]
   },
   {
-    "id": "wand_of_essek",
+    "id": "core_weapon_wand_of_essek",
     "name": {
       "en-US": "Wand of Essek"
     },
@@ -3338,7 +3338,7 @@
     ]
   },
   {
-    "id": "magus_revolver",
+    "id": "core_weapon_magus_revolver",
     "name": {
       "en-US": "Magus Revolver"
     },
@@ -3369,7 +3369,7 @@
     ]
   },
   {
-    "id": "fusion_gloves",
+    "id": "core_weapon_fusion_gloves",
     "name": {
       "en-US": "Fusion Gloves"
     },
@@ -3400,7 +3400,7 @@
     ]
   },
   {
-    "id": "shortsword",
+    "id": "core_weapon_shortsword",
     "name": {
       "en-US": "Shortsword"
     },
@@ -3430,7 +3430,7 @@
     ]
   },
   {
-    "id": "round_shield",
+    "id": "core_weapon_round_shield",
     "name": {
       "en-US": "Round Shield"
     },
@@ -3460,7 +3460,7 @@
     ]
   },
   {
-    "id": "tower_shield",
+    "id": "core_weapon_tower_shield",
     "name": {
       "en-US": "Tower Shield"
     },
@@ -3490,7 +3490,7 @@
     ]
   },
   {
-    "id": "small_dagger",
+    "id": "core_weapon_small_dagger",
     "name": {
       "en-US": "Small Dagger"
     },
@@ -3520,7 +3520,7 @@
     ]
   },
   {
-    "id": "whip",
+    "id": "core_weapon_whip",
     "name": {
       "en-US": "Whip"
     },
@@ -3550,7 +3550,7 @@
     ]
   },
   {
-    "id": "grappler",
+    "id": "core_weapon_grappler",
     "name": {
       "en-US": "Grappler"
     },
@@ -3580,7 +3580,7 @@
     ]
   },
   {
-    "id": "hand_crossbow",
+    "id": "core_weapon_hand_crossbow",
     "name": {
       "en-US": "Hand Crossbow"
     },
@@ -3596,7 +3596,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "improved_shortsword",
+    "id": "core_weapon_improved_shortsword",
     "name": {
       "en-US": "Improved Shortsword"
     },
@@ -3627,7 +3627,7 @@
     ]
   },
   {
-    "id": "improved_round_shield",
+    "id": "core_weapon_improved_round_shield",
     "name": {
       "en-US": "Improved Round Shield"
     },
@@ -3658,7 +3658,7 @@
     ]
   },
   {
-    "id": "improved_tower_shield",
+    "id": "core_weapon_improved_tower_shield",
     "name": {
       "en-US": "Improved Tower Shield"
     },
@@ -3689,7 +3689,7 @@
     ]
   },
   {
-    "id": "improved_small_dagger",
+    "id": "core_weapon_improved_small_dagger",
     "name": {
       "en-US": "Improved Small Dagger"
     },
@@ -3720,7 +3720,7 @@
     ]
   },
   {
-    "id": "improved_whip",
+    "id": "core_weapon_improved_whip",
     "name": {
       "en-US": "Improved Whip"
     },
@@ -3751,7 +3751,7 @@
     ]
   },
   {
-    "id": "improved_grappler",
+    "id": "core_weapon_improved_grappler",
     "name": {
       "en-US": "Improved Grappler"
     },
@@ -3782,7 +3782,7 @@
     ]
   },
   {
-    "id": "improved_hand_crossbow",
+    "id": "core_weapon_improved_hand_crossbow",
     "name": {
       "en-US": "Improved Hand Crossbow"
     },
@@ -3798,7 +3798,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "spiked_shield",
+    "id": "core_weapon_spiked_shield",
     "name": {
       "en-US": "Spiked Shield"
     },
@@ -3829,7 +3829,7 @@
     ]
   },
   {
-    "id": "parrying_dagger",
+    "id": "core_weapon_parrying_dagger",
     "name": {
       "en-US": "Parrying Dagger"
     },
@@ -3860,7 +3860,7 @@
     ]
   },
   {
-    "id": "returning_axe",
+    "id": "core_weapon_returning_axe",
     "name": {
       "en-US": "Returning Axe"
     },
@@ -3891,7 +3891,7 @@
     ]
   },
   {
-    "id": "advanced_shortsword",
+    "id": "core_weapon_advanced_shortsword",
     "name": {
       "en-US": "Advanced Shortsword"
     },
@@ -3922,7 +3922,7 @@
     ]
   },
   {
-    "id": "advanced_round_shield",
+    "id": "core_weapon_advanced_round_shield",
     "name": {
       "en-US": "Advanced Round Shield"
     },
@@ -3953,7 +3953,7 @@
     ]
   },
   {
-    "id": "advanced_tower_shield",
+    "id": "core_weapon_advanced_tower_shield",
     "name": {
       "en-US": "Advanced Tower Shield"
     },
@@ -3984,7 +3984,7 @@
     ]
   },
   {
-    "id": "advanced_small_dagger",
+    "id": "core_weapon_advanced_small_dagger",
     "name": {
       "en-US": "Advanced Small Dagger"
     },
@@ -4015,7 +4015,7 @@
     ]
   },
   {
-    "id": "advanced_whip",
+    "id": "core_weapon_advanced_whip",
     "name": {
       "en-US": "Advanced Whip"
     },
@@ -4046,7 +4046,7 @@
     ]
   },
   {
-    "id": "advanced_grappler",
+    "id": "core_weapon_advanced_grappler",
     "name": {
       "en-US": "Advanced Grappler"
     },
@@ -4077,7 +4077,7 @@
     ]
   },
   {
-    "id": "advanced_hand_crossbow",
+    "id": "core_weapon_advanced_hand_crossbow",
     "name": {
       "en-US": "Advanced Hand Crossbow"
     },
@@ -4093,7 +4093,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "buckler",
+    "id": "core_weapon_buckler",
     "name": {
       "en-US": "Buckler"
     },
@@ -4124,7 +4124,7 @@
     ]
   },
   {
-    "id": "powered_gauntlet",
+    "id": "core_weapon_powered_gauntlet",
     "name": {
       "en-US": "Powered Gauntlet"
     },
@@ -4155,7 +4155,7 @@
     ]
   },
   {
-    "id": "hand_sling",
+    "id": "core_weapon_hand_sling",
     "name": {
       "en-US": "Hand Sling"
     },
@@ -4186,7 +4186,7 @@
     ]
   },
   {
-    "id": "legendary_shortsword",
+    "id": "core_weapon_legendary_shortsword",
     "name": {
       "en-US": "Legendary Shortsword"
     },
@@ -4217,7 +4217,7 @@
     ]
   },
   {
-    "id": "legendary_round_shield",
+    "id": "core_weapon_legendary_round_shield",
     "name": {
       "en-US": "Legendary Round Shield"
     },
@@ -4248,7 +4248,7 @@
     ]
   },
   {
-    "id": "legendary_tower_shield",
+    "id": "core_weapon_legendary_tower_shield",
     "name": {
       "en-US": "Legendary Tower Shield"
     },
@@ -4279,7 +4279,7 @@
     ]
   },
   {
-    "id": "legendary_small_dagger",
+    "id": "core_weapon_legendary_small_dagger",
     "name": {
       "en-US": "Legendary Small Dagger"
     },
@@ -4310,7 +4310,7 @@
     ]
   },
   {
-    "id": "legendary_whip",
+    "id": "core_weapon_legendary_whip",
     "name": {
       "en-US": "Legendary Whip"
     },
@@ -4341,7 +4341,7 @@
     ]
   },
   {
-    "id": "legendary_grappler",
+    "id": "core_weapon_legendary_grappler",
     "name": {
       "en-US": "Legendary Grappler"
     },
@@ -4372,7 +4372,7 @@
     ]
   },
   {
-    "id": "legendary_hand_crossbow",
+    "id": "core_weapon_legendary_hand_crossbow",
     "name": {
       "en-US": "Legendary Hand Crossbow"
     },
@@ -4388,7 +4388,7 @@
     "burden": "ONE_HANDED"
   },
   {
-    "id": "braveshield",
+    "id": "core_weapon_braveshield",
     "name": {
       "en-US": "Braveshield"
     },
@@ -4419,7 +4419,7 @@
     ]
   },
   {
-    "id": "knuckle_claws",
+    "id": "core_weapon_knuckle_claws",
     "name": {
       "en-US": "Knuckle Claws"
     },
@@ -4450,7 +4450,7 @@
     ]
   },
   {
-    "id": "primer_shard",
+    "id": "core_weapon_primer_shard",
     "name": {
       "en-US": "Primer Shard"
     },

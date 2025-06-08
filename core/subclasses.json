@@ -1,6 +1,6 @@
 [
   {
-    "id": "beastbound",
+    "id": "core_subclass_beastbound",
     "name": {
       "en-US": "Beastbound"
     },
@@ -92,7 +92,7 @@
     }
   },
   {
-    "id": "call_of_the_brave",
+    "id": "core_subclass_call_of_the_brave",
     "name": {
       "en-US": "Call of the Brave"
     },
@@ -164,7 +164,7 @@
     }
   },
   {
-    "id": "call_of_the_slayer",
+    "id": "core_subclass_call_of_the_slayer",
     "name": {
       "en-US": "Call of the Slayer"
     },
@@ -223,7 +223,7 @@
     }
   },
   {
-    "id": "divine_wielder",
+    "id": "core_subclass_divine_wielder",
     "name": {
       "en-US": "Divine Wielder"
     },
@@ -296,7 +296,7 @@
     }
   },
   {
-    "id": "elemental_origin",
+    "id": "core_subclass_elemental_origin",
     "name": {
       "en-US": "Elemental Origin"
     },
@@ -380,7 +380,7 @@
     }
   },
   {
-    "id": "nightwalker",
+    "id": "core_subclass_nightwalker",
     "name": {
       "en-US": "Nightwalker"
     },
@@ -466,7 +466,7 @@
     }
   },
   {
-    "id": "primal_origin",
+    "id": "core_subclass_primal_origin",
     "name": {
       "en-US": "Primal Origin"
     },
@@ -550,7 +550,7 @@
     }
   },
   {
-    "id": "school_of_knowledge",
+    "id": "core_subclass_school_of_knowledge",
     "name": {
       "en-US": "School of Knowledge"
     },
@@ -649,7 +649,7 @@
     }
   },
   {
-    "id": "school_of_war",
+    "id": "core_subclass_school_of_war",
     "name": {
       "en-US": "School of War"
     },
@@ -748,7 +748,7 @@
     }
   },
   {
-    "id": "stalwart",
+    "id": "core_subclass_stalwart",
     "name": {
       "en-US": "Stalwart"
     },
@@ -846,7 +846,7 @@
     }
   },
   {
-    "id": "syndicate",
+    "id": "core_subclass_syndicate",
     "name": {
       "en-US": "Syndicate"
     },
@@ -966,7 +966,7 @@
     }
   },
   {
-    "id": "troubadour",
+    "id": "core_subclass_troubadour",
     "name": {
       "en-US": "Troubadour"
     },
@@ -1044,7 +1044,7 @@
     }
   },
   {
-    "id": "vengeance",
+    "id": "core_subclass_vengeance",
     "name": {
       "en-US": "Vengeance"
     },
@@ -1116,7 +1116,7 @@
     }
   },
   {
-    "id": "warden_of_renewal",
+    "id": "core_subclass_warden_of_renewal",
     "name": {
       "en-US": "Warden of Renewal"
     },
@@ -1202,7 +1202,7 @@
     }
   },
   {
-    "id": "warden_of_the_elements",
+    "id": "core_subclass_warden_of_the_elements",
     "name": {
       "en-US": "Warden of the Elements"
     },
@@ -1334,7 +1334,7 @@
     }
   },
   {
-    "id": "wayfinder",
+    "id": "core_subclass_wayfinder",
     "name": {
       "en-US": "Wayfinder"
     },
@@ -1407,7 +1407,7 @@
     }
   },
   {
-    "id": "winged_sentinel",
+    "id": "core_subclass_winged_sentinel",
     "name": {
       "en-US": "Winged Sentinel"
     },
@@ -1492,7 +1492,7 @@
     }
   },
   {
-    "id": "wordsmith",
+    "id": "core_subclass_wordsmith",
     "name": {
       "en-US": "Wordsmith"
     },

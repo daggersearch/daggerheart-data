@@ -1,6 +1,6 @@
 [
   {
-    "id": "highborne",
+    "id": "core_community_highborne",
     "name": {
       "en-US": "Highborne"
     },
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "id": "loreborne",
+    "id": "core_community_loreborne",
     "name": {
       "en-US": "Loreborne"
     },
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "id": "orderborne",
+    "id": "core_community_orderborne",
     "name": {
       "en-US": "Orderborne"
     },
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "id": "ridgeborne",
+    "id": "core_community_ridgeborne",
     "name": {
       "en-US": "Ridgeborne"
     },
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "id": "seaborne",
+    "id": "core_community_seaborne",
     "name": {
       "en-US": "Seaborne"
     },
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "id": "slyborne",
+    "id": "core_community_slyborne",
     "name": {
       "en-US": "Slyborne"
     },
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "id": "underborne",
+    "id": "core_community_underborne",
     "name": {
       "en-US": "Underborne"
     },
@@ -308,7 +308,7 @@
     ]
   },
   {
-    "id": "wanderborne",
+    "id": "core_community_wanderborne",
     "name": {
       "en-US": "Wanderborne"
     },
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "id": "wildborne",
+    "id": "core_community_wildborne",
     "name": {
       "en-US": "Wildborne"
     },

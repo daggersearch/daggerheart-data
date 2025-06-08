@@ -1,6 +1,6 @@
 [
   {
-    "id": "clank",
+    "id": "core_ancestry_clank",
     "name": {
       "en-US": "Clank"
     },
@@ -37,7 +37,7 @@
     ]
   },
   {
-    "id": "drakona",
+    "id": "core_ancestry_drakona",
     "name": {
       "en-US": "Drakona"
     },
@@ -74,7 +74,7 @@
     ]
   },
   {
-    "id": "dwarf",
+    "id": "core_ancestry_dwarf",
     "name": {
       "en-US": "Dwarf"
     },
@@ -111,7 +111,7 @@
     ]
   },
   {
-    "id": "elf",
+    "id": "core_ancestry_elf",
     "name": {
       "en-US": "Elf"
     },
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "id": "faerie",
+    "id": "core_ancestry_faerie",
     "name": {
       "en-US": "Faerie"
     },
@@ -185,7 +185,7 @@
     ]
   },
   {
-    "id": "faun",
+    "id": "core_ancestry_faun",
     "name": {
       "en-US": "Faun"
     },
@@ -222,7 +222,7 @@
     ]
   },
   {
-    "id": "firbolg",
+    "id": "core_ancestry_firbolg",
     "name": {
       "en-US": "Firbolg"
     },
@@ -259,7 +259,7 @@
     ]
   },
   {
-    "id": "fungril",
+    "id": "core_ancestry_fungril",
     "name": {
       "en-US": "Fungril"
     },
@@ -296,7 +296,7 @@
     ]
   },
   {
-    "id": "galapa",
+    "id": "core_ancestry_galapa",
     "name": {
       "en-US": "Galapa"
     },
@@ -333,7 +333,7 @@
     ]
   },
   {
-    "id": "giant",
+    "id": "core_ancestry_giant",
     "name": {
       "en-US": "Giant"
     },
@@ -370,7 +370,7 @@
     ]
   },
   {
-    "id": "goblin",
+    "id": "core_ancestry_goblin",
     "name": {
       "en-US": "Goblin"
     },
@@ -407,7 +407,7 @@
     ]
   },
   {
-    "id": "halfling",
+    "id": "core_ancestry_halfling",
     "name": {
       "en-US": "Halfling"
     },
@@ -444,7 +444,7 @@
     ]
   },
   {
-    "id": "human",
+    "id": "core_ancestry_human",
     "name": {
       "en-US": "Human"
     },
@@ -481,7 +481,7 @@
     ]
   },
   {
-    "id": "infernis",
+    "id": "core_ancestry_infernis",
     "name": {
       "en-US": "Infernis"
     },
@@ -518,7 +518,7 @@
     ]
   },
   {
-    "id": "katari",
+    "id": "core_ancestry_katari",
     "name": {
       "en-US": "Katari"
     },
@@ -555,7 +555,7 @@
     ]
   },
   {
-    "id": "orc",
+    "id": "core_ancestry_orc",
     "name": {
       "en-US": "Orc"
     },
@@ -592,7 +592,7 @@
     ]
   },
   {
-    "id": "ribbet",
+    "id": "core_ancestry_ribbet",
     "name": {
       "en-US": "Ribbet"
     },
@@ -629,7 +629,7 @@
     ]
   },
   {
-    "id": "simiah",
+    "id": "core_ancestry_simiah",
     "name": {
       "en-US": "Simiah"
     },
