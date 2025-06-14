@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/common/description.schema.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "type": { "type": "string", "enum": ["PARAGRAPH", "LIST_ITEM"] },
+      "text": { "$ref": "./localized-string.schema.json" }
+    },
+    "required": ["type", "text"],
+    "additionalProperties": false
+  }
+}
