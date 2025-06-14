@@ -1,9 +1,7 @@
 [
   {
     "id": "core_item_premium_bedroll",
-    "name": {
-      "en-US": "Premium Bedroll"
-    },
+    "name": { "en-US": "Premium Bedroll" },
     "features": [
       {
         "description": [
@@ -19,9 +17,7 @@
   },
   {
     "id": "core_item_piper_whistle",
-    "name": {
-      "en-US": "Piper Whistle"
-    },
+    "name": { "en-US": "Piper Whistle" },
     "features": [
       {
         "description": [
@@ -37,9 +33,7 @@
   },
   {
     "id": "core_item_charging_quiver",
-    "name": {
-      "en-US": "Charging Quiver"
-    },
+    "name": { "en-US": "Charging Quiver" },
     "features": [
       {
         "description": [
@@ -55,9 +49,7 @@
   },
   {
     "id": "core_item_alistairs_torch",
-    "name": {
-      "en-US": "Alistair's Torch"
-    },
+    "name": { "en-US": "Alistair's Torch" },
     "features": [
       {
         "description": [
@@ -73,9 +65,7 @@
   },
   {
     "id": "core_item_speaking_orbs",
-    "name": {
-      "en-US": "Speaking Orbs"
-    },
+    "name": { "en-US": "Speaking Orbs" },
     "features": [
       {
         "description": [
@@ -91,17 +81,13 @@
   },
   {
     "id": "core_item_manacles",
-    "name": {
-      "en-US": "Manacles"
-    },
+    "name": { "en-US": "Manacles" },
     "features": [
       {
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "This pair of locking cuffs comes with a key."
-            }
+            "text": { "en-US": "This pair of locking cuffs comes with a key." }
           }
         ]
       }
@@ -109,9 +95,7 @@
   },
   {
     "id": "core_item_arcane_cloak",
-    "name": {
-      "en-US": "Arcane Cloak"
-    },
+    "name": { "en-US": "Arcane Cloak" },
     "features": [
       {
         "description": [
@@ -127,9 +111,7 @@
   },
   {
     "id": "core_item_woven_net",
-    "name": {
-      "en-US": "Woven Net"
-    },
+    "name": { "en-US": "Woven Net" },
     "features": [
       {
         "description": [
@@ -145,9 +127,7 @@
   },
   {
     "id": "core_item_fire_jar",
-    "name": {
-      "en-US": "Fire Jar"
-    },
+    "name": { "en-US": "Fire Jar" },
     "features": [
       {
         "description": [
@@ -163,9 +143,7 @@
   },
   {
     "id": "core_item_suspended_rod",
-    "name": {
-      "en-US": "Suspended Rod"
-    },
+    "name": { "en-US": "Suspended Rod" },
     "features": [
       {
         "description": [
@@ -181,9 +159,7 @@
   },
   {
     "id": "core_item_glamour_stone",
-    "name": {
-      "en-US": "Glamour Stone"
-    },
+    "name": { "en-US": "Glamour Stone" },
     "features": [
       {
         "description": [
@@ -199,9 +175,7 @@
   },
   {
     "id": "core_item_empty_chest",
-    "name": {
-      "en-US": "Empty Chest"
-    },
+    "name": { "en-US": "Empty Chest" },
     "features": [
       {
         "description": [
@@ -217,9 +191,7 @@
   },
   {
     "id": "core_item_companion_case",
-    "name": {
-      "en-US": "Companion Case"
-    },
+    "name": { "en-US": "Companion Case" },
     "features": [
       {
         "description": [
@@ -235,9 +207,7 @@
   },
   {
     "id": "core_item_piercing_arrows",
-    "name": {
-      "en-US": "Piercing Arrows"
-    },
+    "name": { "en-US": "Piercing Arrows" },
     "features": [
       {
         "description": [
@@ -253,9 +223,7 @@
   },
   {
     "id": "core_item_valorstone",
-    "name": {
-      "en-US": "Valorstone"
-    },
+    "name": { "en-US": "Valorstone" },
     "features": [
       {
         "description": [
@@ -271,9 +239,7 @@
   },
   {
     "id": "core_item_skeleton_key",
-    "name": {
-      "en-US": "Skeleton Key"
-    },
+    "name": { "en-US": "Skeleton Key" },
     "features": [
       {
         "description": [
@@ -289,9 +255,7 @@
   },
   {
     "id": "core_item_arcane_prism",
-    "name": {
-      "en-US": "Arcane Prism"
-    },
+    "name": { "en-US": "Arcane Prism" },
     "features": [
       {
         "description": [
@@ -307,9 +271,7 @@
   },
   {
     "id": "core_item_minor_stamina_potion_recipe",
-    "name": {
-      "en-US": "Minor Stamina Potion Recipe"
-    },
+    "name": { "en-US": "Minor Stamina Potion Recipe" },
     "features": [
       {
         "description": [
@@ -325,9 +287,7 @@
   },
   {
     "id": "core_item_minor_health_potion_recipe",
-    "name": {
-      "en-US": "Minor Health Potion Recipe"
-    },
+    "name": { "en-US": "Minor Health Potion Recipe" },
     "features": [
       {
         "description": [
@@ -343,9 +303,7 @@
   },
   {
     "id": "core_item_homing_compasses",
-    "name": {
-      "en-US": "Homing Compasses"
-    },
+    "name": { "en-US": "Homing Compasses" },
     "features": [
       {
         "description": [
@@ -361,9 +319,7 @@
   },
   {
     "id": "core_item_corrector_sprite",
-    "name": {
-      "en-US": "Corrector Sprite"
-    },
+    "name": { "en-US": "Corrector Sprite" },
     "features": [
       {
         "description": [
@@ -379,9 +335,7 @@
   },
   {
     "id": "core_item_gecko_gloves",
-    "name": {
-      "en-US": "Gecko Gloves"
-    },
+    "name": { "en-US": "Gecko Gloves" },
     "features": [
       {
         "description": [
@@ -397,9 +351,7 @@
   },
   {
     "id": "core_item_lorekeeper",
-    "name": {
-      "en-US": "Lorekeeper"
-    },
+    "name": { "en-US": "Lorekeeper" },
     "features": [
       {
         "description": [
@@ -415,9 +367,7 @@
   },
   {
     "id": "core_item_vial_of_darksmoke_recipe",
-    "name": {
-      "en-US": "Vial of Darksmoke Recipe"
-    },
+    "name": { "en-US": "Vial of Darksmoke Recipe" },
     "features": [
       {
         "description": [
@@ -433,9 +383,7 @@
   },
   {
     "id": "core_item_bloodstone",
-    "name": {
-      "en-US": "Bloodstone"
-    },
+    "name": { "en-US": "Bloodstone" },
     "features": [
       {
         "description": [
@@ -451,9 +399,7 @@
   },
   {
     "id": "core_item_greatstone",
-    "name": {
-      "en-US": "Greatstone"
-    },
+    "name": { "en-US": "Greatstone" },
     "features": [
       {
         "description": [
@@ -469,9 +415,7 @@
   },
   {
     "id": "core_item_glider",
-    "name": {
-      "en-US": "Glider"
-    },
+    "name": { "en-US": "Glider" },
     "features": [
       {
         "description": [
@@ -487,9 +431,7 @@
   },
   {
     "id": "core_item_ring_of_silence",
-    "name": {
-      "en-US": "Ring of Silence"
-    },
+    "name": { "en-US": "Ring of Silence" },
     "features": [
       {
         "description": [
@@ -505,9 +447,7 @@
   },
   {
     "id": "core_item_calming_pendant",
-    "name": {
-      "en-US": "Calming Pendant"
-    },
+    "name": { "en-US": "Calming Pendant" },
     "features": [
       {
         "description": [
@@ -523,9 +463,7 @@
   },
   {
     "id": "core_item_dual_flask",
-    "name": {
-      "en-US": "Dual Flask"
-    },
+    "name": { "en-US": "Dual Flask" },
     "features": [
       {
         "description": [
@@ -541,9 +479,7 @@
   },
   {
     "id": "core_item_bag_of_ficklesand",
-    "name": {
-      "en-US": "Bag of Ficklesand"
-    },
+    "name": { "en-US": "Bag of Ficklesand" },
     "features": [
       {
         "description": [
@@ -559,9 +495,7 @@
   },
   {
     "id": "core_item_ring_of_resistance",
-    "name": {
-      "en-US": "Ring of Resistance"
-    },
+    "name": { "en-US": "Ring of Resistance" },
     "features": [
       {
         "description": [
@@ -577,9 +511,7 @@
   },
   {
     "id": "core_item_phoenix_feather",
-    "name": {
-      "en-US": "Phoenix Feather"
-    },
+    "name": { "en-US": "Phoenix Feather" },
     "features": [
       {
         "description": [
@@ -595,9 +527,7 @@
   },
   {
     "id": "core_item_box_of_many_goods",
-    "name": {
-      "en-US": "Box of Many Goods"
-    },
+    "name": { "en-US": "Box of Many Goods" },
     "features": [
       {
         "description": [
@@ -613,9 +543,7 @@
   },
   {
     "id": "core_item_airblade_charm",
-    "name": {
-      "en-US": "Airblade Charm"
-    },
+    "name": { "en-US": "Airblade Charm" },
     "features": [
       {
         "description": [
@@ -631,9 +559,7 @@
   },
   {
     "id": "core_item_portal_seed",
-    "name": {
-      "en-US": "Portal Seed"
-    },
+    "name": { "en-US": "Portal Seed" },
     "features": [
       {
         "description": [
@@ -649,9 +575,7 @@
   },
   {
     "id": "core_item_paragons_chain",
-    "name": {
-      "en-US": "Paragon's Chain"
-    },
+    "name": { "en-US": "Paragon's Chain" },
     "features": [
       {
         "description": [
@@ -667,9 +591,7 @@
   },
   {
     "id": "core_item_elusive_amulet",
-    "name": {
-      "en-US": "Elusive Amulet"
-    },
+    "name": { "en-US": "Elusive Amulet" },
     "features": [
       {
         "description": [
@@ -685,9 +607,7 @@
   },
   {
     "id": "core_item_hopekeeper_locket",
-    "name": {
-      "en-US": "Hopekeeper Locket"
-    },
+    "name": { "en-US": "Hopekeeper Locket" },
     "features": [
       {
         "description": [
@@ -703,9 +623,7 @@
   },
   {
     "id": "core_item_infinite_bag",
-    "name": {
-      "en-US": "Infinite Bag"
-    },
+    "name": { "en-US": "Infinite Bag" },
     "features": [
       {
         "description": [
@@ -721,9 +639,7 @@
   },
   {
     "id": "core_item_stride_relic",
-    "name": {
-      "en-US": "Stride Relic"
-    },
+    "name": { "en-US": "Stride Relic" },
     "features": [
       {
         "description": [
@@ -739,9 +655,7 @@
   },
   {
     "id": "core_item_bolster_relic",
-    "name": {
-      "en-US": "Bolster Relic"
-    },
+    "name": { "en-US": "Bolster Relic" },
     "features": [
       {
         "description": [
@@ -757,9 +671,7 @@
   },
   {
     "id": "core_item_control_relic",
-    "name": {
-      "en-US": "Control Relic"
-    },
+    "name": { "en-US": "Control Relic" },
     "features": [
       {
         "description": [
@@ -775,9 +687,7 @@
   },
   {
     "id": "core_item_attune_relic",
-    "name": {
-      "en-US": "Attune Relic"
-    },
+    "name": { "en-US": "Attune Relic" },
     "features": [
       {
         "description": [
@@ -793,9 +703,7 @@
   },
   {
     "id": "core_item_charm_relic",
-    "name": {
-      "en-US": "Charm Relic"
-    },
+    "name": { "en-US": "Charm Relic" },
     "features": [
       {
         "description": [
@@ -811,9 +719,7 @@
   },
   {
     "id": "core_item_enlighten_relic",
-    "name": {
-      "en-US": "Enlighten Relic"
-    },
+    "name": { "en-US": "Enlighten Relic" },
     "features": [
       {
         "description": [
@@ -829,9 +735,7 @@
   },
   {
     "id": "core_item_honing_relic",
-    "name": {
-      "en-US": "Honing Relic"
-    },
+    "name": { "en-US": "Honing Relic" },
     "features": [
       {
         "description": [
@@ -847,9 +751,7 @@
   },
   {
     "id": "core_item_flickerfly_pendant",
-    "name": {
-      "en-US": "Flickerfly Pendant"
-    },
+    "name": { "en-US": "Flickerfly Pendant" },
     "features": [
       {
         "description": [
@@ -865,9 +767,7 @@
   },
   {
     "id": "core_item_lakestrider_boots",
-    "name": {
-      "en-US": "Lakestrider Boots"
-    },
+    "name": { "en-US": "Lakestrider Boots" },
     "features": [
       {
         "description": [
@@ -883,9 +783,7 @@
   },
   {
     "id": "core_item_clay_companion",
-    "name": {
-      "en-US": "Clay Companion"
-    },
+    "name": { "en-US": "Clay Companion" },
     "features": [
       {
         "description": [
@@ -901,9 +799,7 @@
   },
   {
     "id": "core_item_mythic_dust_recipe",
-    "name": {
-      "en-US": "Mythic Dust Recipe"
-    },
+    "name": { "en-US": "Mythic Dust Recipe" },
     "features": [
       {
         "description": [
@@ -919,9 +815,7 @@
   },
   {
     "id": "core_item_shard_of_memory",
-    "name": {
-      "en-US": "Shard of Memory"
-    },
+    "name": { "en-US": "Shard of Memory" },
     "features": [
       {
         "description": [
@@ -937,9 +831,7 @@
   },
   {
     "id": "core_item_gem_of_alacrity",
-    "name": {
-      "en-US": "Gem of Alacrity"
-    },
+    "name": { "en-US": "Gem of Alacrity" },
     "features": [
       {
         "description": [
@@ -955,9 +847,7 @@
   },
   {
     "id": "core_item_gem_of_might",
-    "name": {
-      "en-US": "Gem of Might"
-    },
+    "name": { "en-US": "Gem of Might" },
     "features": [
       {
         "description": [
@@ -973,9 +863,7 @@
   },
   {
     "id": "core_item_gem_of_precision",
-    "name": {
-      "en-US": "Gem of Precision"
-    },
+    "name": { "en-US": "Gem of Precision" },
     "features": [
       {
         "description": [
@@ -991,9 +879,7 @@
   },
   {
     "id": "core_item_gem_of_insight",
-    "name": {
-      "en-US": "Gem of Insight"
-    },
+    "name": { "en-US": "Gem of Insight" },
     "features": [
       {
         "description": [
@@ -1009,9 +895,7 @@
   },
   {
     "id": "core_item_gem_of_audacity",
-    "name": {
-      "en-US": "Gem of Audacity"
-    },
+    "name": { "en-US": "Gem of Audacity" },
     "features": [
       {
         "description": [
@@ -1027,9 +911,7 @@
   },
   {
     "id": "core_item_gem_of_sagacity",
-    "name": {
-      "en-US": "Gem of Sagacity"
-    },
+    "name": { "en-US": "Gem of Sagacity" },
     "features": [
       {
         "description": [
@@ -1045,9 +927,7 @@
   },
   {
     "id": "core_item_ring_of_unbreakable_resolve",
-    "name": {
-      "en-US": "Ring of Unbreakable Resolve"
-    },
+    "name": { "en-US": "Ring of Unbreakable Resolve" },
     "features": [
       {
         "description": [
@@ -1063,9 +943,7 @@
   },
   {
     "id": "core_item_belt_of_unity",
-    "name": {
-      "en-US": "Belt of Unity"
-    },
+    "name": { "en-US": "Belt of Unity" },
     "features": [
       {
         "description": [

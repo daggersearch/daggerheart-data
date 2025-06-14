@@ -3,16 +3,9 @@
   "$id": "https://daggersearch.com/schemas/common/damage.schema.json",
   "type": "object",
   "properties": {
-    "dice": {
-      "$ref": "./dice.schema.json"
-    },
-    "modifier": {
-      "type": "integer"
-    },
-    "type": {
-      "type": "string",
-      "enum": ["PHYSICAL", "MAGICAL"]
-    }
+    "dice": { "$ref": "./dice.schema.json" },
+    "modifier": { "type": "integer" },
+    "type": { "type": "string", "enum": ["PHYSICAL", "MAGICAL"] }
   },
   "required": ["dice", "type"],
   "additionalProperties": false

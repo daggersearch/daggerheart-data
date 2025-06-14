@@ -3,26 +3,8 @@
   "$id": "https://daggersearch.com/schemas/common/feature.schema.json",
   "type": "object",
   "properties": {
-    "name": {
-      "$ref": "./localized-string.schema.json"
-    },
-    "description": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "type": {
-            "type": "string",
-            "enum": ["PARAGRAPH", "LIST_ITEM"]
-          },
-          "text": {
-            "$ref": "./localized-string.schema.json"
-          }
-        },
-        "required": ["type", "text"],
-        "additionalProperties": false
-      }
-    }
+    "name": { "$ref": "./localized-string.schema.json" },
+    "description": { "$ref": "./description.schema.json" }
   },
   "required": ["description"],
   "additionalProperties": false

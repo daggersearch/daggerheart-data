@@ -1,9 +1,7 @@
 [
   {
     "id": "core_consumable_stride_potion",
-    "name": {
-      "en-US": "Stride Potion"
-    },
+    "name": { "en-US": "Stride Potion" },
     "features": [
       {
         "description": [
@@ -19,9 +17,7 @@
   },
   {
     "id": "core_consumable_bolster_potion",
-    "name": {
-      "en-US": "Bolster Potion"
-    },
+    "name": { "en-US": "Bolster Potion" },
     "features": [
       {
         "description": [
@@ -37,9 +33,7 @@
   },
   {
     "id": "core_consumable_control_potion",
-    "name": {
-      "en-US": "Control Potion"
-    },
+    "name": { "en-US": "Control Potion" },
     "features": [
       {
         "description": [
@@ -55,9 +49,7 @@
   },
   {
     "id": "core_consumable_attune_potion",
-    "name": {
-      "en-US": "Attune Potion"
-    },
+    "name": { "en-US": "Attune Potion" },
     "features": [
       {
         "description": [
@@ -73,9 +65,7 @@
   },
   {
     "id": "core_consumable_charm_potion",
-    "name": {
-      "en-US": "Charm Potion"
-    },
+    "name": { "en-US": "Charm Potion" },
     "features": [
       {
         "description": [
@@ -91,9 +81,7 @@
   },
   {
     "id": "core_consumable_enlighten_potion",
-    "name": {
-      "en-US": "Enlighten Potion"
-    },
+    "name": { "en-US": "Enlighten Potion" },
     "features": [
       {
         "description": [
@@ -109,45 +97,29 @@
   },
   {
     "id": "core_consumable_minor_health_potion",
-    "name": {
-      "en-US": "Minor Health Potion"
-    },
+    "name": { "en-US": "Minor Health Potion" },
     "features": [
       {
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "Clear 1d4 HP."
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4 HP." } }
         ]
       }
     ]
   },
   {
     "id": "core_consumable_minor_stamina_potion",
-    "name": {
-      "en-US": "Minor Stamina Potion"
-    },
+    "name": { "en-US": "Minor Stamina Potion" },
     "features": [
       {
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "Clear 1d4 Stress."
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4 Stress." } }
         ]
       }
     ]
   },
   {
     "id": "core_consumable_grindletooth_venom",
-    "name": {
-      "en-US": "Grindletooth Venom"
-    },
+    "name": { "en-US": "Grindletooth Venom" },
     "features": [
       {
         "description": [
@@ -163,9 +135,7 @@
   },
   {
     "id": "core_consumable_varik_leaves",
-    "name": {
-      "en-US": "Varik Leaves"
-    },
+    "name": { "en-US": "Varik Leaves" },
     "features": [
       {
         "description": [
@@ -181,9 +151,7 @@
   },
   {
     "id": "core_consumable_vial_of_moondrip",
-    "name": {
-      "en-US": "Vial of Moondrip"
-    },
+    "name": { "en-US": "Vial of Moondrip" },
     "features": [
       {
         "description": [
@@ -199,9 +167,7 @@
   },
   {
     "id": "core_consumable_unstable_arcane_shard",
-    "name": {
-      "en-US": "Unstable Arcane Shard"
-    },
+    "name": { "en-US": "Unstable Arcane Shard" },
     "features": [
       {
         "description": [
@@ -217,9 +183,7 @@
   },
   {
     "id": "core_consumable_potion_of_stability",
-    "name": {
-      "en-US": "Potion of Stability"
-    },
+    "name": { "en-US": "Potion of Stability" },
     "features": [
       {
         "description": [
@@ -235,9 +199,7 @@
   },
   {
     "id": "core_consumable_improved_grindletooth_venom",
-    "name": {
-      "en-US": "Improved Grindletooth Venom"
-    },
+    "name": { "en-US": "Improved Grindletooth Venom" },
     "features": [
       {
         "description": [
@@ -253,9 +215,7 @@
   },
   {
     "id": "core_consumable_morphing_clay",
-    "name": {
-      "en-US": "Morphing Clay"
-    },
+    "name": { "en-US": "Morphing Clay" },
     "features": [
       {
         "description": [
@@ -271,9 +231,7 @@
   },
   {
     "id": "core_consumable_vial_of_darksmoke",
-    "name": {
-      "en-US": "Vial of Darksmoke"
-    },
+    "name": { "en-US": "Vial of Darksmoke" },
     "features": [
       {
         "description": [
@@ -289,9 +247,7 @@
   },
   {
     "id": "core_consumable_jumping_root",
-    "name": {
-      "en-US": "Jumping Root"
-    },
+    "name": { "en-US": "Jumping Root" },
     "features": [
       {
         "description": [
@@ -307,17 +263,13 @@
   },
   {
     "id": "core_consumable_snap_powder",
-    "name": {
-      "en-US": "Snap Powder"
-    },
+    "name": { "en-US": "Snap Powder" },
     "features": [
       {
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "Mark a Stress and clear a HP."
-            }
+            "text": { "en-US": "Mark a Stress and clear a HP." }
           }
         ]
       }
@@ -325,45 +277,29 @@
   },
   {
     "id": "core_consumable_health_potion",
-    "name": {
-      "en-US": "Health Potion"
-    },
+    "name": { "en-US": "Health Potion" },
     "features": [
       {
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "Clear 1d4+1 HP."
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4+1 HP." } }
         ]
       }
     ]
   },
   {
     "id": "core_consumable_stamina_potion",
-    "name": {
-      "en-US": "Stamina Potion"
-    },
+    "name": { "en-US": "Stamina Potion" },
     "features": [
       {
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "Clear 1d4+1 Stress."
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4+1 Stress." } }
         ]
       }
     ]
   },
   {
     "id": "core_consumable_armor_stitcher",
-    "name": {
-      "en-US": "Armor Stitcher"
-    },
+    "name": { "en-US": "Armor Stitcher" },
     "features": [
       {
         "description": [
@@ -379,9 +315,7 @@
   },
   {
     "id": "core_consumable_gill_salve",
-    "name": {
-      "en-US": "Gill Salve"
-    },
+    "name": { "en-US": "Gill Salve" },
     "features": [
       {
         "description": [
@@ -397,9 +331,7 @@
   },
   {
     "id": "core_consumable_replication_parchment",
-    "name": {
-      "en-US": "Replication Parchment"
-    },
+    "name": { "en-US": "Replication Parchment" },
     "features": [
       {
         "description": [
@@ -415,9 +347,7 @@
   },
   {
     "id": "core_consumable_improved_arcane_shard",
-    "name": {
-      "en-US": "Improved Arcane Shard"
-    },
+    "name": { "en-US": "Improved Arcane Shard" },
     "features": [
       {
         "description": [
@@ -433,9 +363,7 @@
   },
   {
     "id": "core_consumable_major_stride_potion",
-    "name": {
-      "en-US": "Major Stride Potion"
-    },
+    "name": { "en-US": "Major Stride Potion" },
     "features": [
       {
         "description": [
@@ -451,9 +379,7 @@
   },
   {
     "id": "core_consumable_major_bolster_potion",
-    "name": {
-      "en-US": "Major Bolster Potion"
-    },
+    "name": { "en-US": "Major Bolster Potion" },
     "features": [
       {
         "description": [
@@ -469,9 +395,7 @@
   },
   {
     "id": "core_consumable_major_control_potion",
-    "name": {
-      "en-US": "Major Control Potion"
-    },
+    "name": { "en-US": "Major Control Potion" },
     "features": [
       {
         "description": [
@@ -487,9 +411,7 @@
   },
   {
     "id": "core_consumable_major_attune_potion",
-    "name": {
-      "en-US": "Major Attune Potion"
-    },
+    "name": { "en-US": "Major Attune Potion" },
     "features": [
       {
         "description": [
@@ -505,9 +427,7 @@
   },
   {
     "id": "core_consumable_major_charm_potion",
-    "name": {
-      "en-US": "Major Charm Potion"
-    },
+    "name": { "en-US": "Major Charm Potion" },
     "features": [
       {
         "description": [
@@ -523,9 +443,7 @@
   },
   {
     "id": "core_consumable_major_enlighten_potion",
-    "name": {
-      "en-US": "Major Enlighten Potion"
-    },
+    "name": { "en-US": "Major Enlighten Potion" },
     "features": [
       {
         "description": [
@@ -541,9 +459,7 @@
   },
   {
     "id": "core_consumable_blood_of_the_yorgi",
-    "name": {
-      "en-US": "Blood of the Yorgi"
-    },
+    "name": { "en-US": "Blood of the Yorgi" },
     "features": [
       {
         "description": [
@@ -559,9 +475,7 @@
   },
   {
     "id": "core_consumable_homet_s_secret_potion",
-    "name": {
-      "en-US": "Homet's Secret Potion"
-    },
+    "name": { "en-US": "Homet's Secret Potion" },
     "features": [
       {
         "description": [
@@ -577,9 +491,7 @@
   },
   {
     "id": "core_consumable_redthorn_saliva",
-    "name": {
-      "en-US": "Redthorn Saliva"
-    },
+    "name": { "en-US": "Redthorn Saliva" },
     "features": [
       {
         "description": [
@@ -595,9 +507,7 @@
   },
   {
     "id": "core_consumable_channelstone",
-    "name": {
-      "en-US": "Channelstone"
-    },
+    "name": { "en-US": "Channelstone" },
     "features": [
       {
         "description": [
@@ -613,9 +523,7 @@
   },
   {
     "id": "core_consumable_mythic_dust",
-    "name": {
-      "en-US": "Mythic Dust"
-    },
+    "name": { "en-US": "Mythic Dust" },
     "features": [
       {
         "description": [
@@ -631,9 +539,7 @@
   },
   {
     "id": "core_consumable_acidpaste",
-    "name": {
-      "en-US": "Acidpaste"
-    },
+    "name": { "en-US": "Acidpaste" },
     "features": [
       {
         "description": [
@@ -649,9 +555,7 @@
   },
   {
     "id": "core_consumable_hopehold_flare",
-    "name": {
-      "en-US": "Hopehold Flare"
-    },
+    "name": { "en-US": "Hopehold Flare" },
     "features": [
       {
         "description": [
@@ -667,9 +571,7 @@
   },
   {
     "id": "core_consumable_major_arcane_shard",
-    "name": {
-      "en-US": "Major Arcane Shard"
-    },
+    "name": { "en-US": "Major Arcane Shard" },
     "features": [
       {
         "description": [
@@ -685,9 +587,7 @@
   },
   {
     "id": "core_consumable_featherbone",
-    "name": {
-      "en-US": "Featherbone"
-    },
+    "name": { "en-US": "Featherbone" },
     "features": [
       {
         "description": [
@@ -703,9 +603,7 @@
   },
   {
     "id": "core_consumable_circle_of_the_void",
-    "name": {
-      "en-US": "Circle of the Void"
-    },
+    "name": { "en-US": "Circle of the Void" },
     "features": [
       {
         "description": [
@@ -721,9 +619,7 @@
   },
   {
     "id": "core_consumable_sun_tree_sap",
-    "name": {
-      "en-US": "Sun Tree Sap"
-    },
+    "name": { "en-US": "Sun Tree Sap" },
     "features": [
       {
         "description": [
@@ -739,9 +635,7 @@
   },
   {
     "id": "core_consumable_dripfang_poison",
-    "name": {
-      "en-US": "Dripfang Poison"
-    },
+    "name": { "en-US": "Dripfang Poison" },
     "features": [
       {
         "description": [
@@ -757,45 +651,29 @@
   },
   {
     "id": "core_consumable_major_health_potion",
-    "name": {
-      "en-US": "Major Health Potion"
-    },
+    "name": { "en-US": "Major Health Potion" },
     "features": [
       {
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "Clear 1d4+2 HP."
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4+2 HP." } }
         ]
       }
     ]
   },
   {
     "id": "core_consumable_major_stamina_potion",
-    "name": {
-      "en-US": "Major Stamina Potion"
-    },
+    "name": { "en-US": "Major Stamina Potion" },
     "features": [
       {
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "Clear 1d4+2 Stress."
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4+2 Stress." } }
         ]
       }
     ]
   },
   {
     "id": "core_consumable_ogre_musk",
-    "name": {
-      "en-US": "Ogre Musk"
-    },
+    "name": { "en-US": "Ogre Musk" },
     "features": [
       {
         "description": [
@@ -811,9 +689,7 @@
   },
   {
     "id": "core_consumable_wingsprout",
-    "name": {
-      "en-US": "Wingsprout"
-    },
+    "name": { "en-US": "Wingsprout" },
     "features": [
       {
         "description": [
@@ -829,9 +705,7 @@
   },
   {
     "id": "core_consumable_jar_of_lost_voices",
-    "name": {
-      "en-US": "Jar of Lost Voices"
-    },
+    "name": { "en-US": "Jar of Lost Voices" },
     "features": [
       {
         "description": [
@@ -847,9 +721,7 @@
   },
   {
     "id": "core_consumable_dragonbloom_tea",
-    "name": {
-      "en-US": "Dragonbloom Tea"
-    },
+    "name": { "en-US": "Dragonbloom Tea" },
     "features": [
       {
         "description": [
@@ -865,9 +737,7 @@
   },
   {
     "id": "core_consumable_bridge_seed",
-    "name": {
-      "en-US": "Bridge Seed"
-    },
+    "name": { "en-US": "Bridge Seed" },
     "features": [
       {
         "description": [
@@ -883,9 +753,7 @@
   },
   {
     "id": "core_consumable_sleeping_sap",
-    "name": {
-      "en-US": "Sleeping Sap"
-    },
+    "name": { "en-US": "Sleeping Sap" },
     "features": [
       {
         "description": [
@@ -901,9 +769,7 @@
   },
   {
     "id": "core_consumable_feast_of_xuria",
-    "name": {
-      "en-US": "Feast of Xuria"
-    },
+    "name": { "en-US": "Feast of Xuria" },
     "features": [
       {
         "description": [
@@ -919,9 +785,7 @@
   },
   {
     "id": "core_consumable_bonding_honey",
-    "name": {
-      "en-US": "Bonding Honey"
-    },
+    "name": { "en-US": "Bonding Honey" },
     "features": [
       {
         "description": [
@@ -937,9 +801,7 @@
   },
   {
     "id": "core_consumable_shrinking_potion",
-    "name": {
-      "en-US": "Shrinking Potion"
-    },
+    "name": { "en-US": "Shrinking Potion" },
     "features": [
       {
         "description": [
@@ -955,9 +817,7 @@
   },
   {
     "id": "core_consumable_growing_potion",
-    "name": {
-      "en-US": "Growing Potion"
-    },
+    "name": { "en-US": "Growing Potion" },
     "features": [
       {
         "description": [
@@ -973,9 +833,7 @@
   },
   {
     "id": "core_consumable_knowledge_stone",
-    "name": {
-      "en-US": "Knowledge Stone"
-    },
+    "name": { "en-US": "Knowledge Stone" },
     "features": [
       {
         "description": [
@@ -991,9 +849,7 @@
   },
   {
     "id": "core_consumable_sweet_moss",
-    "name": {
-      "en-US": "Sweet Moss"
-    },
+    "name": { "en-US": "Sweet Moss" },
     "features": [
       {
         "description": [
@@ -1009,9 +865,7 @@
   },
   {
     "id": "core_consumable_blinding_orb",
-    "name": {
-      "en-US": "Blinding Orb"
-    },
+    "name": { "en-US": "Blinding Orb" },
     "features": [
       {
         "description": [
@@ -1027,9 +881,7 @@
   },
   {
     "id": "core_consumable_death_tea",
-    "name": {
-      "en-US": "Death Tea"
-    },
+    "name": { "en-US": "Death Tea" },
     "features": [
       {
         "description": [
@@ -1045,9 +897,7 @@
   },
   {
     "id": "core_consumable_mirror_of_marigold",
-    "name": {
-      "en-US": "Mirror of Marigold"
-    },
+    "name": { "en-US": "Mirror of Marigold" },
     "features": [
       {
         "description": [
@@ -1063,9 +913,7 @@
   },
   {
     "id": "core_consumable_stardrop",
-    "name": {
-      "en-US": "Stardrop"
-    },
+    "name": { "en-US": "Stardrop" },
     "features": [
       {
         "description": [
