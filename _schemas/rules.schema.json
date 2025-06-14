@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/rules.schema.json",
+  "type": "array",
+  "items": { "$ref": "./common/rule.schema.json" }
+}

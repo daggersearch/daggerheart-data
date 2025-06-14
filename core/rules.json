@@ -1,0 +1,351 @@
+[
+  {
+    "id": "core_rule_action_rolls",
+    "name": { "en-US": "Action Rolls" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Any move where success would be trivial or failure would be boring automatically succeeds, but any move that's difficult to accomplish or risky to attempt triggers an action roll."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "All action rolls require a pair of d12s called Duality Dice. These are two visually distinct twelve-sided dice, with one die representing Hope and the other representing Fear."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "To make an action roll, you roll the Duality Dice, sum the results, apply any relevant modifiers, and compare the total to a Difficulty number to determine the outcome:"
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Success with Hope - total ≥ Difficulty and Hope Die > Fear Die: you succeed and gain a Hope."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Success with Fear - total ≥ Difficulty and Fear Die > Hope Die: you succeed with a cost or complication and the GM gains a Fear."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Failure with Hope - total < Difficulty and Hope Die > Fear Die: you fail with a minor consequence and gain a Hope; the spotlight goes to the GM."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Failure with Fear - total < Difficulty and Hope Die > Fear Die: you fail with a major consequence and the GM gains a Fear; the spotlight goes to the GM."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Critical Success - the Duality Dice show matching results: you automatically succeed with a bonus, gain a Hope, and clear a Stress (and deal critical damage if it was an attack roll). A Critical Success counts as a roll “with Hope.”"
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "After resolving the action roll, the table works together to weave the outcome into the narrative and play continues."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_reaction_rolls",
+    "name": { "en-US": "Reaction Rolls" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "A reaction roll is made in response to an attack or a hazard, representing a character's attempt to avoid or withstand an imminent effect."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Reaction rolls work like action rolls, except they don't generate Hope or Fear, don't trigger additional GM moves, and other characters can't aid you with Help an Ally."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "If you critically succeed on a reaction roll, you don't clear a Stress or gain a Hope, but you do ignore any effects that would have impacted you on a success, such as taking damage or marking Stress."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_group_action_rolls",
+    "name": { "en-US": "Group Action Rolls" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "When multiple PCs take action together, the party chooses one PC to lead the action. Each other player then describes how their character collaborates on the task. The leader makes an action roll as usual, while the other players make reaction rolls using whichever traits they and the GM decide fit best."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "The lead character gains a +1 bonus to their lead action roll for each of these reaction rolls that succeeded and a −1 penalty for each that failed."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_tag_team_rolls",
+    "name": { "en-US": "Tag Team Rolls" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Each player can, once per session, initiate a Tag Team Roll between their character and another PC by spending 3 Hope. The players describe how they combine their actions in a unique and exciting way. Both players make separate action rolls; before resolving the rolls, choose one set of results to apply to both actions. On a roll with Hope all PCs involved gain a Hope; on a roll with Fear the GM gains a Fear token for each PC involved."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "On a successful Tag Team attack roll, both players roll damage and add the totals together; treat the damage as if it came from a single source (choose which damage type applies if they differ). A Tag Team Roll counts as one action roll for countdowns or features that track action rolls, and although each player may only initiate one per session, a PC can participate in multiple Tag Team Rolls."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_advantage_disadvantage",
+    "name": { "en-US": "Advantage & Disadvantage" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Some features and effects let you roll with advantage or disadvantage on an action or reaction roll:"
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Advantage represents an opportunity that you seize to increase your chances of success. When you roll with advantage, you roll a d6 advantage die with your dice pool and add its result to your total."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Disadvantage represents an additional difficulty, hardship, or challenge you face. When you roll with disadvantage, you roll a d6 disadvantage die with your dice pool and subtract its result from your total."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Advantage or disadvantage can be granted or imposed by mechanical triggers or at the GM's discretion. When a PC aids you with Help an Ally, they roll their own advantage die and you add it to your total."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Advantage and disadvantage dice cancel each other, one-for-one, so you never roll both at the same time. If you have advantage or disadvantage from sources that don't add dice to your pool (such as another player's Help an Ally), their effects stack with your results."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_help_an_ally",
+    "name": { "en-US": "Help an Ally" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "When you Help an Ally who is making an action roll, describe how you do so and roll an advantage die. Multiple players can spend Hope to help the same acting player, but that player only adds the highest result to their final total."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_activate_hope_feature",
+    "name": { "en-US": "Activate a Hope Feature" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "A Hope Feature is any effect that allows (or requires) you to spend a specified amount of Hope to activate it. Class Hope features are class-specific features, detailed on your character sheet, that cost 3 Hope to activate."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Note: When using a Hope Feature, if you rolled with Hope for that action, the Hope you gain from that roll can be spent on that feature (or toward it, if it requires multiple Hope)."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_attack_rolls",
+    "name": { "en-US": "Attack Rolls" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "When a PC uses a weapon to harm an adversary, they make an attack roll. The player chooses an equipped weapon, then rolls the Duality Dice and applies the weapon's attack modifier, any modifiers from features, items, or conditions, and any advantage or disadvantage dice to the total. On a success, the attack hits and you roll damage using your Proficiency and the weapon's damage dice. On a failure, the attack misses."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_damage_rolls",
+    "name": { "en-US": "Damage Rolls" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "After a successful attack or damaging spell, you roll damage dice equal to your Proficiency using the weapon or feature's listed damage dice. Add any flat modifiers listed on the weapon or feature, as well as bonuses from critical success or other effects. When you deal critical damage, double the total result of your damage dice before adding modifiers."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_spellcast_rolls",
+    "name": { "en-US": "Spellcast Rolls" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Spellcast Rolls are trait rolls that require you to use your Spellcast trait, which is determined by your subclass."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Spellcast Rolls are only made when a character uses a feature that requires one. A successful Spellcast Roll activates the effect as described by the feature."
+        }
+      },
+      { "type": "PARAGRAPH", "text": { "en-US": "Notes" } },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "A Spellcast Roll that can damage a target is also considered an attack roll."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "The text of a spell tells you when its effect ends; the GM can spend a Fear to end a temporary effect. If a spell doesn't specify, it ends when you choose or at a natural story moment."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "You can cast and maintain more than one spell at the same time."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_evasion",
+    "name": { "en-US": "Evasion" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Evasion represents a character's ability to avoid attacks and other unwanted effects. Any roll made against a PC has a Difficulty equal to the target's Evasion. A PC's base Evasion is determined by their class, but can be modified by domain cards, equipment, conditions, and other effects."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Note: attacks rolled against adversaries use the target's Difficulty instead of Evasion."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_conditions_restrained_vulnerable",
+    "name": { "en-US": "Conditions - Restrained & Vulnerable" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "RESTRAINED - Restrained characters can't move, but you can still take actions from their current position."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "VULNERABLE - When a creature is Vulnerable, all rolls targeting them have advantage."
+        }
+      },
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Unless otherwise noted, the same condition can't be applied more than once to the same target."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_range_bands",
+    "name": { "en-US": "Range Bands" },
+    "description": [
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Close - Everything within roughly a stone's throw."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Very Close - Within arm's reach—Melee attacks can always reach."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Far - Everything within shouting distance but beyond a stone's throw."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Very Far - Anything beyond communication distance."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core_rule_cover",
+    "name": { "en-US": "Cover" },
+    "description": [
+      {
+        "type": "PARAGRAPH",
+        "text": {
+          "en-US": "Physical obstructions, allies, and terrain can protect you from harm. There are three types of cover:"
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Light Cover - +1 to Evasion against ranged attacks."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Full Cover - +2 to Evasion against ranged attacks."
+        }
+      },
+      {
+        "type": "LIST_ITEM",
+        "text": {
+          "en-US": "Total Cover - cannot be targeted by ranged attacks until you move or the cover is removed."
+        }
+      }
+    ]
+  }
+]
