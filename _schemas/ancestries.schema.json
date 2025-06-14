@@ -2,7 +2,5 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://daggersearch.com/schemas/ancestries.schema.json",
   "type": "array",
-  "items": {
-    "$ref": "./common/ancestry.schema.json"
-  }
+  "items": { "$ref": "./common/ancestry.schema.json" }
 }

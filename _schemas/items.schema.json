@@ -2,7 +2,5 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://daggersearch.com/schemas/items.schema.json",
   "type": "array",
-  "items": {
-    "$ref": "./common/item.schema.json"
-  }
+  "items": { "$ref": "./common/item.schema.json" }
 }

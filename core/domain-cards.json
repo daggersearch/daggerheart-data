@@ -1,9 +1,7 @@
 [
   {
     "id": "core_domain_card_a_soldiers_bond",
-    "name": {
-      "en-US": "A Soldier's Bond"
-    },
+    "name": { "en-US": "A Soldier's Bond" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 2,
@@ -23,9 +21,7 @@
   },
   {
     "id": "core_domain_card_adjust_reality",
-    "name": {
-      "en-US": "Adjust Reality"
-    },
+    "name": { "en-US": "Adjust Reality" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 10,
@@ -45,9 +41,7 @@
   },
   {
     "id": "core_domain_card_arcana_touched",
-    "name": {
-      "en-US": "Arcana-Touched"
-    },
+    "name": { "en-US": "Arcana-Touched" },
     "domain": "ARCANA",
     "type": "ABILITY",
     "level": 7,
@@ -67,9 +61,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "+1 bonus to your Spellcast Rolls"
-            }
+            "text": { "en-US": "+1 bonus to your Spellcast Rolls" }
           }
         ]
       },
@@ -87,9 +79,7 @@
   },
   {
     "id": "core_domain_card_arcane_reflection",
-    "name": {
-      "en-US": "Arcane Reflection"
-    },
+    "name": { "en-US": "Arcane Reflection" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 8,
@@ -109,9 +99,7 @@
   },
   {
     "id": "core_domain_card_armorer",
-    "name": {
-      "en-US": "Armorer"
-    },
+    "name": { "en-US": "Armorer" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 5,
@@ -141,9 +129,7 @@
   },
   {
     "id": "core_domain_card_astral_projection",
-    "name": {
-      "en-US": "Astral Projection"
-    },
+    "name": { "en-US": "Astral Projection" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 8,
@@ -173,9 +159,7 @@
   },
   {
     "id": "core_domain_card_banish",
-    "name": {
-      "en-US": "Banish"
-    },
+    "name": { "en-US": "Banish" },
     "domain": "CODEX",
     "type": "SPELL",
     "level": 6,
@@ -205,9 +189,7 @@
   },
   {
     "id": "core_domain_card_bare_bones",
-    "name": {
-      "en-US": "Bare Bones"
-    },
+    "name": { "en-US": "Bare Bones" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 1,
@@ -225,51 +207,29 @@
       },
       {
         "description": [
-          {
-            "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Tier 1: 9/19"
-            }
-          }
+          { "type": "LIST_ITEM", "text": { "en-US": "Tier 1: 9/19" } }
         ]
       },
       {
         "description": [
-          {
-            "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Tier 2: 11/24"
-            }
-          }
+          { "type": "LIST_ITEM", "text": { "en-US": "Tier 2: 11/24" } }
         ]
       },
       {
         "description": [
-          {
-            "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Tier 3: 13/31"
-            }
-          }
+          { "type": "LIST_ITEM", "text": { "en-US": "Tier 3: 13/31" } }
         ]
       },
       {
         "description": [
-          {
-            "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Tier 4: 15/38"
-            }
-          }
+          { "type": "LIST_ITEM", "text": { "en-US": "Tier 4: 15/38" } }
         ]
       }
     ]
   },
   {
     "id": "core_domain_card_battle_cry",
-    "name": {
-      "en-US": "Battle Cry"
-    },
+    "name": { "en-US": "Battle Cry" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 8,
@@ -289,9 +249,7 @@
   },
   {
     "id": "core_domain_card_battle_monster",
-    "name": {
-      "en-US": "Battle Monster"
-    },
+    "name": { "en-US": "Battle Monster" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 10,
@@ -311,9 +269,7 @@
   },
   {
     "id": "core_domain_card_battle_hardened",
-    "name": {
-      "en-US": "Battle-Hardened"
-    },
+    "name": { "en-US": "Battle-Hardened" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 6,
@@ -333,9 +289,7 @@
   },
   {
     "id": "core_domain_card_blade_touched",
-    "name": {
-      "en-US": "Blade-Touched"
-    },
+    "name": { "en-US": "Blade-Touched" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 7,
@@ -355,9 +309,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "+2 bonus to your attack rolls"
-            }
+            "text": { "en-US": "+2 bonus to your attack rolls" }
           }
         ]
       },
@@ -365,9 +317,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "+4 bonus to your Severe damage threshold"
-            }
+            "text": { "en-US": "+4 bonus to your Severe damage threshold" }
           }
         ]
       }
@@ -375,9 +325,7 @@
   },
   {
     "id": "core_domain_card_blink_out",
-    "name": {
-      "en-US": "Blink Out"
-    },
+    "name": { "en-US": "Blink Out" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 4,
@@ -397,9 +345,7 @@
   },
   {
     "id": "core_domain_card_body_basher",
-    "name": {
-      "en-US": "Body Basher"
-    },
+    "name": { "en-US": "Body Basher" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 2,
@@ -419,9 +365,7 @@
   },
   {
     "id": "core_domain_card_bold_presence",
-    "name": {
-      "en-US": "Bold Presence"
-    },
+    "name": { "en-US": "Bold Presence" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 2,
@@ -451,9 +395,7 @@
   },
   {
     "id": "core_domain_card_bolt_beacon",
-    "name": {
-      "en-US": "Bolt Beacon"
-    },
+    "name": { "en-US": "Bolt Beacon" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 1,
@@ -473,9 +415,7 @@
   },
   {
     "id": "core_domain_card_bone_touched",
-    "name": {
-      "en-US": "Bone-Touched"
-    },
+    "name": { "en-US": "Bone-Touched" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 7,
@@ -493,12 +433,7 @@
       },
       {
         "description": [
-          {
-            "type": "LIST_ITEM",
-            "text": {
-              "en-US": "+1 bonus to Agility"
-            }
-          }
+          { "type": "LIST_ITEM", "text": { "en-US": "+1 bonus to Agility" } }
         ]
       },
       {
@@ -515,18 +450,14 @@
   },
   {
     "id": "core_domain_card_book_of_ava",
-    "name": {
-      "en-US": "Book of Ava"
-    },
+    "name": { "en-US": "Book of Ava" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 1,
     "recallCost": 2,
     "features": [
       {
-        "name": {
-          "en-US": "Power Push"
-        },
+        "name": { "en-US": "Power Push" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -537,9 +468,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Tava's Armor"
-        },
+        "name": { "en-US": "Tava's Armor" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -550,9 +479,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Ice Spike"
-        },
+        "name": { "en-US": "Ice Spike" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -566,18 +493,14 @@
   },
   {
     "id": "core_domain_card_book_of_exota",
-    "name": {
-      "en-US": "Book of Exota"
-    },
+    "name": { "en-US": "Book of Exota" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 4,
     "recallCost": 3,
     "features": [
       {
-        "name": {
-          "en-US": "Repudiate"
-        },
+        "name": { "en-US": "Repudiate" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -588,9 +511,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Create Construct"
-        },
+        "name": { "en-US": "Create Construct" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -604,18 +525,14 @@
   },
   {
     "id": "core_domain_card_book_of_grynn",
-    "name": {
-      "en-US": "Book of Grynn"
-    },
+    "name": { "en-US": "Book of Grynn" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 4,
     "recallCost": 2,
     "features": [
       {
-        "name": {
-          "en-US": "Arcane Deflection"
-        },
+        "name": { "en-US": "Arcane Deflection" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -626,9 +543,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Time Lock"
-        },
+        "name": { "en-US": "Time Lock" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -639,9 +554,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Wall of Flame"
-        },
+        "name": { "en-US": "Wall of Flame" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -655,18 +568,14 @@
   },
   {
     "id": "core_domain_card_book_of_homet",
-    "name": {
-      "en-US": "Book of Homet"
-    },
+    "name": { "en-US": "Book of Homet" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 7,
     "recallCost": 0,
     "features": [
       {
-        "name": {
-          "en-US": "Pass Through"
-        },
+        "name": { "en-US": "Pass Through" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -677,9 +586,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Plane Gate"
-        },
+        "name": { "en-US": "Plane Gate" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -693,18 +600,14 @@
   },
   {
     "id": "core_domain_card_book_of_illiat",
-    "name": {
-      "en-US": "Book of Illiat"
-    },
+    "name": { "en-US": "Book of Illiat" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 1,
     "recallCost": 2,
     "features": [
       {
-        "name": {
-          "en-US": "Slumber"
-        },
+        "name": { "en-US": "Slumber" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -715,9 +618,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Arcane Barrage"
-        },
+        "name": { "en-US": "Arcane Barrage" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -728,9 +629,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Telepathy"
-        },
+        "name": { "en-US": "Telepathy" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -744,18 +643,14 @@
   },
   {
     "id": "core_domain_card_book_of_korvax",
-    "name": {
-      "en-US": "Book of Korvax"
-    },
+    "name": { "en-US": "Book of Korvax" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 3,
     "recallCost": 2,
     "features": [
       {
-        "name": {
-          "en-US": "Levitation"
-        },
+        "name": { "en-US": "Levitation" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -766,9 +661,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Recant"
-        },
+        "name": { "en-US": "Recant" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -779,9 +672,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Rune Circle"
-        },
+        "name": { "en-US": "Rune Circle" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -795,18 +686,14 @@
   },
   {
     "id": "core_domain_card_book_of_norai",
-    "name": {
-      "en-US": "Book of Norai"
-    },
+    "name": { "en-US": "Book of Norai" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 3,
     "recallCost": 2,
     "features": [
       {
-        "name": {
-          "en-US": "Mystic Tether"
-        },
+        "name": { "en-US": "Mystic Tether" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -817,9 +704,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Fireball"
-        },
+        "name": { "en-US": "Fireball" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -833,18 +718,14 @@
   },
   {
     "id": "core_domain_card_book_of_ronin",
-    "name": {
-      "en-US": "Book of Ronin"
-    },
+    "name": { "en-US": "Book of Ronin" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 9,
     "recallCost": 4,
     "features": [
       {
-        "name": {
-          "en-US": "Transform"
-        },
+        "name": { "en-US": "Transform" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -855,9 +736,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Eternal Enervation"
-        },
+        "name": { "en-US": "Eternal Enervation" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -871,18 +750,14 @@
   },
   {
     "id": "core_domain_card_book_of_sitil",
-    "name": {
-      "en-US": "Book of Sitil"
-    },
+    "name": { "en-US": "Book of Sitil" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 2,
     "recallCost": 2,
     "features": [
       {
-        "name": {
-          "en-US": "Adjust Appearance"
-        },
+        "name": { "en-US": "Adjust Appearance" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -893,9 +768,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Parallela"
-        },
+        "name": { "en-US": "Parallela" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -906,9 +779,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Illusion"
-        },
+        "name": { "en-US": "Illusion" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -922,18 +793,14 @@
   },
   {
     "id": "core_domain_card_book_of_tyfar",
-    "name": {
-      "en-US": "Book of Tyfar"
-    },
+    "name": { "en-US": "Book of Tyfar" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 1,
     "recallCost": 2,
     "features": [
       {
-        "name": {
-          "en-US": "Wild Flame"
-        },
+        "name": { "en-US": "Wild Flame" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -944,9 +811,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Magic Hand"
-        },
+        "name": { "en-US": "Magic Hand" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -957,9 +822,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Mysterious Mist"
-        },
+        "name": { "en-US": "Mysterious Mist" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -973,18 +836,14 @@
   },
   {
     "id": "core_domain_card_book_of_vagras",
-    "name": {
-      "en-US": "Book of Vagras"
-    },
+    "name": { "en-US": "Book of Vagras" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 2,
     "recallCost": 2,
     "features": [
       {
-        "name": {
-          "en-US": "Runic Lock"
-        },
+        "name": { "en-US": "Runic Lock" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -995,9 +854,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Arcane Door"
-        },
+        "name": { "en-US": "Arcane Door" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1008,9 +865,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Reveal"
-        },
+        "name": { "en-US": "Reveal" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1024,18 +879,14 @@
   },
   {
     "id": "core_domain_card_book_of_vyola",
-    "name": {
-      "en-US": "Book of Vyola"
-    },
+    "name": { "en-US": "Book of Vyola" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 8,
     "recallCost": 2,
     "features": [
       {
-        "name": {
-          "en-US": "Memory Delve"
-        },
+        "name": { "en-US": "Memory Delve" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1046,9 +897,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Shared Clarity"
-        },
+        "name": { "en-US": "Shared Clarity" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1062,18 +911,14 @@
   },
   {
     "id": "core_domain_card_book_of_yarrow",
-    "name": {
-      "en-US": "Book of Yarrow"
-    },
+    "name": { "en-US": "Book of Yarrow" },
     "domain": "CODEX",
     "type": "GRIMOIRE",
     "level": 10,
     "recallCost": 2,
     "features": [
       {
-        "name": {
-          "en-US": "Timejammer"
-        },
+        "name": { "en-US": "Timejammer" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1084,9 +929,7 @@
         ]
       },
       {
-        "name": {
-          "en-US": "Magic Immunity"
-        },
+        "name": { "en-US": "Magic Immunity" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1100,9 +943,7 @@
   },
   {
     "id": "core_domain_card_boost",
-    "name": {
-      "en-US": "Boost"
-    },
+    "name": { "en-US": "Boost" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 4,
@@ -1122,9 +963,7 @@
   },
   {
     "id": "core_domain_card_brace",
-    "name": {
-      "en-US": "Brace"
-    },
+    "name": { "en-US": "Brace" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 3,
@@ -1144,9 +983,7 @@
   },
   {
     "id": "core_domain_card_breaking_blow",
-    "name": {
-      "en-US": "Breaking Blow"
-    },
+    "name": { "en-US": "Breaking Blow" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 8,
@@ -1166,9 +1003,7 @@
   },
   {
     "id": "core_domain_card_chain_lightning",
-    "name": {
-      "en-US": "Chain Lightning"
-    },
+    "name": { "en-US": "Chain Lightning" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 5,
@@ -1188,9 +1023,7 @@
   },
   {
     "id": "core_domain_card_champions_edge",
-    "name": {
-      "en-US": "Champion's Edge"
-    },
+    "name": { "en-US": "Champion's Edge" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 5,
@@ -1208,11 +1041,14 @@
       },
       {
         "description": [
+          { "type": "LIST_ITEM", "text": { "en-US": "You clear a Hit Point." } }
+        ]
+      },
+      {
+        "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "You clear a Hit Point."
-            }
+            "text": { "en-US": "You clear an Armor Slot." }
           }
         ]
       },
@@ -1220,19 +1056,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "You clear an Armor Slot."
-            }
-          }
-        ]
-      },
-      {
-        "description": [
-          {
-            "type": "LIST_ITEM",
-            "text": {
-              "en-US": "The target must mark an additional Hit Point."
-            }
+            "text": { "en-US": "The target must mark an additional Hit Point." }
           }
         ]
       },
@@ -1250,9 +1074,7 @@
   },
   {
     "id": "core_domain_card_chokehold",
-    "name": {
-      "en-US": "Chokehold"
-    },
+    "name": { "en-US": "Chokehold" },
     "domain": "MIDNIGHT",
     "type": "ABILITY",
     "level": 3,
@@ -1282,9 +1104,7 @@
   },
   {
     "id": "core_domain_card_cinder_grasp",
-    "name": {
-      "en-US": "Cinder Grasp"
-    },
+    "name": { "en-US": "Cinder Grasp" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 2,
@@ -1314,9 +1134,7 @@
   },
   {
     "id": "core_domain_card_cloaking_blast",
-    "name": {
-      "en-US": "Cloaking Blast"
-    },
+    "name": { "en-US": "Cloaking Blast" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 7,
@@ -1336,9 +1154,7 @@
   },
   {
     "id": "core_domain_card_codex_touched",
-    "name": {
-      "en-US": "Codex-Touched"
-    },
+    "name": { "en-US": "Codex-Touched" },
     "domain": "CODEX",
     "type": "ABILITY",
     "level": 7,
@@ -1378,9 +1194,7 @@
   },
   {
     "id": "core_domain_card_confusing_aura",
-    "name": {
-      "en-US": "Confusing Aura"
-    },
+    "name": { "en-US": "Confusing Aura" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 8,
@@ -1400,9 +1214,7 @@
   },
   {
     "id": "core_domain_card_conjure_swarm",
-    "name": {
-      "en-US": "Conjure Swarm"
-    },
+    "name": { "en-US": "Conjure Swarm" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 2,
@@ -1432,9 +1244,7 @@
   },
   {
     "id": "core_domain_card_conjured_steeds",
-    "name": {
-      "en-US": "Conjured Steeds"
-    },
+    "name": { "en-US": "Conjured Steeds" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 6,
@@ -1454,9 +1264,7 @@
   },
   {
     "id": "core_domain_card_copycat",
-    "name": {
-      "en-US": "Copycat"
-    },
+    "name": { "en-US": "Copycat" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 9,
@@ -1476,9 +1284,7 @@
   },
   {
     "id": "core_domain_card_corrosive_projectile",
-    "name": {
-      "en-US": "Corrosive Projectile"
-    },
+    "name": { "en-US": "Corrosive Projectile" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 3,
@@ -1498,9 +1304,7 @@
   },
   {
     "id": "core_domain_card_counterspell",
-    "name": {
-      "en-US": "Counterspell"
-    },
+    "name": { "en-US": "Counterspell" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 3,
@@ -1520,9 +1324,7 @@
   },
   {
     "id": "core_domain_card_critical_inspiration",
-    "name": {
-      "en-US": "Critical Inspiration"
-    },
+    "name": { "en-US": "Critical Inspiration" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 3,
@@ -1542,9 +1344,7 @@
   },
   {
     "id": "core_domain_card_cruel_precision",
-    "name": {
-      "en-US": "Cruel Precision"
-    },
+    "name": { "en-US": "Cruel Precision" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 7,
@@ -1564,9 +1364,7 @@
   },
   {
     "id": "core_domain_card_dark_whispers",
-    "name": {
-      "en-US": "Dark Whispers"
-    },
+    "name": { "en-US": "Dark Whispers" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 6,
@@ -1584,11 +1382,19 @@
       },
       {
         "description": [
+          { "type": "LIST_ITEM", "text": { "en-US": "Where are they?" } }
+        ]
+      },
+      {
+        "description": [
+          { "type": "LIST_ITEM", "text": { "en-US": "What are they doing?" } }
+        ]
+      },
+      {
+        "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Where are they?"
-            }
+            "text": { "en-US": "What are they afraid of?" }
           }
         ]
       },
@@ -1596,29 +1402,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "What are they doing?"
-            }
-          }
-        ]
-      },
-      {
-        "description": [
-          {
-            "type": "LIST_ITEM",
-            "text": {
-              "en-US": "What are they afraid of?"
-            }
-          }
-        ]
-      },
-      {
-        "description": [
-          {
-            "type": "LIST_ITEM",
-            "text": {
-              "en-US": "What do they cherish most in the world?"
-            }
+            "text": { "en-US": "What do they cherish most in the world?" }
           }
         ]
       }
@@ -1626,9 +1410,7 @@
   },
   {
     "id": "core_domain_card_deadly_focus",
-    "name": {
-      "en-US": "Deadly Focus"
-    },
+    "name": { "en-US": "Deadly Focus" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 4,
@@ -1648,9 +1430,7 @@
   },
   {
     "id": "core_domain_card_death_grip",
-    "name": {
-      "en-US": "Death Grip"
-    },
+    "name": { "en-US": "Death Grip" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 4,
@@ -1710,9 +1490,7 @@
   },
   {
     "id": "core_domain_card_deathrun",
-    "name": {
-      "en-US": "Deathrun"
-    },
+    "name": { "en-US": "Deathrun" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 10,
@@ -1742,9 +1520,7 @@
   },
   {
     "id": "core_domain_card_deft_deceiver",
-    "name": {
-      "en-US": "Deft Deceiver"
-    },
+    "name": { "en-US": "Deft Deceiver" },
     "domain": "GRACE",
     "type": "ABILITY",
     "level": 1,
@@ -1764,9 +1540,7 @@
   },
   {
     "id": "core_domain_card_deft_maneuvers",
-    "name": {
-      "en-US": "Deft Maneuvers"
-    },
+    "name": { "en-US": "Deft Maneuvers" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 1,
@@ -1796,9 +1570,7 @@
   },
   {
     "id": "core_domain_card_disintegration_wave",
-    "name": {
-      "en-US": "Disintegration Wave"
-    },
+    "name": { "en-US": "Disintegration Wave" },
     "domain": "CODEX",
     "type": "SPELL",
     "level": 9,
@@ -1818,9 +1590,7 @@
   },
   {
     "id": "core_domain_card_divination",
-    "name": {
-      "en-US": "Divination"
-    },
+    "name": { "en-US": "Divination" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 4,
@@ -1840,9 +1610,7 @@
   },
   {
     "id": "core_domain_card_earthquake",
-    "name": {
-      "en-US": "Earthquake"
-    },
+    "name": { "en-US": "Earthquake" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 9,
@@ -1872,9 +1640,7 @@
   },
   {
     "id": "core_domain_card_eclipse",
-    "name": {
-      "en-US": "Eclipse"
-    },
+    "name": { "en-US": "Eclipse" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 10,
@@ -1914,9 +1680,7 @@
   },
   {
     "id": "core_domain_card_encore",
-    "name": {
-      "en-US": "Encore"
-    },
+    "name": { "en-US": "Encore" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 10,
@@ -1936,9 +1700,7 @@
   },
   {
     "id": "core_domain_card_endless_charisma",
-    "name": {
-      "en-US": "Endless Charisma"
-    },
+    "name": { "en-US": "Endless Charisma" },
     "domain": "GRACE",
     "type": "ABILITY",
     "level": 7,
@@ -1958,9 +1720,7 @@
   },
   {
     "id": "core_domain_card_enrapture",
-    "name": {
-      "en-US": "Enrapture"
-    },
+    "name": { "en-US": "Enrapture" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 1,
@@ -1980,9 +1740,7 @@
   },
   {
     "id": "core_domain_card_falling_sky",
-    "name": {
-      "en-US": "Falling Sky"
-    },
+    "name": { "en-US": "Falling Sky" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 10,
@@ -2002,9 +1760,7 @@
   },
   {
     "id": "core_domain_card_fane_of_the_wilds",
-    "name": {
-      "en-US": "Fane of the Wilds"
-    },
+    "name": { "en-US": "Fane of the Wilds" },
     "domain": "SAGE",
     "type": "ABILITY",
     "level": 9,
@@ -2054,9 +1810,7 @@
   },
   {
     "id": "core_domain_card_ferocity",
-    "name": {
-      "en-US": "Ferocity"
-    },
+    "name": { "en-US": "Ferocity" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 2,
@@ -2076,9 +1830,7 @@
   },
   {
     "id": "core_domain_card_final_words",
-    "name": {
-      "en-US": "Final Words"
-    },
+    "name": { "en-US": "Final Words" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 2,
@@ -2098,9 +1850,7 @@
   },
   {
     "id": "core_domain_card_flight",
-    "name": {
-      "en-US": "Flight"
-    },
+    "name": { "en-US": "Flight" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 3,
@@ -2120,9 +1870,7 @@
   },
   {
     "id": "core_domain_card_floating_eye",
-    "name": {
-      "en-US": "Floating Eye"
-    },
+    "name": { "en-US": "Floating Eye" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 2,
@@ -2142,9 +1890,7 @@
   },
   {
     "id": "core_domain_card_forager",
-    "name": {
-      "en-US": "Forager"
-    },
+    "name": { "en-US": "Forager" },
     "domain": "SAGE",
     "type": "ABILITY",
     "level": 6,
@@ -2164,9 +1910,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "A unique food (Clear 2 Stress)"
-            }
+            "text": { "en-US": "A unique food (Clear 2 Stress)" }
           }
         ]
       },
@@ -2174,9 +1918,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "A beautiful relic (Gain 2 Hope)"
-            }
+            "text": { "en-US": "A beautiful relic (Gain 2 Hope)" }
           }
         ]
       },
@@ -2184,9 +1926,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "An arcane rune (+2 to a Spellcast Roll)"
-            }
+            "text": { "en-US": "An arcane rune (+2 to a Spellcast Roll)" }
           }
         ]
       },
@@ -2194,9 +1934,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "A healing vial (Clear 2 Hit Points)"
-            }
+            "text": { "en-US": "A healing vial (Clear 2 Hit Points)" }
           }
         ]
       },
@@ -2204,9 +1942,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "A luck charm (Reroll any die)"
-            }
+            "text": { "en-US": "A luck charm (Reroll any die)" }
           }
         ]
       },
@@ -2214,9 +1950,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Choose one of the options above."
-            }
+            "text": { "en-US": "Choose one of the options above." }
           }
         ]
       }
@@ -2224,9 +1958,7 @@
   },
   {
     "id": "core_domain_card_force_of_nature",
-    "name": {
-      "en-US": "Force of Nature"
-    },
+    "name": { "en-US": "Force of Nature" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 10,
@@ -2266,9 +1998,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "You can't be Restrained."
-            }
+            "text": { "en-US": "You can't be Restrained." }
           }
         ]
       },
@@ -2286,9 +2016,7 @@
   },
   {
     "id": "core_domain_card_forceful_push",
-    "name": {
-      "en-US": "Forceful Push"
-    },
+    "name": { "en-US": "Forceful Push" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 1,
@@ -2318,9 +2046,7 @@
   },
   {
     "id": "core_domain_card_forest_sprites",
-    "name": {
-      "en-US": "Forest Sprites"
-    },
+    "name": { "en-US": "Forest Sprites" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 8,
@@ -2370,9 +2096,7 @@
   },
   {
     "id": "core_domain_card_fortified_armor",
-    "name": {
-      "en-US": "Fortified Armor"
-    },
+    "name": { "en-US": "Fortified Armor" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 4,
@@ -2392,9 +2116,7 @@
   },
   {
     "id": "core_domain_card_frenzy",
-    "name": {
-      "en-US": "Frenzy"
-    },
+    "name": { "en-US": "Frenzy" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 8,
@@ -2424,9 +2146,7 @@
   },
   {
     "id": "core_domain_card_full_surge",
-    "name": {
-      "en-US": "Full Surge"
-    },
+    "name": { "en-US": "Full Surge" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 8,
@@ -2446,9 +2166,7 @@
   },
   {
     "id": "core_domain_card_get_back_up",
-    "name": {
-      "en-US": "Get Back Up"
-    },
+    "name": { "en-US": "Get Back Up" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 1,
@@ -2468,9 +2186,7 @@
   },
   {
     "id": "core_domain_card_gifted_tracker",
-    "name": {
-      "en-US": "Gifted Tracker"
-    },
+    "name": { "en-US": "Gifted Tracker" },
     "domain": "SAGE",
     "type": "ABILITY",
     "level": 1,
@@ -2490,9 +2206,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "What direction did they go?"
-            }
+            "text": { "en-US": "What direction did they go?" }
           }
         ]
       },
@@ -2500,9 +2214,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "How long ago did they pass through?"
-            }
+            "text": { "en-US": "How long ago did they pass through?" }
           }
         ]
       },
@@ -2510,9 +2222,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "What were they doing in this location?"
-            }
+            "text": { "en-US": "What were they doing in this location?" }
           }
         ]
       },
@@ -2520,9 +2230,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "How many of them were here?"
-            }
+            "text": { "en-US": "How many of them were here?" }
           }
         ]
       },
@@ -2540,9 +2248,7 @@
   },
   {
     "id": "core_domain_card_glancing_blow",
-    "name": {
-      "en-US": "Glancing Blow"
-    },
+    "name": { "en-US": "Glancing Blow" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 7,
@@ -2562,9 +2268,7 @@
   },
   {
     "id": "core_domain_card_glyph_of_nightfall",
-    "name": {
-      "en-US": "Glyph of Nightfall"
-    },
+    "name": { "en-US": "Glyph of Nightfall" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 4,
@@ -2584,9 +2288,7 @@
   },
   {
     "id": "core_domain_card_goad_them_on",
-    "name": {
-      "en-US": "Goad Them On"
-    },
+    "name": { "en-US": "Goad Them On" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 4,
@@ -2606,9 +2308,7 @@
   },
   {
     "id": "core_domain_card_gore_and_glory",
-    "name": {
-      "en-US": "Gore and Glory"
-    },
+    "name": { "en-US": "Gore and Glory" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 9,
@@ -2638,9 +2338,7 @@
   },
   {
     "id": "core_domain_card_grace_touched",
-    "name": {
-      "en-US": "Grace-Touched"
-    },
+    "name": { "en-US": "Grace-Touched" },
     "domain": "GRACE",
     "type": "ABILITY",
     "level": 7,
@@ -2680,9 +2378,7 @@
   },
   {
     "id": "core_domain_card_ground_pound",
-    "name": {
-      "en-US": "Ground Pound"
-    },
+    "name": { "en-US": "Ground Pound" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 8,
@@ -2702,9 +2398,7 @@
   },
   {
     "id": "core_domain_card_healing_field",
-    "name": {
-      "en-US": "Healing Field"
-    },
+    "name": { "en-US": "Healing Field" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 4,
@@ -2734,9 +2428,7 @@
   },
   {
     "id": "core_domain_card_healing_hands",
-    "name": {
-      "en-US": "Healing Hands"
-    },
+    "name": { "en-US": "Healing Hands" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 2,
@@ -2756,9 +2448,7 @@
   },
   {
     "id": "core_domain_card_healing_strike",
-    "name": {
-      "en-US": "Healing Strike"
-    },
+    "name": { "en-US": "Healing Strike" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 7,
@@ -2778,9 +2468,7 @@
   },
   {
     "id": "core_domain_card_hold_the_line",
-    "name": {
-      "en-US": "Hold the Line"
-    },
+    "name": { "en-US": "Hold the Line" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 9,
@@ -2810,9 +2498,7 @@
   },
   {
     "id": "core_domain_card_hush",
-    "name": {
-      "en-US": "Hush"
-    },
+    "name": { "en-US": "Hush" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 5,
@@ -2842,9 +2528,7 @@
   },
   {
     "id": "core_domain_card_hypnotic_shimmer",
-    "name": {
-      "en-US": "Hypnotic Shimmer"
-    },
+    "name": { "en-US": "Hypnotic Shimmer" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 3,
@@ -2864,9 +2548,7 @@
   },
   {
     "id": "core_domain_card_i_am_your_shield",
-    "name": {
-      "en-US": "I Am Your Shield"
-    },
+    "name": { "en-US": "I Am Your Shield" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 1,
@@ -2886,9 +2568,7 @@
   },
   {
     "id": "core_domain_card_i_see_it_coming",
-    "name": {
-      "en-US": "I See It Coming"
-    },
+    "name": { "en-US": "I See It Coming" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 1,
@@ -2908,9 +2588,7 @@
   },
   {
     "id": "core_domain_card_inevitable",
-    "name": {
-      "en-US": "Inevitable"
-    },
+    "name": { "en-US": "Inevitable" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 6,
@@ -2930,9 +2608,7 @@
   },
   {
     "id": "core_domain_card_inspirational_words",
-    "name": {
-      "en-US": "Inspirational Words"
-    },
+    "name": { "en-US": "Inspirational Words" },
     "domain": "GRACE",
     "type": "ABILITY",
     "level": 1,
@@ -2952,9 +2628,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Your ally clears a Stress."
-            }
+            "text": { "en-US": "Your ally clears a Stress." }
           }
         ]
       },
@@ -2962,9 +2636,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Your ally clears a Hit Point."
-            }
+            "text": { "en-US": "Your ally clears a Hit Point." }
           }
         ]
       },
@@ -2972,9 +2644,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Your ally gains a Hope."
-            }
+            "text": { "en-US": "Your ally gains a Hope." }
           }
         ]
       },
@@ -2992,9 +2662,7 @@
   },
   {
     "id": "core_domain_card_invigoration",
-    "name": {
-      "en-US": "Invigoration"
-    },
+    "name": { "en-US": "Invigoration" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 10,
@@ -3014,9 +2682,7 @@
   },
   {
     "id": "core_domain_card_invisibility",
-    "name": {
-      "en-US": "Invisibility"
-    },
+    "name": { "en-US": "Invisibility" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 3,
@@ -3046,9 +2712,7 @@
   },
   {
     "id": "core_domain_card_know_thy_enemy",
-    "name": {
-      "en-US": "Know Thy Enemy"
-    },
+    "name": { "en-US": "Know Thy Enemy" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 5,
@@ -3068,9 +2732,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Their unmarked Hit Points and Stress."
-            }
+            "text": { "en-US": "Their unmarked Hit Points and Stress." }
           }
         ]
       },
@@ -3078,9 +2740,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Their Difficulty and damage thresholds."
-            }
+            "text": { "en-US": "Their Difficulty and damage thresholds." }
           }
         ]
       },
@@ -3098,9 +2758,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "Their features and Experiences."
-            }
+            "text": { "en-US": "Their features and Experiences." }
           }
         ]
       },
@@ -3118,9 +2776,7 @@
   },
   {
     "id": "core_domain_card_lead_by_example",
-    "name": {
-      "en-US": "Lead by Example"
-    },
+    "name": { "en-US": "Lead by Example" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 9,
@@ -3140,9 +2796,7 @@
   },
   {
     "id": "core_domain_card_lean_on_me",
-    "name": {
-      "en-US": "Lean on Me"
-    },
+    "name": { "en-US": "Lean on Me" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 3,
@@ -3162,9 +2816,7 @@
   },
   {
     "id": "core_domain_card_life_ward",
-    "name": {
-      "en-US": "Life Ward"
-    },
+    "name": { "en-US": "Life Ward" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 4,
@@ -3194,9 +2846,7 @@
   },
   {
     "id": "core_domain_card_manifest_wall",
-    "name": {
-      "en-US": "Manifest Wall"
-    },
+    "name": { "en-US": "Manifest Wall" },
     "domain": "CODEX",
     "type": "SPELL",
     "level": 5,
@@ -3216,9 +2866,7 @@
   },
   {
     "id": "core_domain_card_mass_disguise",
-    "name": {
-      "en-US": "Mass Disguise"
-    },
+    "name": { "en-US": "Mass Disguise" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 6,
@@ -3248,9 +2896,7 @@
   },
   {
     "id": "core_domain_card_mass_enrapture",
-    "name": {
-      "en-US": "Mass Enrapture"
-    },
+    "name": { "en-US": "Mass Enrapture" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 8,
@@ -3270,9 +2916,7 @@
   },
   {
     "id": "core_domain_card_master_of_the_craft",
-    "name": {
-      "en-US": "Master of the Craft"
-    },
+    "name": { "en-US": "Master of the Craft" },
     "domain": "GRACE",
     "type": "ABILITY",
     "level": 9,
@@ -3292,9 +2936,7 @@
   },
   {
     "id": "core_domain_card_mending_touch",
-    "name": {
-      "en-US": "Mending Touch"
-    },
+    "name": { "en-US": "Mending Touch" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 1,
@@ -3324,9 +2966,7 @@
   },
   {
     "id": "core_domain_card_midnight_spirit",
-    "name": {
-      "en-US": "Midnight Spirit"
-    },
+    "name": { "en-US": "Midnight Spirit" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 2,
@@ -3356,9 +2996,7 @@
   },
   {
     "id": "core_domain_card_midnight_touched",
-    "name": {
-      "en-US": "Midnight-Touched"
-    },
+    "name": { "en-US": "Midnight-Touched" },
     "domain": "MIDNIGHT",
     "type": "ABILITY",
     "level": 7,
@@ -3398,9 +3036,7 @@
   },
   {
     "id": "core_domain_card_natural_familiar",
-    "name": {
-      "en-US": "Natural Familiar"
-    },
+    "name": { "en-US": "Natural Familiar" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 2,
@@ -3430,9 +3066,7 @@
   },
   {
     "id": "core_domain_card_natures_tongue",
-    "name": {
-      "en-US": "Nature's Tongue"
-    },
+    "name": { "en-US": "Nature's Tongue" },
     "domain": "SAGE",
     "type": "ABILITY",
     "level": 1,
@@ -3462,9 +3096,7 @@
   },
   {
     "id": "core_domain_card_never_upstaged",
-    "name": {
-      "en-US": "Never Upstaged"
-    },
+    "name": { "en-US": "Never Upstaged" },
     "domain": "GRACE",
     "type": "ABILITY",
     "level": 6,
@@ -3484,9 +3116,7 @@
   },
   {
     "id": "core_domain_card_night_terror",
-    "name": {
-      "en-US": "Night Terror"
-    },
+    "name": { "en-US": "Night Terror" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 9,
@@ -3506,9 +3136,7 @@
   },
   {
     "id": "core_domain_card_not_good_enough",
-    "name": {
-      "en-US": "Not Good Enough"
-    },
+    "name": { "en-US": "Not Good Enough" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 1,
@@ -3528,9 +3156,7 @@
   },
   {
     "id": "core_domain_card_notorious",
-    "name": {
-      "en-US": "Notorious"
-    },
+    "name": { "en-US": "Notorious" },
     "domain": "GRACE",
     "type": "ABILITY",
     "level": 10,
@@ -3560,9 +3186,7 @@
   },
   {
     "id": "core_domain_card_on_the_brink",
-    "name": {
-      "en-US": "On the Brink"
-    },
+    "name": { "en-US": "On the Brink" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 9,
@@ -3582,9 +3206,7 @@
   },
   {
     "id": "core_domain_card_onslaught",
-    "name": {
-      "en-US": "Onslaught"
-    },
+    "name": { "en-US": "Onslaught" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 10,
@@ -3614,9 +3236,7 @@
   },
   {
     "id": "core_domain_card_overwhelming_aura",
-    "name": {
-      "en-US": "Overwhelming Aura"
-    },
+    "name": { "en-US": "Overwhelming Aura" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 9,
@@ -3646,9 +3266,7 @@
   },
   {
     "id": "core_domain_card_phantom_retreat",
-    "name": {
-      "en-US": "Phantom Retreat"
-    },
+    "name": { "en-US": "Phantom Retreat" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 5,
@@ -3668,9 +3286,7 @@
   },
   {
     "id": "core_domain_card_pick_and_pull",
-    "name": {
-      "en-US": "Pick and Pull"
-    },
+    "name": { "en-US": "Pick and Pull" },
     "domain": "MIDNIGHT",
     "type": "ABILITY",
     "level": 1,
@@ -3690,9 +3306,7 @@
   },
   {
     "id": "core_domain_card_plant_dominion",
-    "name": {
-      "en-US": "Plant Dominion"
-    },
+    "name": { "en-US": "Plant Dominion" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 9,
@@ -3712,9 +3326,7 @@
   },
   {
     "id": "core_domain_card_premonition",
-    "name": {
-      "en-US": "Premonition"
-    },
+    "name": { "en-US": "Premonition" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 5,
@@ -3734,9 +3346,7 @@
   },
   {
     "id": "core_domain_card_preservation_blast",
-    "name": {
-      "en-US": "Preservation Blast"
-    },
+    "name": { "en-US": "Preservation Blast" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 4,
@@ -3756,9 +3366,7 @@
   },
   {
     "id": "core_domain_card_rage_up",
-    "name": {
-      "en-US": "Rage Up"
-    },
+    "name": { "en-US": "Rage Up" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 6,
@@ -3778,9 +3386,7 @@
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "You can Rage Up twice per attack."
-            }
+            "text": { "en-US": "You can Rage Up twice per attack." }
           }
         ]
       }
@@ -3788,9 +3394,7 @@
   },
   {
     "id": "core_domain_card_rain_of_blades",
-    "name": {
-      "en-US": "Rain of Blades"
-    },
+    "name": { "en-US": "Rain of Blades" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 1,
@@ -3820,9 +3424,7 @@
   },
   {
     "id": "core_domain_card_rapid_riposte",
-    "name": {
-      "en-US": "Rapid Riposte"
-    },
+    "name": { "en-US": "Rapid Riposte" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 6,
@@ -3842,9 +3444,7 @@
   },
   {
     "id": "core_domain_card_reapers_strike",
-    "name": {
-      "en-US": "Reaper's Strike"
-    },
+    "name": { "en-US": "Reaper's Strike" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 9,
@@ -3864,9 +3464,7 @@
   },
   {
     "id": "core_domain_card_reassurance",
-    "name": {
-      "en-US": "Reassurance"
-    },
+    "name": { "en-US": "Reassurance" },
     "domain": "SPLENDOR",
     "type": "ABILITY",
     "level": 1,
@@ -3886,9 +3484,7 @@
   },
   {
     "id": "core_domain_card_reckless",
-    "name": {
-      "en-US": "Reckless"
-    },
+    "name": { "en-US": "Reckless" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 2,
@@ -3898,9 +3494,7 @@
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "Mark a Stress to gain advantage on an attack."
-            }
+            "text": { "en-US": "Mark a Stress to gain advantage on an attack." }
           }
         ]
       }
@@ -3908,9 +3502,7 @@
   },
   {
     "id": "core_domain_card_recovery",
-    "name": {
-      "en-US": "Recovery"
-    },
+    "name": { "en-US": "Recovery" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 6,
@@ -3930,9 +3522,7 @@
   },
   {
     "id": "core_domain_card_redirect",
-    "name": {
-      "en-US": "Redirect"
-    },
+    "name": { "en-US": "Redirect" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 4,
@@ -3952,9 +3542,7 @@
   },
   {
     "id": "core_domain_card_rejuvenation_barrier",
-    "name": {
-      "en-US": "Rejuvenation Barrier"
-    },
+    "name": { "en-US": "Rejuvenation Barrier" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 8,
@@ -3974,9 +3562,7 @@
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "When you move, the barrier follows you."
-            }
+            "text": { "en-US": "When you move, the barrier follows you." }
           }
         ]
       }
@@ -3984,9 +3570,7 @@
   },
   {
     "id": "core_domain_card_restoration",
-    "name": {
-      "en-US": "Restoration"
-    },
+    "name": { "en-US": "Restoration" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 6,
@@ -4026,9 +3610,7 @@
   },
   {
     "id": "core_domain_card_resurrection",
-    "name": {
-      "en-US": "Resurrection"
-    },
+    "name": { "en-US": "Resurrection" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 10,
@@ -4058,9 +3640,7 @@
   },
   {
     "id": "core_domain_card_rift_walker",
-    "name": {
-      "en-US": "Rift Walker"
-    },
+    "name": { "en-US": "Rift Walker" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 6,
@@ -4090,9 +3670,7 @@
   },
   {
     "id": "core_domain_card_rise_up",
-    "name": {
-      "en-US": "Rise Up"
-    },
+    "name": { "en-US": "Rise Up" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 6,
@@ -4122,9 +3700,7 @@
   },
   {
     "id": "core_domain_card_rousing_strike",
-    "name": {
-      "en-US": "Rousing Strike"
-    },
+    "name": { "en-US": "Rousing Strike" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 5,
@@ -4144,9 +3720,7 @@
   },
   {
     "id": "core_domain_card_rune_ward",
-    "name": {
-      "en-US": "Rune Ward"
-    },
+    "name": { "en-US": "Rune Ward" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 1,
@@ -4176,9 +3750,7 @@
   },
   {
     "id": "core_domain_card_safe_haven",
-    "name": {
-      "en-US": "Safe Haven"
-    },
+    "name": { "en-US": "Safe Haven" },
     "domain": "CODEX",
     "type": "SPELL",
     "level": 8,
@@ -4208,9 +3780,7 @@
   },
   {
     "id": "core_domain_card_sage_touched",
-    "name": {
-      "en-US": "Sage-Touched"
-    },
+    "name": { "en-US": "Sage-Touched" },
     "domain": "SAGE",
     "type": "ABILITY",
     "level": 7,
@@ -4250,9 +3820,7 @@
   },
   {
     "id": "core_domain_card_salvation_beam",
-    "name": {
-      "en-US": "Salvation Beam"
-    },
+    "name": { "en-US": "Salvation Beam" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 9,
@@ -4272,9 +3840,7 @@
   },
   {
     "id": "core_domain_card_scramble",
-    "name": {
-      "en-US": "Scramble"
-    },
+    "name": { "en-US": "Scramble" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 3,
@@ -4294,9 +3860,7 @@
   },
   {
     "id": "core_domain_card_second_wind",
-    "name": {
-      "en-US": "Second Wind"
-    },
+    "name": { "en-US": "Second Wind" },
     "domain": "SPLENDOR",
     "type": "ABILITY",
     "level": 3,
@@ -4316,9 +3880,7 @@
   },
   {
     "id": "core_domain_card_sensory_projection",
-    "name": {
-      "en-US": "Sensory Projection"
-    },
+    "name": { "en-US": "Sensory Projection" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 9,
@@ -4338,9 +3900,7 @@
   },
   {
     "id": "core_domain_card_shadowbind",
-    "name": {
-      "en-US": "Shadowbind"
-    },
+    "name": { "en-US": "Shadowbind" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 2,
@@ -4360,9 +3920,7 @@
   },
   {
     "id": "core_domain_card_shadowhunter",
-    "name": {
-      "en-US": "Shadowhunter"
-    },
+    "name": { "en-US": "Shadowhunter" },
     "domain": "MIDNIGHT",
     "type": "ABILITY",
     "level": 8,
@@ -4382,9 +3940,7 @@
   },
   {
     "id": "core_domain_card_shape_material",
-    "name": {
-      "en-US": "Shape Material"
-    },
+    "name": { "en-US": "Shape Material" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 5,
@@ -4414,9 +3970,7 @@
   },
   {
     "id": "core_domain_card_share_the_burden",
-    "name": {
-      "en-US": "Share the Burden"
-    },
+    "name": { "en-US": "Share the Burden" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 6,
@@ -4436,9 +3990,7 @@
   },
   {
     "id": "core_domain_card_shield_aura",
-    "name": {
-      "en-US": "Shield Aura"
-    },
+    "name": { "en-US": "Shield Aura" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 8,
@@ -4468,9 +4020,7 @@
   },
   {
     "id": "core_domain_card_shrug_it_off",
-    "name": {
-      "en-US": "Shrug It Off"
-    },
+    "name": { "en-US": "Shrug It Off" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 7,
@@ -4490,9 +4040,7 @@
   },
   {
     "id": "core_domain_card_sigil_of_retribution",
-    "name": {
-      "en-US": "Sigil of Retribution"
-    },
+    "name": { "en-US": "Sigil of Retribution" },
     "domain": "CODEX",
     "type": "SPELL",
     "level": 6,
@@ -4512,9 +4060,7 @@
   },
   {
     "id": "core_domain_card_signature_move",
-    "name": {
-      "en-US": "Signature Move"
-    },
+    "name": { "en-US": "Signature Move" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 5,
@@ -4534,9 +4080,7 @@
   },
   {
     "id": "core_domain_card_smite",
-    "name": {
-      "en-US": "Smite"
-    },
+    "name": { "en-US": "Smite" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 5,
@@ -4556,9 +4100,7 @@
   },
   {
     "id": "core_domain_card_soothing_speech",
-    "name": {
-      "en-US": "Soothing Speech"
-    },
+    "name": { "en-US": "Soothing Speech" },
     "domain": "GRACE",
     "type": "ABILITY",
     "level": 4,
@@ -4578,9 +4120,7 @@
   },
   {
     "id": "core_domain_card_specter_of_the_dark",
-    "name": {
-      "en-US": "Specter of the Dark"
-    },
+    "name": { "en-US": "Specter of the Dark" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 10,
@@ -4600,9 +4140,7 @@
   },
   {
     "id": "core_domain_card_spellcharge",
-    "name": {
-      "en-US": "Spellcharge"
-    },
+    "name": { "en-US": "Spellcharge" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 8,
@@ -4632,9 +4170,7 @@
   },
   {
     "id": "core_domain_card_splendor_touched",
-    "name": {
-      "en-US": "Splendor-Touched"
-    },
+    "name": { "en-US": "Splendor-Touched" },
     "domain": "SPLENDOR",
     "type": "ABILITY",
     "level": 7,
@@ -4654,9 +4190,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "+3 bonus to your Severe damage threshold"
-            }
+            "text": { "en-US": "+3 bonus to your Severe damage threshold" }
           }
         ]
       },
@@ -4674,9 +4208,7 @@
   },
   {
     "id": "core_domain_card_splintering_strike",
-    "name": {
-      "en-US": "Splintering Strike"
-    },
+    "name": { "en-US": "Splintering Strike" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 9,
@@ -4696,9 +4228,7 @@
   },
   {
     "id": "core_domain_card_stealth_expertise",
-    "name": {
-      "en-US": "Stealth Expertise"
-    },
+    "name": { "en-US": "Stealth Expertise" },
     "domain": "MIDNIGHT",
     "type": "ABILITY",
     "level": 4,
@@ -4728,9 +4258,7 @@
   },
   {
     "id": "core_domain_card_strategic_approach",
-    "name": {
-      "en-US": "Strategic Approach"
-    },
+    "name": { "en-US": "Strategic Approach" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 2,
@@ -4750,9 +4278,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "You make the attack with advantage."
-            }
+            "text": { "en-US": "You make the attack with advantage." }
           }
         ]
       },
@@ -4770,9 +4296,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "You add a d8 to your damage roll."
-            }
+            "text": { "en-US": "You add a d8 to your damage roll." }
           }
         ]
       },
@@ -4790,9 +4314,7 @@
   },
   {
     "id": "core_domain_card_stunning_sunlight",
-    "name": {
-      "en-US": "Stunning Sunlight"
-    },
+    "name": { "en-US": "Stunning Sunlight" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 8,
@@ -4822,9 +4344,7 @@
   },
   {
     "id": "core_domain_card_support_tank",
-    "name": {
-      "en-US": "Support Tank"
-    },
+    "name": { "en-US": "Support Tank" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 4,
@@ -4844,9 +4364,7 @@
   },
   {
     "id": "core_domain_card_swift_step",
-    "name": {
-      "en-US": "Swift Step"
-    },
+    "name": { "en-US": "Swift Step" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 10,
@@ -4866,9 +4384,7 @@
   },
   {
     "id": "core_domain_card_tactician",
-    "name": {
-      "en-US": "Tactician"
-    },
+    "name": { "en-US": "Tactician" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 3,
@@ -4898,9 +4414,7 @@
   },
   {
     "id": "core_domain_card_telekinesis",
-    "name": {
-      "en-US": "Telekinesis"
-    },
+    "name": { "en-US": "Telekinesis" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 6,
@@ -4920,9 +4434,7 @@
   },
   {
     "id": "core_domain_card_teleport",
-    "name": {
-      "en-US": "Teleport"
-    },
+    "name": { "en-US": "Teleport" },
     "domain": "CODEX",
     "type": "SPELL",
     "level": 5,
@@ -4992,9 +4504,7 @@
   },
   {
     "id": "core_domain_card_tell_no_lies",
-    "name": {
-      "en-US": "Tell No Lies"
-    },
+    "name": { "en-US": "Tell No Lies" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 2,
@@ -5014,9 +4524,7 @@
   },
   {
     "id": "core_domain_card_tempest",
-    "name": {
-      "en-US": "Tempest"
-    },
+    "name": { "en-US": "Tempest" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 10,
@@ -5066,9 +4574,7 @@
   },
   {
     "id": "core_domain_card_thorn_skin",
-    "name": {
-      "en-US": "Thorn Skin"
-    },
+    "name": { "en-US": "Thorn Skin" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 5,
@@ -5098,9 +4604,7 @@
   },
   {
     "id": "core_domain_card_thought_delver",
-    "name": {
-      "en-US": "Thought Delver"
-    },
+    "name": { "en-US": "Thought Delver" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 5,
@@ -5130,9 +4634,7 @@
   },
   {
     "id": "core_domain_card_through_your_eyes",
-    "name": {
-      "en-US": "Through Your Eyes"
-    },
+    "name": { "en-US": "Through Your Eyes" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 4,
@@ -5152,9 +4654,7 @@
   },
   {
     "id": "core_domain_card_towering_stalk",
-    "name": {
-      "en-US": "Towering Stalk"
-    },
+    "name": { "en-US": "Towering Stalk" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 3,
@@ -5184,9 +4684,7 @@
   },
   {
     "id": "core_domain_card_transcendent_union",
-    "name": {
-      "en-US": "Transcendent Union"
-    },
+    "name": { "en-US": "Transcendent Union" },
     "domain": "CODEX",
     "type": "SPELL",
     "level": 10,
@@ -5206,9 +4704,7 @@
   },
   {
     "id": "core_domain_card_troublemaker",
-    "name": {
-      "en-US": "Troublemaker"
-    },
+    "name": { "en-US": "Troublemaker" },
     "domain": "GRACE",
     "type": "ABILITY",
     "level": 2,
@@ -5228,9 +4724,7 @@
   },
   {
     "id": "core_domain_card_twilight_toll",
-    "name": {
-      "en-US": "Twilight Toll"
-    },
+    "name": { "en-US": "Twilight Toll" },
     "domain": "MIDNIGHT",
     "type": "ABILITY",
     "level": 9,
@@ -5260,9 +4754,7 @@
   },
   {
     "id": "core_domain_card_unbreakable",
-    "name": {
-      "en-US": "Unbreakable"
-    },
+    "name": { "en-US": "Unbreakable" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 10,
@@ -5282,9 +4774,7 @@
   },
   {
     "id": "core_domain_card_uncanny_disguise",
-    "name": {
-      "en-US": "Uncanny Disguise"
-    },
+    "name": { "en-US": "Uncanny Disguise" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 1,
@@ -5314,9 +4804,7 @@
   },
   {
     "id": "core_domain_card_unleash_chaos",
-    "name": {
-      "en-US": "Unleash Chaos"
-    },
+    "name": { "en-US": "Unleash Chaos" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 1,
@@ -5356,9 +4844,7 @@
   },
   {
     "id": "core_domain_card_untouchable",
-    "name": {
-      "en-US": "Untouchable"
-    },
+    "name": { "en-US": "Untouchable" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 1,
@@ -5378,9 +4864,7 @@
   },
   {
     "id": "core_domain_card_unyielding_armor",
-    "name": {
-      "en-US": "Unyielding Armor"
-    },
+    "name": { "en-US": "Unyielding Armor" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 10,
@@ -5400,9 +4884,7 @@
   },
   {
     "id": "core_domain_card_valor_touched",
-    "name": {
-      "en-US": "Valor-Touched"
-    },
+    "name": { "en-US": "Valor-Touched" },
     "domain": "VALOR",
     "type": "ABILITY",
     "level": 7,
@@ -5422,9 +4904,7 @@
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "+1 bonus to your Armor Score"
-            }
+            "text": { "en-US": "+1 bonus to your Armor Score" }
           }
         ]
       },
@@ -5442,9 +4922,7 @@
   },
   {
     "id": "core_domain_card_vanishing_dodge",
-    "name": {
-      "en-US": "Vanishing Dodge"
-    },
+    "name": { "en-US": "Vanishing Dodge" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 7,
@@ -5464,9 +4942,7 @@
   },
   {
     "id": "core_domain_card_veil_of_night",
-    "name": {
-      "en-US": "Veil of Night"
-    },
+    "name": { "en-US": "Veil of Night" },
     "domain": "MIDNIGHT",
     "type": "SPELL",
     "level": 3,
@@ -5486,9 +4962,7 @@
   },
   {
     "id": "core_domain_card_versatile_fighter",
-    "name": {
-      "en-US": "Versatile Fighter"
-    },
+    "name": { "en-US": "Versatile Fighter" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 3,
@@ -5518,9 +4992,7 @@
   },
   {
     "id": "core_domain_card_vicious_entangle",
-    "name": {
-      "en-US": "Vicious Entangle"
-    },
+    "name": { "en-US": "Vicious Entangle" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 1,
@@ -5550,9 +5022,7 @@
   },
   {
     "id": "core_domain_card_vitality",
-    "name": {
-      "en-US": "Vitality"
-    },
+    "name": { "en-US": "Vitality" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 5,
@@ -5570,31 +5040,19 @@
       },
       {
         "description": [
-          {
-            "type": "LIST_ITEM",
-            "text": {
-              "en-US": "One Stress slot"
-            }
-          }
+          { "type": "LIST_ITEM", "text": { "en-US": "One Stress slot" } }
+        ]
+      },
+      {
+        "description": [
+          { "type": "LIST_ITEM", "text": { "en-US": "One Hit Point slot" } }
         ]
       },
       {
         "description": [
           {
             "type": "LIST_ITEM",
-            "text": {
-              "en-US": "One Hit Point slot"
-            }
-          }
-        ]
-      },
-      {
-        "description": [
-          {
-            "type": "LIST_ITEM",
-            "text": {
-              "en-US": "+2 bonus to your damage thresholds"
-            }
+            "text": { "en-US": "+2 bonus to your damage thresholds" }
           }
         ]
       },
@@ -5612,9 +5070,7 @@
   },
   {
     "id": "core_domain_card_voice_of_reason",
-    "name": {
-      "en-US": "Voice of Reason"
-    },
+    "name": { "en-US": "Voice of Reason" },
     "domain": "SPLENDOR",
     "type": "ABILITY",
     "level": 3,
@@ -5644,9 +5100,7 @@
   },
   {
     "id": "core_domain_card_wall_walk",
-    "name": {
-      "en-US": "Wall Walk"
-    },
+    "name": { "en-US": "Wall Walk" },
     "domain": "ARCANA",
     "type": "SPELL",
     "level": 1,
@@ -5666,9 +5120,7 @@
   },
   {
     "id": "core_domain_card_whirlwind",
-    "name": {
-      "en-US": "Whirlwind"
-    },
+    "name": { "en-US": "Whirlwind" },
     "domain": "BLADE",
     "type": "ABILITY",
     "level": 1,
@@ -5688,9 +5140,7 @@
   },
   {
     "id": "core_domain_card_wild_fortress",
-    "name": {
-      "en-US": "Wild Fortress"
-    },
+    "name": { "en-US": "Wild Fortress" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 5,
@@ -5710,9 +5160,7 @@
   },
   {
     "id": "core_domain_card_wild_surge",
-    "name": {
-      "en-US": "Wild Surge"
-    },
+    "name": { "en-US": "Wild Surge" },
     "domain": "SAGE",
     "type": "SPELL",
     "level": 7,
@@ -5742,9 +5190,7 @@
   },
   {
     "id": "core_domain_card_words_of_discord",
-    "name": {
-      "en-US": "Words of Discord"
-    },
+    "name": { "en-US": "Words of Discord" },
     "domain": "GRACE",
     "type": "SPELL",
     "level": 5,
@@ -5774,9 +5220,7 @@
   },
   {
     "id": "core_domain_card_wrangle",
-    "name": {
-      "en-US": "Wrangle"
-    },
+    "name": { "en-US": "Wrangle" },
     "domain": "BONE",
     "type": "ABILITY",
     "level": 8,
@@ -5796,9 +5240,7 @@
   },
   {
     "id": "core_domain_card_zone_of_protection",
-    "name": {
-      "en-US": "Zone of Protection"
-    },
+    "name": { "en-US": "Zone of Protection" },
     "domain": "SPLENDOR",
     "type": "SPELL",
     "level": 6,

@@ -1,86 +1,54 @@
 [
   {
     "id": "core_weapon_broadsword",
-    "name": {
-      "en-US": "Broadsword"
-    },
+    "name": { "en-US": "Broadsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reliable"
-        },
+        "name": { "en-US": "Reliable" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+1 to attack rolls"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_longsword",
-    "name": {
-      "en-US": "Longsword"
-    },
+    "name": { "en-US": "Longsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 3, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_battleaxe",
-    "name": {
-      "en-US": "Battleaxe"
-    },
+    "name": { "en-US": "Battleaxe" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 3, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_greatsword",
-    "name": {
-      "en-US": "Greatsword"
-    },
+    "name": { "en-US": "Greatsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 3, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Massive"
-        },
+        "name": { "en-US": "Massive" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -94,118 +62,74 @@
   },
   {
     "id": "core_weapon_mace",
-    "name": {
-      "en-US": "Mace"
-    },
+    "name": { "en-US": "Mace" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 1,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 1, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_warhammer",
-    "name": {
-      "en-US": "Warhammer"
-    },
+    "name": { "en-US": "Warhammer" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D12",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D12", "modifier": 3, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Heavy"
-        },
+        "name": { "en-US": "Heavy" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Evasion"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_dagger",
-    "name": {
-      "en-US": "Dagger"
-    },
+    "name": { "en-US": "Dagger" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 1,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 1, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_quarterstaff",
-    "name": {
-      "en-US": "Quarterstaff"
-    },
+    "name": { "en-US": "Quarterstaff" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "INSTINCT",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 3, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_cutlass",
-    "name": {
-      "en-US": "Cutlass"
-    },
+    "name": { "en-US": "Cutlass" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 1,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 1, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_rapier",
-    "name": {
-      "en-US": "Rapier"
-    },
+    "name": { "en-US": "Rapier" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Quick"
-        },
+        "name": { "en-US": "Quick" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -219,211 +143,130 @@
   },
   {
     "id": "core_weapon_halberd",
-    "name": {
-      "en-US": "Halberd"
-    },
+    "name": { "en-US": "Halberd" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "STRENGTH",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 2,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 2, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_spear",
-    "name": {
-      "en-US": "Spear"
-    },
+    "name": { "en-US": "Spear" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "FINESSE",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 2,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 2, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_shortbow",
-    "name": {
-      "en-US": "Shortbow"
-    },
+    "name": { "en-US": "Shortbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "AGILITY",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 3, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_crossbow",
-    "name": {
-      "en-US": "Crossbow"
-    },
+    "name": { "en-US": "Crossbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 1,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 1, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_longbow",
-    "name": {
-      "en-US": "Longbow"
-    },
+    "name": { "en-US": "Longbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 1,
     "trait": "AGILITY",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D8",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 3, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_arcane_gauntlets",
-    "name": {
-      "en-US": "Arcane Gauntlets"
-    },
+    "name": { "en-US": "Arcane Gauntlets" },
     "type": "PRIMARY_MAGIC",
     "tier": 1,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 3,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 3, "type": "MAGICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_hallowed_axe",
-    "name": {
-      "en-US": "Hallowed Axe"
-    },
+    "name": { "en-US": "Hallowed Axe" },
     "type": "PRIMARY_MAGIC",
     "tier": 1,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 1,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 1, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_glowing_rings",
-    "name": {
-      "en-US": "Glowing Rings"
-    },
+    "name": { "en-US": "Glowing Rings" },
     "type": "PRIMARY_MAGIC",
     "tier": 1,
     "trait": "AGILITY",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 1,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 1, "type": "MAGICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_hand_runes",
-    "name": {
-      "en-US": "Hand Runes"
-    },
+    "name": { "en-US": "Hand Runes" },
     "type": "PRIMARY_MAGIC",
     "tier": 1,
     "trait": "INSTINCT",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_returning_blade",
-    "name": {
-      "en-US": "Returning Blade"
-    },
+    "name": { "en-US": "Returning Blade" },
     "type": "PRIMARY_MAGIC",
     "tier": 1,
     "trait": "FINESSE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D8",
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "type": "MAGICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Returning"
-        },
+        "name": { "en-US": "Returning" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -437,55 +280,36 @@
   },
   {
     "id": "core_weapon_shortstaff",
-    "name": {
-      "en-US": "Shortstaff"
-    },
+    "name": { "en-US": "Shortstaff" },
     "type": "PRIMARY_MAGIC",
     "tier": 1,
     "trait": "INSTINCT",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 1,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 1, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_dualstaff",
-    "name": {
-      "en-US": "Dualstaff"
-    },
+    "name": { "en-US": "Dualstaff" },
     "type": "PRIMARY_MAGIC",
     "tier": 1,
     "trait": "INSTINCT",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 3,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 3, "type": "MAGICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_scepter",
-    "name": {
-      "en-US": "Scepter"
-    },
+    "name": { "en-US": "Scepter" },
     "type": "PRIMARY_MAGIC",
     "tier": 1,
     "trait": "PRESENCE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Versatile"
-        },
+        "name": { "en-US": "Versatile" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -499,39 +323,26 @@
   },
   {
     "id": "core_weapon_wand",
-    "name": {
-      "en-US": "Wand"
-    },
+    "name": { "en-US": "Wand" },
     "type": "PRIMARY_MAGIC",
     "tier": 1,
     "trait": "KNOWLEDGE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 1,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 1, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_greatstaff",
-    "name": {
-      "en-US": "Greatstaff"
-    },
+    "name": { "en-US": "Greatstaff" },
     "type": "PRIMARY_MAGIC",
     "tier": 1,
     "trait": "KNOWLEDGE",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D6",
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Powerful"
-        },
+        "name": { "en-US": "Powerful" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -545,72 +356,46 @@
   },
   {
     "id": "core_weapon_improved_broadsword",
-    "name": {
-      "en-US": "Improved Broadsword"
-    },
+    "name": { "en-US": "Improved Broadsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 3, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_improved_longsword",
-    "name": {
-      "en-US": "Improved Longsword"
-    },
+    "name": { "en-US": "Improved Longsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_improved_battleaxe",
-    "name": {
-      "en-US": "Improved Battleaxe"
-    },
+    "name": { "en-US": "Improved Battleaxe" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_improved_greatsword",
-    "name": {
-      "en-US": "Improved Greatsword"
-    },
+    "name": { "en-US": "Improved Greatsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Massive"
-        },
+        "name": { "en-US": "Massive" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -624,119 +409,74 @@
   },
   {
     "id": "core_weapon_improved_mace",
-    "name": {
-      "en-US": "Improved Mace"
-    },
+    "name": { "en-US": "Improved Mace" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_improved_warhammer",
-    "name": {
-      "en-US": "Improved Warhammer"
-    },
+    "name": { "en-US": "Improved Warhammer" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D12",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D12", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Heavy"
-        },
+        "name": { "en-US": "Heavy" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Evasion"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_improved_dagger",
-    "name": {
-      "en-US": "Improved Dagger"
-    },
+    "name": { "en-US": "Improved Dagger" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_improved_quarterstaff",
-    "name": {
-      "en-US": "Improved Quarterstaff"
-    },
+    "name": { "en-US": "Improved Quarterstaff" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "INSTINCT",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_improved_cutlass",
-    "name": {
-      "en-US": "Improved Cutlass"
-    },
+    "name": { "en-US": "Improved Cutlass" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_improved_rapier",
-    "name": {
-      "en-US": "Improved Rapier"
-    },
+    "name": { "en-US": "Improved Rapier" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 3, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Quick"
-        },
+        "name": { "en-US": "Quick" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -750,149 +490,90 @@
   },
   {
     "id": "core_weapon_improved_halberd",
-    "name": {
-      "en-US": "Improved Halberd"
-    },
+    "name": { "en-US": "Improved Halberd" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 5,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 5, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_improved_spear",
-    "name": {
-      "en-US": "Improved Spear"
-    },
+    "name": { "en-US": "Improved Spear" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "FINESSE",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 5,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 5, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_improved_shortbow",
-    "name": {
-      "en-US": "Improved Shortbow"
-    },
+    "name": { "en-US": "Improved Shortbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "AGILITY",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_improved_crossbow",
-    "name": {
-      "en-US": "Improved Crossbow"
-    },
+    "name": { "en-US": "Improved Crossbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_improved_longbow",
-    "name": {
-      "en-US": "Improved Longbow"
-    },
+    "name": { "en-US": "Improved Longbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "AGILITY",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D8",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_gilded_falchion",
-    "name": {
-      "en-US": "Gilded Falchion"
-    },
+    "name": { "en-US": "Gilded Falchion" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Powerful"
-        },
+        "name": { "en-US": "Powerful" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -906,24 +587,16 @@
   },
   {
     "id": "core_weapon_knuckle_blades",
-    "name": {
-      "en-US": "Knuckle Blades"
-    },
+    "name": { "en-US": "Knuckle Blades" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Brutal"
-        },
+        "name": { "en-US": "Brutal" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -937,24 +610,16 @@
   },
   {
     "id": "core_weapon_urok_broadsword",
-    "name": {
-      "en-US": "Urok Broadsword"
-    },
+    "name": { "en-US": "Urok Broadsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 3, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Deadly"
-        },
+        "name": { "en-US": "Deadly" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -968,24 +633,16 @@
   },
   {
     "id": "core_weapon_bladed_whip",
-    "name": {
-      "en-US": "Bladed Whip"
-    },
+    "name": { "en-US": "Bladed Whip" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "AGILITY",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 3, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Quick"
-        },
+        "name": { "en-US": "Quick" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -999,24 +656,16 @@
   },
   {
     "id": "core_weapon_steelforged_halberd",
-    "name": {
-      "en-US": "Steelforged Halberd"
-    },
+    "name": { "en-US": "Steelforged Halberd" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 4, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Scary"
-        },
+        "name": { "en-US": "Scary" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1030,55 +679,34 @@
   },
   {
     "id": "core_weapon_war_scythe",
-    "name": {
-      "en-US": "War Scythe"
-    },
+    "name": { "en-US": "War Scythe" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "FINESSE",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 5,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 5, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reliable"
-        },
+        "name": { "en-US": "Reliable" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+1 to attack rolls"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_blunderbuss",
-    "name": {
-      "en-US": "Blunderbuss"
-    },
+    "name": { "en-US": "Blunderbuss" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "FINESSE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reloading"
-        },
+        "name": { "en-US": "Reloading" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1092,24 +720,16 @@
   },
   {
     "id": "core_weapon_greatbow",
-    "name": {
-      "en-US": "Greatbow"
-    },
+    "name": { "en-US": "Greatbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Powerful"
-        },
+        "name": { "en-US": "Powerful" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1123,119 +743,74 @@
   },
   {
     "id": "core_weapon_finehair_bow",
-    "name": {
-      "en-US": "Finehair Bow"
-    },
+    "name": { "en-US": "Finehair Bow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 2,
     "trait": "AGILITY",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 5,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 5, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reliable"
-        },
+        "name": { "en-US": "Reliable" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+1 to attack rolls"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_improved_arcane_gauntlets",
-    "name": {
-      "en-US": "Improved Arcane Gauntlets"
-    },
+    "name": { "en-US": "Improved Arcane Gauntlets" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 6,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 6, "type": "MAGICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_improved_hallowed_axe",
-    "name": {
-      "en-US": "Improved Hallowed Axe"
-    },
+    "name": { "en-US": "Improved Hallowed Axe" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 4,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 4, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_improved_glowing_rings",
-    "name": {
-      "en-US": "Improved Glowing Rings"
-    },
+    "name": { "en-US": "Improved Glowing Rings" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "AGILITY",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 5,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 5, "type": "MAGICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_improved_hand_runes",
-    "name": {
-      "en-US": "Improved Hand Runes"
-    },
+    "name": { "en-US": "Improved Hand Runes" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "INSTINCT",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 3,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 3, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_improved_returning_blade",
-    "name": {
-      "en-US": "Improved Returning Blade"
-    },
+    "name": { "en-US": "Improved Returning Blade" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "FINESSE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 3,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 3, "type": "MAGICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Returning"
-        },
+        "name": { "en-US": "Returning" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1249,56 +824,36 @@
   },
   {
     "id": "core_weapon_improved_shortstaff",
-    "name": {
-      "en-US": "Improved Shortstaff"
-    },
+    "name": { "en-US": "Improved Shortstaff" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "INSTINCT",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 4,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 4, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_improved_dualstaff",
-    "name": {
-      "en-US": "Improved Dualstaff"
-    },
+    "name": { "en-US": "Improved Dualstaff" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "INSTINCT",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 6,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 6, "type": "MAGICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_improved_scepter",
-    "name": {
-      "en-US": "Improved Scepter"
-    },
+    "name": { "en-US": "Improved Scepter" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "PRESENCE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 3,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 3, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Versatile"
-        },
+        "name": { "en-US": "Versatile" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1312,40 +867,26 @@
   },
   {
     "id": "core_weapon_improved_wand",
-    "name": {
-      "en-US": "Improved Wand"
-    },
+    "name": { "en-US": "Improved Wand" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "KNOWLEDGE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_improved_greatstaff",
-    "name": {
-      "en-US": "Improved Greatstaff"
-    },
+    "name": { "en-US": "Improved Greatstaff" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "KNOWLEDGE",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 3,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 3, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Powerful"
-        },
+        "name": { "en-US": "Powerful" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1359,24 +900,16 @@
   },
   {
     "id": "core_weapon_ego_blade",
-    "name": {
-      "en-US": "Ego Blade"
-    },
+    "name": { "en-US": "Ego Blade" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D12",
-      "modifier": 4,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D12", "modifier": 4, "type": "MAGICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Pompous"
-        },
+        "name": { "en-US": "Pompous" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1390,24 +923,16 @@
   },
   {
     "id": "core_weapon_casting_sword",
-    "name": {
-      "en-US": "Casting Sword"
-    },
+    "name": { "en-US": "Casting Sword" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 4,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 4, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Versatile"
-        },
+        "name": { "en-US": "Versatile" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1421,24 +946,16 @@
   },
   {
     "id": "core_weapon_devouring_dagger",
-    "name": {
-      "en-US": "Devouring Dagger"
-    },
+    "name": { "en-US": "Devouring Dagger" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 4,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 4, "type": "MAGICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Scary"
-        },
+        "name": { "en-US": "Scary" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1452,24 +969,16 @@
   },
   {
     "id": "core_weapon_hammer_of_exota",
-    "name": {
-      "en-US": "Hammer of Exota"
-    },
+    "name": { "en-US": "Hammer of Exota" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "INSTINCT",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 6,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 6, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Eruptive"
-        },
+        "name": { "en-US": "Eruptive" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1483,24 +992,16 @@
   },
   {
     "id": "core_weapon_yutari_bloodbow",
-    "name": {
-      "en-US": "Yutari Bloodbow"
-    },
+    "name": { "en-US": "Yutari Bloodbow" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Brutal"
-        },
+        "name": { "en-US": "Brutal" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1514,24 +1015,16 @@
   },
   {
     "id": "core_weapon_elder_bow",
-    "name": {
-      "en-US": "Elder Bow"
-    },
+    "name": { "en-US": "Elder Bow" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "INSTINCT",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Powerful"
-        },
+        "name": { "en-US": "Powerful" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1545,24 +1038,16 @@
   },
   {
     "id": "core_weapon_scepter_of_elias",
-    "name": {
-      "en-US": "Scepter of Elias"
-    },
+    "name": { "en-US": "Scepter of Elias" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "PRESENCE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 3,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 3, "type": "MAGICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Invigorating"
-        },
+        "name": { "en-US": "Invigorating" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1576,24 +1061,16 @@
   },
   {
     "id": "core_weapon_wand_of_enthrallment",
-    "name": {
-      "en-US": "Wand of Enthrallment"
-    },
+    "name": { "en-US": "Wand of Enthrallment" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "PRESENCE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "MAGICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Persuasive"
-        },
+        "name": { "en-US": "Persuasive" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1607,118 +1084,72 @@
   },
   {
     "id": "core_weapon_keeper_s_staff",
-    "name": {
-      "en-US": "Keeper's Staff"
-    },
+    "name": { "en-US": "Keeper's Staff" },
     "type": "PRIMARY_MAGIC",
     "tier": 2,
     "trait": "KNOWLEDGE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reliable"
-        },
+        "name": { "en-US": "Reliable" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+1 to attack rolls"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_advanced_broadsword",
-    "name": {
-      "en-US": "Advanced Broadsword"
-    },
+    "name": { "en-US": "Advanced Broadsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 6, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reliable"
-        },
+        "name": { "en-US": "Reliable" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+1 to attack rolls"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_advanced_longsword",
-    "name": {
-      "en-US": "Advanced Longsword"
-    },
+    "name": { "en-US": "Advanced Longsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 9, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_advanced_battleaxe",
-    "name": {
-      "en-US": "Advanced Battleaxe"
-    },
+    "name": { "en-US": "Advanced Battleaxe" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 9, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_advanced_greatsword",
-    "name": {
-      "en-US": "Advanced Greatsword"
-    },
+    "name": { "en-US": "Advanced Greatsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 9, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Massive"
-        },
+        "name": { "en-US": "Massive" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1732,119 +1163,74 @@
   },
   {
     "id": "core_weapon_advanced_mace",
-    "name": {
-      "en-US": "Advanced Mace"
-    },
+    "name": { "en-US": "Advanced Mace" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 7, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_advanced_warhammer",
-    "name": {
-      "en-US": "Advanced Warhammer"
-    },
+    "name": { "en-US": "Advanced Warhammer" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D12",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D12", "modifier": 9, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Heavy"
-        },
+        "name": { "en-US": "Heavy" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Evasion"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_advanced_dagger",
-    "name": {
-      "en-US": "Advanced Dagger"
-    },
+    "name": { "en-US": "Advanced Dagger" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 7, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_advanced_quarterstaff",
-    "name": {
-      "en-US": "Advanced Quarterstaff"
-    },
+    "name": { "en-US": "Advanced Quarterstaff" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "INSTINCT",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 9, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_advanced_cutlass",
-    "name": {
-      "en-US": "Advanced Cutlass"
-    },
+    "name": { "en-US": "Advanced Cutlass" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 7, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_advanced_rapier",
-    "name": {
-      "en-US": "Advanced Rapier"
-    },
+    "name": { "en-US": "Advanced Rapier" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 6, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Quick"
-        },
+        "name": { "en-US": "Quick" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -1858,149 +1244,90 @@
   },
   {
     "id": "core_weapon_advanced_halberd",
-    "name": {
-      "en-US": "Advanced Halberd"
-    },
+    "name": { "en-US": "Advanced Halberd" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "STRENGTH",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 8,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 8, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_advanced_spear",
-    "name": {
-      "en-US": "Advanced Spear"
-    },
+    "name": { "en-US": "Advanced Spear" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "FINESSE",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 8,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 8, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_advanced_shortbow",
-    "name": {
-      "en-US": "Advanced Shortbow"
-    },
+    "name": { "en-US": "Advanced Shortbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "AGILITY",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 9, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_advanced_crossbow",
-    "name": {
-      "en-US": "Advanced Crossbow"
-    },
+    "name": { "en-US": "Advanced Crossbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 7, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_advanced_longbow",
-    "name": {
-      "en-US": "Advanced Longbow"
-    },
+    "name": { "en-US": "Advanced Longbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "AGILITY",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D8",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 9, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_flickerfly_blade",
-    "name": {
-      "en-US": "Flickerfly Blade"
-    },
+    "name": { "en-US": "Flickerfly Blade" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 5,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 5, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Sharpwing"
-        },
+        "name": { "en-US": "Sharpwing" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2014,30 +1341,20 @@
   },
   {
     "id": "core_weapon_bravesword",
-    "name": {
-      "en-US": "Bravesword"
-    },
+    "name": { "en-US": "Bravesword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D12",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D12", "modifier": 7, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Brave"
-        },
+        "name": { "en-US": "Brave" },
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Evasion; +3 to Severe damage threshold"
-            }
+            "text": { "en-US": "-1 to Evasion; +3 to Severe damage threshold" }
           }
         ]
       }
@@ -2045,24 +1362,16 @@
   },
   {
     "id": "core_weapon_hammer_of_wrath",
-    "name": {
-      "en-US": "Hammer of Wrath"
-    },
+    "name": { "en-US": "Hammer of Wrath" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 7, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Devastating"
-        },
+        "name": { "en-US": "Devastating" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2076,55 +1385,34 @@
   },
   {
     "id": "core_weapon_labrys_axe",
-    "name": {
-      "en-US": "Labrys Axe"
-    },
+    "name": { "en-US": "Labrys Axe" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 7, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Protective"
-        },
+        "name": { "en-US": "Protective" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+1 to Armor Score"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+1 to Armor Score" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_meridian_cutlass",
-    "name": {
-      "en-US": "Meridian Cutlass"
-    },
+    "name": { "en-US": "Meridian Cutlass" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 5,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 5, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Dueling"
-        },
+        "name": { "en-US": "Dueling" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2138,24 +1426,16 @@
   },
   {
     "id": "core_weapon_retractable_saber",
-    "name": {
-      "en-US": "Retractable Saber"
-    },
+    "name": { "en-US": "Retractable Saber" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 7, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Retractable"
-        },
+        "name": { "en-US": "Retractable" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2169,24 +1449,16 @@
   },
   {
     "id": "core_weapon_double_flail",
-    "name": {
-      "en-US": "Double Flail"
-    },
+    "name": { "en-US": "Double Flail" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "AGILITY",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 8,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 8, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Powerful"
-        },
+        "name": { "en-US": "Powerful" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2200,24 +1472,16 @@
   },
   {
     "id": "core_weapon_talon_blades",
-    "name": {
-      "en-US": "Talon Blades"
-    },
+    "name": { "en-US": "Talon Blades" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "FINESSE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 7, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Brutal"
-        },
+        "name": { "en-US": "Brutal" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2231,24 +1495,16 @@
   },
   {
     "id": "core_weapon_black_powder_revolver",
-    "name": {
-      "en-US": "Black Powder Revolver"
-    },
+    "name": { "en-US": "Black Powder Revolver" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 8,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 8, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reloading"
-        },
+        "name": { "en-US": "Reloading" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2262,24 +1518,16 @@
   },
   {
     "id": "core_weapon_spiked_bow",
-    "name": {
-      "en-US": "Spiked Bow"
-    },
+    "name": { "en-US": "Spiked Bow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 3,
     "trait": "AGILITY",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 7, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Versatile"
-        },
+        "name": { "en-US": "Versatile" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2293,87 +1541,54 @@
   },
   {
     "id": "core_weapon_legendary_broadsword",
-    "name": {
-      "en-US": "Legendary Broadsword"
-    },
+    "name": { "en-US": "Legendary Broadsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 9, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reliable"
-        },
+        "name": { "en-US": "Reliable" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+1 to attack rolls"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_legendary_longsword",
-    "name": {
-      "en-US": "Legendary Longsword"
-    },
+    "name": { "en-US": "Legendary Longsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 12,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 12, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_legendary_battleaxe",
-    "name": {
-      "en-US": "Legendary Battleaxe"
-    },
+    "name": { "en-US": "Legendary Battleaxe" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 12,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 12, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_legendary_greatsword",
-    "name": {
-      "en-US": "Legendary Greatsword"
-    },
+    "name": { "en-US": "Legendary Greatsword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 12,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 12, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Massive"
-        },
+        "name": { "en-US": "Massive" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2387,119 +1602,74 @@
   },
   {
     "id": "core_weapon_legendary_mace",
-    "name": {
-      "en-US": "Legendary Mace"
-    },
+    "name": { "en-US": "Legendary Mace" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 10,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 10, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_legendary_warhammer",
-    "name": {
-      "en-US": "Legendary Warhammer"
-    },
+    "name": { "en-US": "Legendary Warhammer" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D12",
-      "modifier": 12,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D12", "modifier": 12, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Heavy"
-        },
+        "name": { "en-US": "Heavy" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Evasion"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_legendary_dagger",
-    "name": {
-      "en-US": "Legendary Dagger"
-    },
+    "name": { "en-US": "Legendary Dagger" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 10,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 10, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_legendary_quarterstaff",
-    "name": {
-      "en-US": "Legendary Quarterstaff"
-    },
+    "name": { "en-US": "Legendary Quarterstaff" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "INSTINCT",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 12,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 12, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_legendary_cutlass",
-    "name": {
-      "en-US": "Legendary Cutlass"
-    },
+    "name": { "en-US": "Legendary Cutlass" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 10,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 10, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_legendary_rapier",
-    "name": {
-      "en-US": "Legendary Rapier"
-    },
+    "name": { "en-US": "Legendary Rapier" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 9, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Quick"
-        },
+        "name": { "en-US": "Quick" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2513,149 +1683,90 @@
   },
   {
     "id": "core_weapon_legendary_halberd",
-    "name": {
-      "en-US": "Legendary Halberd"
-    },
+    "name": { "en-US": "Legendary Halberd" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 11,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 11, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_legendary_spear",
-    "name": {
-      "en-US": "Legendary Spear"
-    },
+    "name": { "en-US": "Legendary Spear" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "FINESSE",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 11,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 11, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_legendary_shortbow",
-    "name": {
-      "en-US": "Legendary Shortbow"
-    },
+    "name": { "en-US": "Legendary Shortbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "AGILITY",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 12,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 12, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_legendary_crossbow",
-    "name": {
-      "en-US": "Legendary Crossbow"
-    },
+    "name": { "en-US": "Legendary Crossbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 10,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 10, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_legendary_longbow",
-    "name": {
-      "en-US": "Legendary Longbow"
-    },
+    "name": { "en-US": "Legendary Longbow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "AGILITY",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D8",
-      "modifier": 12,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 12, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Cumbersome"
-        },
+        "name": { "en-US": "Cumbersome" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "-1 to Finesse"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_dual_ended_sword",
-    "name": {
-      "en-US": "Dual-Ended Sword"
-    },
+    "name": { "en-US": "Dual-Ended Sword" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 9, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Quick"
-        },
+        "name": { "en-US": "Quick" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2669,24 +1780,16 @@
   },
   {
     "id": "core_weapon_impact_gauntlet",
-    "name": {
-      "en-US": "Impact Gauntlet"
-    },
+    "name": { "en-US": "Impact Gauntlet" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 11,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 11, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Concussive"
-        },
+        "name": { "en-US": "Concussive" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2700,24 +1803,16 @@
   },
   {
     "id": "core_weapon_sledge_axe",
-    "name": {
-      "en-US": "Sledge Axe"
-    },
+    "name": { "en-US": "Sledge Axe" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D12",
-      "modifier": 13,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D12", "modifier": 13, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Destructive"
-        },
+        "name": { "en-US": "Destructive" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2731,24 +1826,16 @@
   },
   {
     "id": "core_weapon_curved_dagger",
-    "name": {
-      "en-US": "Curved Dagger"
-    },
+    "name": { "en-US": "Curved Dagger" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 9, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Serrated"
-        },
+        "name": { "en-US": "Serrated" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2762,24 +1849,16 @@
   },
   {
     "id": "core_weapon_extended_polearm",
-    "name": {
-      "en-US": "Extended Polearm"
-    },
+    "name": { "en-US": "Extended Polearm" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "FINESSE",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 10,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 10, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Long"
-        },
+        "name": { "en-US": "Long" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2793,24 +1872,16 @@
   },
   {
     "id": "core_weapon_swinging_ropeblade",
-    "name": {
-      "en-US": "Swinging Ropeblade"
-    },
+    "name": { "en-US": "Swinging Ropeblade" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "PRESENCE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 9,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 9, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Grappling"
-        },
+        "name": { "en-US": "Grappling" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2824,24 +1895,16 @@
   },
   {
     "id": "core_weapon_ricochet_axes",
-    "name": {
-      "en-US": "Ricochet Axes"
-    },
+    "name": { "en-US": "Ricochet Axes" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "AGILITY",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 11,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 11, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Bouncing"
-        },
+        "name": { "en-US": "Bouncing" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2855,55 +1918,34 @@
   },
   {
     "id": "core_weapon_aantari_bow",
-    "name": {
-      "en-US": "Aantari Bow"
-    },
+    "name": { "en-US": "Aantari Bow" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 11,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 11, "type": "PHYSICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reliable"
-        },
+        "name": { "en-US": "Reliable" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+1 to attack rolls"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_hand_cannon",
-    "name": {
-      "en-US": "Hand Cannon"
-    },
+    "name": { "en-US": "Hand Cannon" },
     "type": "PRIMARY_PHYSICAL",
     "tier": 4,
     "trait": "FINESSE",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 12,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 12, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reloading"
-        },
+        "name": { "en-US": "Reloading" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -2917,88 +1959,56 @@
   },
   {
     "id": "core_weapon_legendary_arcane_gauntlets",
-    "name": {
-      "en-US": "Legendary Arcane Gauntlets"
-    },
+    "name": { "en-US": "Legendary Arcane Gauntlets" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 12,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 12, "type": "MAGICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_legendary_hallowed_axe",
-    "name": {
-      "en-US": "Legendary Hallowed Axe"
-    },
+    "name": { "en-US": "Legendary Hallowed Axe" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 10,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 10, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_legendary_glowing_rings",
-    "name": {
-      "en-US": "Legendary Glowing Rings"
-    },
+    "name": { "en-US": "Legendary Glowing Rings" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "AGILITY",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 11,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 11, "type": "MAGICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_legendary_hand_runes",
-    "name": {
-      "en-US": "Legendary Hand Runes"
-    },
+    "name": { "en-US": "Legendary Hand Runes" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "INSTINCT",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 9,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 9, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_legendary_returning_blade",
-    "name": {
-      "en-US": "Legendary Returning Blade"
-    },
+    "name": { "en-US": "Legendary Returning Blade" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "FINESSE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 9,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 9, "type": "MAGICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Returning"
-        },
+        "name": { "en-US": "Returning" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3012,56 +2022,36 @@
   },
   {
     "id": "core_weapon_legendary_shortstaff",
-    "name": {
-      "en-US": "Legendary Shortstaff"
-    },
+    "name": { "en-US": "Legendary Shortstaff" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "INSTINCT",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 10,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 10, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_legendary_dualstaff",
-    "name": {
-      "en-US": "Legendary Dualstaff"
-    },
+    "name": { "en-US": "Legendary Dualstaff" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "INSTINCT",
     "range": "FAR",
-    "damage": {
-      "dice": "D8",
-      "modifier": 12,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 12, "type": "MAGICAL" },
     "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_legendary_scepter",
-    "name": {
-      "en-US": "Legendary Scepter"
-    },
+    "name": { "en-US": "Legendary Scepter" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "PRESENCE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 9,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 9, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Versatile"
-        },
+        "name": { "en-US": "Versatile" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3075,40 +2065,26 @@
   },
   {
     "id": "core_weapon_legendary_wand",
-    "name": {
-      "en-US": "Legendary Wand"
-    },
+    "name": { "en-US": "Legendary Wand" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "KNOWLEDGE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 10,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 10, "type": "MAGICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_legendary_greatstaff",
-    "name": {
-      "en-US": "Legendary Greatstaff"
-    },
+    "name": { "en-US": "Legendary Greatstaff" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "KNOWLEDGE",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 9,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 9, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Powerful"
-        },
+        "name": { "en-US": "Powerful" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3122,30 +2098,20 @@
   },
   {
     "id": "core_weapon_sword_of_light_flame",
-    "name": {
-      "en-US": "Sword of Light & Flame"
-    },
+    "name": { "en-US": "Sword of Light & Flame" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 11,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 11, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Hot"
-        },
+        "name": { "en-US": "Hot" },
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "This weapon cuts through solid material."
-            }
+            "text": { "en-US": "This weapon cuts through solid material." }
           }
         ]
       }
@@ -3153,24 +2119,16 @@
   },
   {
     "id": "core_weapon_siphoning_gauntlets",
-    "name": {
-      "en-US": "Siphoning Gauntlets"
-    },
+    "name": { "en-US": "Siphoning Gauntlets" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "PRESENCE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 9,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 9, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Lifestealing"
-        },
+        "name": { "en-US": "Lifestealing" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3184,24 +2142,16 @@
   },
   {
     "id": "core_weapon_midas_scythe",
-    "name": {
-      "en-US": "Midas Scythe"
-    },
+    "name": { "en-US": "Midas Scythe" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "KNOWLEDGE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D10",
-      "modifier": 9,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D10", "modifier": 9, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Greedy"
-        },
+        "name": { "en-US": "Greedy" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3215,24 +2165,16 @@
   },
   {
     "id": "core_weapon_floating_bladeshards",
-    "name": {
-      "en-US": "Floating Bladeshards"
-    },
+    "name": { "en-US": "Floating Bladeshards" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "INSTINCT",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 9,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 9, "type": "MAGICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Powerful"
-        },
+        "name": { "en-US": "Powerful" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3246,24 +2188,16 @@
   },
   {
     "id": "core_weapon_bloodstaff",
-    "name": {
-      "en-US": "Bloodstaff"
-    },
+    "name": { "en-US": "Bloodstaff" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "INSTINCT",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D20",
-      "modifier": 7,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D20", "modifier": 7, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Painful"
-        },
+        "name": { "en-US": "Painful" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3277,55 +2211,34 @@
   },
   {
     "id": "core_weapon_thistlebow",
-    "name": {
-      "en-US": "Thistlebow"
-    },
+    "name": { "en-US": "Thistlebow" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "INSTINCT",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 13,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 13, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reliable"
-        },
+        "name": { "en-US": "Reliable" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+1 to attack rolls"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_wand_of_essek",
-    "name": {
-      "en-US": "Wand of Essek"
-    },
+    "name": { "en-US": "Wand of Essek" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "KNOWLEDGE",
     "range": "FAR",
-    "damage": {
-      "dice": "D8",
-      "modifier": 13,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 13, "type": "MAGICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Timebending"
-        },
+        "name": { "en-US": "Timebending" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3339,24 +2252,16 @@
   },
   {
     "id": "core_weapon_magus_revolver",
-    "name": {
-      "en-US": "Magus Revolver"
-    },
+    "name": { "en-US": "Magus Revolver" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "FINESSE",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 13,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 13, "type": "MAGICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Reloading"
-        },
+        "name": { "en-US": "Reloading" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3370,24 +2275,16 @@
   },
   {
     "id": "core_weapon_fusion_gloves",
-    "name": {
-      "en-US": "Fusion Gloves"
-    },
+    "name": { "en-US": "Fusion Gloves" },
     "type": "PRIMARY_MAGIC",
     "tier": 4,
     "trait": "KNOWLEDGE",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 9,
-      "type": "MAGICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 9, "type": "MAGICAL" },
     "burden": "TWO_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Bonded"
-        },
+        "name": { "en-US": "Bonded" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3401,23 +2298,16 @@
   },
   {
     "id": "core_weapon_shortsword",
-    "name": {
-      "en-US": "Shortsword"
-    },
+    "name": { "en-US": "Shortsword" },
     "type": "SECONDARY",
     "tier": 1,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Paired"
-        },
+        "name": { "en-US": "Paired" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3431,59 +2321,38 @@
   },
   {
     "id": "core_weapon_round_shield",
-    "name": {
-      "en-US": "Round Shield"
-    },
+    "name": { "en-US": "Round Shield" },
     "type": "SECONDARY",
     "tier": 1,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D4",
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D4", "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Protective"
-        },
+        "name": { "en-US": "Protective" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+1 to Armor Score"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+1 to Armor Score" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_tower_shield",
-    "name": {
-      "en-US": "Tower Shield"
-    },
+    "name": { "en-US": "Tower Shield" },
     "type": "SECONDARY",
     "tier": 1,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D6",
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Barrier"
-        },
+        "name": { "en-US": "Barrier" },
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+2 to Armor Score; -1 to Evasion"
-            }
+            "text": { "en-US": "+2 to Armor Score; -1 to Evasion" }
           }
         ]
       }
@@ -3491,23 +2360,16 @@
   },
   {
     "id": "core_weapon_small_dagger",
-    "name": {
-      "en-US": "Small Dagger"
-    },
+    "name": { "en-US": "Small Dagger" },
     "type": "SECONDARY",
     "tier": 1,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Paired"
-        },
+        "name": { "en-US": "Paired" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3521,23 +2383,16 @@
   },
   {
     "id": "core_weapon_whip",
-    "name": {
-      "en-US": "Whip"
-    },
+    "name": { "en-US": "Whip" },
     "type": "SECONDARY",
     "tier": 1,
     "trait": "PRESENCE",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D6",
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Startling"
-        },
+        "name": { "en-US": "Startling" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3551,23 +2406,16 @@
   },
   {
     "id": "core_weapon_grappler",
-    "name": {
-      "en-US": "Grappler"
-    },
+    "name": { "en-US": "Grappler" },
     "type": "SECONDARY",
     "tier": 1,
     "trait": "FINESSE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D6",
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Hooked"
-        },
+        "name": { "en-US": "Hooked" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3581,40 +2429,26 @@
   },
   {
     "id": "core_weapon_hand_crossbow",
-    "name": {
-      "en-US": "Hand Crossbow"
-    },
+    "name": { "en-US": "Hand Crossbow" },
     "type": "SECONDARY",
     "tier": 1,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 1,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 1, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_improved_shortsword",
-    "name": {
-      "en-US": "Improved Shortsword"
-    },
+    "name": { "en-US": "Improved Shortsword" },
     "type": "SECONDARY",
     "tier": 2,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 2,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 2, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Paired"
-        },
+        "name": { "en-US": "Paired" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3628,61 +2462,38 @@
   },
   {
     "id": "core_weapon_improved_round_shield",
-    "name": {
-      "en-US": "Improved Round Shield"
-    },
+    "name": { "en-US": "Improved Round Shield" },
     "type": "SECONDARY",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D4",
-      "modifier": 2,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D4", "modifier": 2, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Protective"
-        },
+        "name": { "en-US": "Protective" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+2 to Armor Score"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+2 to Armor Score" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_improved_tower_shield",
-    "name": {
-      "en-US": "Improved Tower Shield"
-    },
+    "name": { "en-US": "Improved Tower Shield" },
     "type": "SECONDARY",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 2,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 2, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Barrier"
-        },
+        "name": { "en-US": "Barrier" },
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+3 to Armor Score; -1 to Evasion"
-            }
+            "text": { "en-US": "+3 to Armor Score; -1 to Evasion" }
           }
         ]
       }
@@ -3690,24 +2501,16 @@
   },
   {
     "id": "core_weapon_improved_small_dagger",
-    "name": {
-      "en-US": "Improved Small Dagger"
-    },
+    "name": { "en-US": "Improved Small Dagger" },
     "type": "SECONDARY",
     "tier": 2,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 2,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 2, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Paired"
-        },
+        "name": { "en-US": "Paired" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3721,24 +2524,16 @@
   },
   {
     "id": "core_weapon_improved_whip",
-    "name": {
-      "en-US": "Improved Whip"
-    },
+    "name": { "en-US": "Improved Whip" },
     "type": "SECONDARY",
     "tier": 2,
     "trait": "PRESENCE",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 2,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 2, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Startling"
-        },
+        "name": { "en-US": "Startling" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3752,24 +2547,16 @@
   },
   {
     "id": "core_weapon_improved_grappler",
-    "name": {
-      "en-US": "Improved Grappler"
-    },
+    "name": { "en-US": "Improved Grappler" },
     "type": "SECONDARY",
     "tier": 2,
     "trait": "FINESSE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 2,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 2, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Hooked"
-        },
+        "name": { "en-US": "Hooked" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3783,40 +2570,26 @@
   },
   {
     "id": "core_weapon_improved_hand_crossbow",
-    "name": {
-      "en-US": "Improved Hand Crossbow"
-    },
+    "name": { "en-US": "Improved Hand Crossbow" },
     "type": "SECONDARY",
     "tier": 2,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 3,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 3, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_spiked_shield",
-    "name": {
-      "en-US": "Spiked Shield"
-    },
+    "name": { "en-US": "Spiked Shield" },
     "type": "SECONDARY",
     "tier": 2,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 2,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 2, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Double Duty"
-        },
+        "name": { "en-US": "Double Duty" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3830,24 +2603,16 @@
   },
   {
     "id": "core_weapon_parrying_dagger",
-    "name": {
-      "en-US": "Parrying Dagger"
-    },
+    "name": { "en-US": "Parrying Dagger" },
     "type": "SECONDARY",
     "tier": 2,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 2,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 2, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Parry"
-        },
+        "name": { "en-US": "Parry" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3861,24 +2626,16 @@
   },
   {
     "id": "core_weapon_returning_axe",
-    "name": {
-      "en-US": "Returning Axe"
-    },
+    "name": { "en-US": "Returning Axe" },
     "type": "SECONDARY",
     "tier": 2,
     "trait": "AGILITY",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Returning"
-        },
+        "name": { "en-US": "Returning" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3892,24 +2649,16 @@
   },
   {
     "id": "core_weapon_advanced_shortsword",
-    "name": {
-      "en-US": "Advanced Shortsword"
-    },
+    "name": { "en-US": "Advanced Shortsword" },
     "type": "SECONDARY",
     "tier": 3,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Paired"
-        },
+        "name": { "en-US": "Paired" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -3923,61 +2672,38 @@
   },
   {
     "id": "core_weapon_advanced_round_shield",
-    "name": {
-      "en-US": "Advanced Round Shield"
-    },
+    "name": { "en-US": "Advanced Round Shield" },
     "type": "SECONDARY",
     "tier": 3,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D4",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D4", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Protective"
-        },
+        "name": { "en-US": "Protective" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+3 to Armor Score"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+3 to Armor Score" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_advanced_tower_shield",
-    "name": {
-      "en-US": "Advanced Tower Shield"
-    },
+    "name": { "en-US": "Advanced Tower Shield" },
     "type": "SECONDARY",
     "tier": 3,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Barrier"
-        },
+        "name": { "en-US": "Barrier" },
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+4 to Armor Score; -1 to Evasion"
-            }
+            "text": { "en-US": "+4 to Armor Score; -1 to Evasion" }
           }
         ]
       }
@@ -3985,24 +2711,16 @@
   },
   {
     "id": "core_weapon_advanced_small_dagger",
-    "name": {
-      "en-US": "Advanced Small Dagger"
-    },
+    "name": { "en-US": "Advanced Small Dagger" },
     "type": "SECONDARY",
     "tier": 3,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Paired"
-        },
+        "name": { "en-US": "Paired" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4016,24 +2734,16 @@
   },
   {
     "id": "core_weapon_advanced_whip",
-    "name": {
-      "en-US": "Advanced Whip"
-    },
+    "name": { "en-US": "Advanced Whip" },
     "type": "SECONDARY",
     "tier": 3,
     "trait": "PRESENCE",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Startling"
-        },
+        "name": { "en-US": "Startling" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4047,24 +2757,16 @@
   },
   {
     "id": "core_weapon_advanced_grappler",
-    "name": {
-      "en-US": "Advanced Grappler"
-    },
+    "name": { "en-US": "Advanced Grappler" },
     "type": "SECONDARY",
     "tier": 3,
     "trait": "FINESSE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Hooked"
-        },
+        "name": { "en-US": "Hooked" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4078,40 +2780,26 @@
   },
   {
     "id": "core_weapon_advanced_hand_crossbow",
-    "name": {
-      "en-US": "Advanced Hand Crossbow"
-    },
+    "name": { "en-US": "Advanced Hand Crossbow" },
     "type": "SECONDARY",
     "tier": 3,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 5,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 5, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_buckler",
-    "name": {
-      "en-US": "Buckler"
-    },
+    "name": { "en-US": "Buckler" },
     "type": "SECONDARY",
     "tier": 3,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D4",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D4", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Deflecting"
-        },
+        "name": { "en-US": "Deflecting" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4125,24 +2813,16 @@
   },
   {
     "id": "core_weapon_powered_gauntlet",
-    "name": {
-      "en-US": "Powered Gauntlet"
-    },
+    "name": { "en-US": "Powered Gauntlet" },
     "type": "SECONDARY",
     "tier": 3,
     "trait": "KNOWLEDGE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Charged"
-        },
+        "name": { "en-US": "Charged" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4156,24 +2836,16 @@
   },
   {
     "id": "core_weapon_hand_sling",
-    "name": {
-      "en-US": "Hand Sling"
-    },
+    "name": { "en-US": "Hand Sling" },
     "type": "SECONDARY",
     "tier": 3,
     "trait": "FINESSE",
     "range": "VERY_FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 4,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 4, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Versatile"
-        },
+        "name": { "en-US": "Versatile" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4187,24 +2859,16 @@
   },
   {
     "id": "core_weapon_legendary_shortsword",
-    "name": {
-      "en-US": "Legendary Shortsword"
-    },
+    "name": { "en-US": "Legendary Shortsword" },
     "type": "SECONDARY",
     "tier": 4,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 6, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Paired"
-        },
+        "name": { "en-US": "Paired" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4218,61 +2882,38 @@
   },
   {
     "id": "core_weapon_legendary_round_shield",
-    "name": {
-      "en-US": "Legendary Round Shield"
-    },
+    "name": { "en-US": "Legendary Round Shield" },
     "type": "SECONDARY",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D4",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D4", "modifier": 6, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Protective"
-        },
+        "name": { "en-US": "Protective" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+4 to Armor Score"
-            }
-          }
+          { "type": "PARAGRAPH", "text": { "en-US": "+4 to Armor Score" } }
         ]
       }
     ]
   },
   {
     "id": "core_weapon_legendary_tower_shield",
-    "name": {
-      "en-US": "Legendary Tower Shield"
-    },
+    "name": { "en-US": "Legendary Tower Shield" },
     "type": "SECONDARY",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 6, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Barrier"
-        },
+        "name": { "en-US": "Barrier" },
         "description": [
           {
             "type": "PARAGRAPH",
-            "text": {
-              "en-US": "+5 to Armor Score; -1 to Evasion."
-            }
+            "text": { "en-US": "+5 to Armor Score; -1 to Evasion." }
           }
         ]
       }
@@ -4280,24 +2921,16 @@
   },
   {
     "id": "core_weapon_legendary_small_dagger",
-    "name": {
-      "en-US": "Legendary Small Dagger"
-    },
+    "name": { "en-US": "Legendary Small Dagger" },
     "type": "SECONDARY",
     "tier": 4,
     "trait": "FINESSE",
     "range": "MELEE",
-    "damage": {
-      "dice": "D8",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D8", "modifier": 6, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Paired"
-        },
+        "name": { "en-US": "Paired" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4311,24 +2944,16 @@
   },
   {
     "id": "core_weapon_legendary_whip",
-    "name": {
-      "en-US": "Legendary Whip"
-    },
+    "name": { "en-US": "Legendary Whip" },
     "type": "SECONDARY",
     "tier": 4,
     "trait": "PRESENCE",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 6, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Startling"
-        },
+        "name": { "en-US": "Startling" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4342,24 +2967,16 @@
   },
   {
     "id": "core_weapon_legendary_grappler",
-    "name": {
-      "en-US": "Legendary Grappler"
-    },
+    "name": { "en-US": "Legendary Grappler" },
     "type": "SECONDARY",
     "tier": 4,
     "trait": "FINESSE",
     "range": "CLOSE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 6, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Hooked"
-        },
+        "name": { "en-US": "Hooked" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4373,40 +2990,26 @@
   },
   {
     "id": "core_weapon_legendary_hand_crossbow",
-    "name": {
-      "en-US": "Legendary Hand Crossbow"
-    },
+    "name": { "en-US": "Legendary Hand Crossbow" },
     "type": "SECONDARY",
     "tier": 4,
     "trait": "FINESSE",
     "range": "FAR",
-    "damage": {
-      "dice": "D6",
-      "modifier": 7,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 7, "type": "PHYSICAL" },
     "burden": "ONE_HANDED"
   },
   {
     "id": "core_weapon_braveshield",
-    "name": {
-      "en-US": "Braveshield"
-    },
+    "name": { "en-US": "Braveshield" },
     "type": "SECONDARY",
     "tier": 4,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": {
-      "dice": "D4",
-      "modifier": 6,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D4", "modifier": 6, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Sheltering"
-        },
+        "name": { "en-US": "Sheltering" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4420,24 +3023,16 @@
   },
   {
     "id": "core_weapon_knuckle_claws",
-    "name": {
-      "en-US": "Knuckle Claws"
-    },
+    "name": { "en-US": "Knuckle Claws" },
     "type": "SECONDARY",
     "tier": 4,
     "trait": "STRENGTH",
     "range": "MELEE",
-    "damage": {
-      "dice": "D6",
-      "modifier": 8,
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D6", "modifier": 8, "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Doubled Up"
-        },
+        "name": { "en-US": "Doubled Up" },
         "description": [
           {
             "type": "PARAGRAPH",
@@ -4451,23 +3046,16 @@
   },
   {
     "id": "core_weapon_primer_shard",
-    "name": {
-      "en-US": "Primer Shard"
-    },
+    "name": { "en-US": "Primer Shard" },
     "type": "SECONDARY",
     "tier": 4,
     "trait": "INSTINCT",
     "range": "VERY_CLOSE",
-    "damage": {
-      "dice": "D4",
-      "type": "PHYSICAL"
-    },
+    "damage": { "dice": "D4", "type": "PHYSICAL" },
     "burden": "ONE_HANDED",
     "features": [
       {
-        "name": {
-          "en-US": "Locked On"
-        },
+        "name": { "en-US": "Locked On" },
         "description": [
           {
             "type": "PARAGRAPH",

@@ -8,5 +8,12 @@
   "devDependencies": {
     "ajv-cli": "^5.0.0",
     "prettier": "^3.5.3"
+  },
+  "prettier": {
+    "useTabs": false,
+    "tabWidth": 2,
+    "bracketSpacing": true,
+    "objectWrap": "collapse",
+    "trailingComma": "es5"
   }
 }

@@ -1,18 +1,14 @@
 [
   {
     "id": "core_subclass_beastbound",
-    "name": {
-      "en-US": "Beastbound"
-    },
+    "name": { "en-US": "Beastbound" },
     "class": "RANGER",
     "domains": ["BONE", "SAGE"],
     "spellcastTrait": "AGILITY",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Companion"
-          },
+          "name": { "en-US": "Companion" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -33,9 +29,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Expert Training"
-          },
+          "name": { "en-US": "Expert Training" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -46,9 +40,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Battle-Bonded"
-          },
+          "name": { "en-US": "Battle-Bonded" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -63,9 +55,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Advanced Training"
-          },
+          "name": { "en-US": "Advanced Training" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -76,9 +66,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Loyal Friend"
-          },
+          "name": { "en-US": "Loyal Friend" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -93,17 +81,13 @@
   },
   {
     "id": "core_subclass_call_of_the_brave",
-    "name": {
-      "en-US": "Call of the Brave"
-    },
+    "name": { "en-US": "Call of the Brave" },
     "class": "WARRIOR",
     "domains": ["BLADE", "BONE"],
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Courage"
-          },
+          "name": { "en-US": "Courage" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -114,9 +98,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Battle Ritual"
-          },
+          "name": { "en-US": "Battle Ritual" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -131,9 +113,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Rise to the Challenge"
-          },
+          "name": { "en-US": "Rise to the Challenge" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -148,9 +128,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Camaraderie"
-          },
+          "name": { "en-US": "Camaraderie" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -165,17 +143,13 @@
   },
   {
     "id": "core_subclass_call_of_the_slayer",
-    "name": {
-      "en-US": "Call of the Slayer"
-    },
+    "name": { "en-US": "Call of the Slayer" },
     "class": "WARRIOR",
     "domains": ["BLADE", "BONE"],
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Slayer"
-          },
+          "name": { "en-US": "Slayer" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -190,9 +164,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Weapon Specialist"
-          },
+          "name": { "en-US": "Weapon Specialist" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -207,9 +179,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Martial Preparation"
-          },
+          "name": { "en-US": "Martial Preparation" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -224,18 +194,14 @@
   },
   {
     "id": "core_subclass_divine_wielder",
-    "name": {
-      "en-US": "Divine Wielder"
-    },
+    "name": { "en-US": "Divine Wielder" },
     "class": "SERAPH",
     "domains": ["SPLENDOR", "VALOR"],
     "spellcastTrait": "STRENGTH",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Spirit Weapon"
-          },
+          "name": { "en-US": "Spirit Weapon" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -246,9 +212,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Sparing Touch"
-          },
+          "name": { "en-US": "Sparing Touch" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -263,9 +227,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Devout"
-          },
+          "name": { "en-US": "Devout" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -280,9 +242,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Sacred Resonance"
-          },
+          "name": { "en-US": "Sacred Resonance" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -297,18 +257,14 @@
   },
   {
     "id": "core_subclass_elemental_origin",
-    "name": {
-      "en-US": "Elemental Origin"
-    },
+    "name": { "en-US": "Elemental Origin" },
     "class": "SORCERER",
     "domains": ["MIDNIGHT", "ARCANA"],
     "spellcastTrait": "INSTINCT",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Elementalist"
-          },
+          "name": { "en-US": "Elementalist" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -323,9 +279,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Natural Evasion"
-          },
+          "name": { "en-US": "Natural Evasion" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -340,9 +294,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Transcendence"
-          },
+          "name": { "en-US": "Transcendence" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -352,9 +304,7 @@
             },
             {
               "type": "LIST_ITEM",
-              "text": {
-                "en-US": "+4 bonus to your Severe threshold"
-              }
+              "text": { "en-US": "+4 bonus to your Severe threshold" }
             },
             {
               "type": "LIST_ITEM",
@@ -364,15 +314,11 @@
             },
             {
               "type": "LIST_ITEM",
-              "text": {
-                "en-US": "+1 bonus to your Proficiency"
-              }
+              "text": { "en-US": "+1 bonus to your Proficiency" }
             },
             {
               "type": "LIST_ITEM",
-              "text": {
-                "en-US": "+2 bonus to your Evasion"
-              }
+              "text": { "en-US": "+2 bonus to your Evasion" }
             }
           ]
         }
@@ -381,18 +327,14 @@
   },
   {
     "id": "core_subclass_nightwalker",
-    "name": {
-      "en-US": "Nightwalker"
-    },
+    "name": { "en-US": "Nightwalker" },
     "class": "ROGUE",
     "domains": ["MIDNIGHT", "GRACE"],
     "spellcastTrait": "FINESSE",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Shadow Stepper"
-          },
+          "name": { "en-US": "Shadow Stepper" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -407,9 +349,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Dark Cloud"
-          },
+          "name": { "en-US": "Dark Cloud" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -420,9 +360,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Adrenaline"
-          },
+          "name": { "en-US": "Adrenaline" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -437,9 +375,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Fleeting Shadow"
-          },
+          "name": { "en-US": "Fleeting Shadow" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -450,9 +386,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Vanishing Act"
-          },
+          "name": { "en-US": "Vanishing Act" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -467,18 +401,14 @@
   },
   {
     "id": "core_subclass_primal_origin",
-    "name": {
-      "en-US": "Primal Origin"
-    },
+    "name": { "en-US": "Primal Origin" },
     "class": "SORCERER",
     "domains": ["MIDNIGHT", "ARCANA"],
     "spellcastTrait": "INSTINCT",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Manipulate Magic"
-          },
+          "name": { "en-US": "Manipulate Magic" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -494,21 +424,15 @@
             },
             {
               "type": "LIST_ITEM",
-              "text": {
-                "en-US": "Gain a +2 bonus to the action roll's result"
-              }
+              "text": { "en-US": "Gain a +2 bonus to the action roll's result" }
             },
             {
               "type": "LIST_ITEM",
-              "text": {
-                "en-US": "Double a damage die of your choice"
-              }
+              "text": { "en-US": "Double a damage die of your choice" }
             },
             {
               "type": "LIST_ITEM",
-              "text": {
-                "en-US": "Hit an additional target within range"
-              }
+              "text": { "en-US": "Hit an additional target within range" }
             }
           ]
         }
@@ -517,9 +441,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Enchanted Aid"
-          },
+          "name": { "en-US": "Enchanted Aid" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -534,9 +456,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Arcane Charge"
-          },
+          "name": { "en-US": "Arcane Charge" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -551,18 +471,14 @@
   },
   {
     "id": "core_subclass_school_of_knowledge",
-    "name": {
-      "en-US": "School of Knowledge"
-    },
+    "name": { "en-US": "School of Knowledge" },
     "class": "WIZARD",
     "domains": ["CODEX", "SPLENDOR"],
     "spellcastTrait": "KNOWLEDGE",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Prepared"
-          },
+          "name": { "en-US": "Prepared" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -573,9 +489,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Adept"
-          },
+          "name": { "en-US": "Adept" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -590,9 +504,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Accomplished"
-          },
+          "name": { "en-US": "Accomplished" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -603,9 +515,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Perfect Recall"
-          },
+          "name": { "en-US": "Perfect Recall" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -620,9 +530,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Brilliant"
-          },
+          "name": { "en-US": "Brilliant" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -633,9 +541,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Honed Expertise"
-          },
+          "name": { "en-US": "Honed Expertise" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -650,18 +556,14 @@
   },
   {
     "id": "core_subclass_school_of_war",
-    "name": {
-      "en-US": "School of War"
-    },
+    "name": { "en-US": "School of War" },
     "class": "WIZARD",
     "domains": ["CODEX", "SPLENDOR"],
     "spellcastTrait": "KNOWLEDGE",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Battlemage"
-          },
+          "name": { "en-US": "Battlemage" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -672,9 +574,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Face Your Fear"
-          },
+          "name": { "en-US": "Face Your Fear" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -689,9 +589,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Conjure Shield"
-          },
+          "name": { "en-US": "Conjure Shield" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -702,9 +600,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Fueled by Fear"
-          },
+          "name": { "en-US": "Fueled by Fear" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -719,9 +615,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Thrive in Chaos"
-          },
+          "name": { "en-US": "Thrive in Chaos" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -732,9 +626,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Have No Fear"
-          },
+          "name": { "en-US": "Have No Fear" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -749,17 +641,13 @@
   },
   {
     "id": "core_subclass_stalwart",
-    "name": {
-      "en-US": "Stalwart"
-    },
+    "name": { "en-US": "Stalwart" },
     "class": "GUARDIAN",
     "domains": ["VALOR", "BLADE"],
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Unwavering"
-          },
+          "name": { "en-US": "Unwavering" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -770,9 +658,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Iron Will"
-          },
+          "name": { "en-US": "Iron Will" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -787,9 +673,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Unrelenting"
-          },
+          "name": { "en-US": "Unrelenting" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -800,9 +684,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Partners-in-Arms"
-          },
+          "name": { "en-US": "Partners-in-Arms" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -817,9 +699,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Undaunted"
-          },
+          "name": { "en-US": "Undaunted" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -830,9 +710,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Loyal Protector"
-          },
+          "name": { "en-US": "Loyal Protector" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -847,18 +725,14 @@
   },
   {
     "id": "core_subclass_syndicate",
-    "name": {
-      "en-US": "Syndicate"
-    },
+    "name": { "en-US": "Syndicate" },
     "class": "ROGUE",
     "domains": ["MIDNIGHT", "GRACE"],
     "spellcastTrait": "FINESSE",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Well-Connected"
-          },
+          "name": { "en-US": "Well-Connected" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -880,21 +754,15 @@
             },
             {
               "type": "LIST_ITEM",
-              "text": {
-                "en-US": "They're always in a great deal of trouble."
-              }
+              "text": { "en-US": "They're always in a great deal of trouble." }
             },
             {
               "type": "LIST_ITEM",
-              "text": {
-                "en-US": "We used to be together. It's a long story."
-              }
+              "text": { "en-US": "We used to be together. It's a long story." }
             },
             {
               "type": "LIST_ITEM",
-              "text": {
-                "en-US": "We didn't part on great terms."
-              }
+              "text": { "en-US": "We didn't part on great terms." }
             }
           ]
         }
@@ -903,9 +771,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Contacts Everywhere"
-          },
+          "name": { "en-US": "Contacts Everywhere" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -938,9 +804,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Reliable Backup"
-          },
+          "name": { "en-US": "Reliable Backup" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -967,18 +831,14 @@
   },
   {
     "id": "core_subclass_troubadour",
-    "name": {
-      "en-US": "Troubadour"
-    },
+    "name": { "en-US": "Troubadour" },
     "class": "BARD",
     "domains": ["GRACE", "CODEX"],
     "spellcastTrait": "PRESENCE",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Gifted Performer"
-          },
+          "name": { "en-US": "Gifted Performer" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1011,9 +871,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Maestro"
-          },
+          "name": { "en-US": "Maestro" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1028,9 +886,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Virtuoso"
-          },
+          "name": { "en-US": "Virtuoso" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1045,30 +901,22 @@
   },
   {
     "id": "core_subclass_vengeance",
-    "name": {
-      "en-US": "Vengeance"
-    },
+    "name": { "en-US": "Vengeance" },
     "class": "GUARDIAN",
     "domains": ["VALOR", "BLADE"],
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "At Ease"
-          },
+          "name": { "en-US": "At Ease" },
           "description": [
             {
               "type": "PARAGRAPH",
-              "text": {
-                "en-US": "Gain an additional Stress slot."
-              }
+              "text": { "en-US": "Gain an additional Stress slot." }
             }
           ]
         },
         {
-          "name": {
-            "en-US": "Revenge"
-          },
+          "name": { "en-US": "Revenge" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1083,9 +931,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Act of Reprisal"
-          },
+          "name": { "en-US": "Act of Reprisal" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1100,9 +946,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Nemesis"
-          },
+          "name": { "en-US": "Nemesis" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1117,18 +961,14 @@
   },
   {
     "id": "core_subclass_warden_of_renewal",
-    "name": {
-      "en-US": "Warden of Renewal"
-    },
+    "name": { "en-US": "Warden of Renewal" },
     "class": "DRUID",
     "domains": ["SAGE", "ARCANA"],
     "spellcastTrait": "INSTINCT",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Clarity of Nature"
-          },
+          "name": { "en-US": "Clarity of Nature" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1139,9 +979,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Regeneration"
-          },
+          "name": { "en-US": "Regeneration" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1156,9 +994,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Regenerative Reach"
-          },
+          "name": { "en-US": "Regenerative Reach" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1169,9 +1005,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Warden's Protection"
-          },
+          "name": { "en-US": "Warden's Protection" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1186,9 +1020,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Defender"
-          },
+          "name": { "en-US": "Defender" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1203,18 +1035,14 @@
   },
   {
     "id": "core_subclass_warden_of_the_elements",
-    "name": {
-      "en-US": "Warden of the Elements"
-    },
+    "name": { "en-US": "Warden of the Elements" },
     "class": "DRUID",
     "domains": ["SAGE", "ARCANA"],
     "spellcastTrait": "INSTINCT",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Elemental Incarnation"
-          },
+          "name": { "en-US": "Elemental Incarnation" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1253,9 +1081,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Elemental Aura"
-          },
+          "name": { "en-US": "Elemental Aura" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1294,9 +1120,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Elemental Dominion"
-          },
+          "name": { "en-US": "Elemental Dominion" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1335,18 +1159,14 @@
   },
   {
     "id": "core_subclass_wayfinder",
-    "name": {
-      "en-US": "Wayfinder"
-    },
+    "name": { "en-US": "Wayfinder" },
     "class": "RANGER",
     "domains": ["BONE", "SAGE"],
     "spellcastTrait": "AGILITY",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Ruthless Predator"
-          },
+          "name": { "en-US": "Ruthless Predator" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1357,9 +1177,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Path Forward"
-          },
+          "name": { "en-US": "Path Forward" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1374,9 +1192,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Elusive Predator"
-          },
+          "name": { "en-US": "Elusive Predator" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1391,9 +1207,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Apex Predator"
-          },
+          "name": { "en-US": "Apex Predator" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1408,18 +1222,14 @@
   },
   {
     "id": "core_subclass_winged_sentinel",
-    "name": {
-      "en-US": "Winged Sentinel"
-    },
+    "name": { "en-US": "Winged Sentinel" },
     "class": "SERAPH",
     "domains": ["SPLENDOR", "VALOR"],
     "spellcastTrait": "STRENGTH",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Wings of Light"
-          },
+          "name": { "en-US": "Wings of Light" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1446,9 +1256,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Ethereal Visage"
-          },
+          "name": { "en-US": "Ethereal Visage" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1463,9 +1271,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Ascendant"
-          },
+          "name": { "en-US": "Ascendant" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1476,9 +1282,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Power of the Gods"
-          },
+          "name": { "en-US": "Power of the Gods" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1493,18 +1297,14 @@
   },
   {
     "id": "core_subclass_wordsmith",
-    "name": {
-      "en-US": "Wordsmith"
-    },
+    "name": { "en-US": "Wordsmith" },
     "class": "BARD",
     "domains": ["GRACE", "CODEX"],
     "spellcastTrait": "PRESENCE",
     "foundation": {
       "features": [
         {
-          "name": {
-            "en-US": "Rousing Speech"
-          },
+          "name": { "en-US": "Rousing Speech" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1515,9 +1315,7 @@
           ]
         },
         {
-          "name": {
-            "en-US": "Heart of a Poet"
-          },
+          "name": { "en-US": "Heart of a Poet" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1532,9 +1330,7 @@
     "specialization": {
       "features": [
         {
-          "name": {
-            "en-US": "Eloquent"
-          },
+          "name": { "en-US": "Eloquent" },
           "description": [
             {
               "type": "PARAGRAPH",
@@ -1550,9 +1346,7 @@
             },
             {
               "type": "LIST_ITEM",
-              "text": {
-                "en-US": "Help an Ally without spending Hope."
-              }
+              "text": { "en-US": "Help an Ally without spending Hope." }
             },
             {
               "type": "LIST_ITEM",
@@ -1567,9 +1361,7 @@
     "mastery": {
       "features": [
         {
-          "name": {
-            "en-US": "Epic Poetry"
-          },
+          "name": { "en-US": "Epic Poetry" },
           "description": [
             {
               "type": "PARAGRAPH",
