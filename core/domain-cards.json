@@ -54,19 +54,11 @@
             "text": {
               "en-US": "When 4 or more of the domain cards in your loadout are from the Arcana domain, gain the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "+1 bonus to your Spellcast Rolls" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
@@ -112,11 +104,7 @@
             "text": {
               "en-US": "While you're wearing armor, gain a +1 bonus to your Armor Score."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -142,11 +130,7 @@
             "text": {
               "en-US": "Once per long rest, mark a Stress to create a projected copy of yourself that can appear anywhere you've been before."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -172,11 +156,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll against a target within Close range. On a success, roll a number of d20s equal to your Spellcast trait. The target must make a reaction roll with a Difficulty equal to your highest result. On a success, the target must mark a Stress but isn't banished. Once per rest on a failure, they are banished from this realm."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -202,26 +182,10 @@
             "text": {
               "en-US": "When you choose not to equip armor, you have a base Armor Score of 3 + your Strength and use the following as your base damage thresholds:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
-          { "type": "LIST_ITEM", "text": { "en-US": "Tier 1: 9/19" } }
-        ]
-      },
-      {
-        "description": [
-          { "type": "LIST_ITEM", "text": { "en-US": "Tier 2: 11/24" } }
-        ]
-      },
-      {
-        "description": [
-          { "type": "LIST_ITEM", "text": { "en-US": "Tier 3: 13/31" } }
-        ]
-      },
-      {
-        "description": [
+          },
+          { "type": "LIST_ITEM", "text": { "en-US": "Tier 1: 9/19" } },
+          { "type": "LIST_ITEM", "text": { "en-US": "Tier 2: 11/24" } },
+          { "type": "LIST_ITEM", "text": { "en-US": "Tier 3: 13/31" } },
           { "type": "LIST_ITEM", "text": { "en-US": "Tier 4: 15/38" } }
         ]
       }
@@ -302,19 +266,11 @@
             "text": {
               "en-US": "When 4 or more of the domain cards in your loadout are from the Blade domain, gain the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "+2 bonus to your attack rolls" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "+4 bonus to your Severe damage threshold" }
@@ -378,11 +334,7 @@
             "text": {
               "en-US": "When you make a Presence Roll, you can spend a Hope to add your Strength to the roll."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -428,16 +380,8 @@
             "text": {
               "en-US": "When 4 or more of the domain cards in your loadout are from the Bone domain, gain the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
-          { "type": "LIST_ITEM", "text": { "en-US": "+1 bonus to Agility" } }
-        ]
-      },
-      {
-        "description": [
+          },
+          { "type": "LIST_ITEM", "text": { "en-US": "+1 bonus to Agility" } },
           {
             "type": "LIST_ITEM",
             "text": {
@@ -1036,32 +980,19 @@
             "text": {
               "en-US": "When you critically succeed on an attack, you can spend up to 3 Hope and choose one of the following options for each Hope spent:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
-          { "type": "LIST_ITEM", "text": { "en-US": "You clear a Hit Point." } }
-        ]
-      },
-      {
-        "description": [
+          },
+          {
+            "type": "LIST_ITEM",
+            "text": { "en-US": "You clear a Hit Point." }
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "You clear an Armor Slot." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "The target must mark an additional Hit Point." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -1087,11 +1018,7 @@
             "text": {
               "en-US": "When you position yourself behind a creature who's about your size, you can mark a Stress to pull them into a chokehold, making them temporarily Vulnerable."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -1117,11 +1044,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll against a target within Melee range. On a success, the target instantly bursts into flames, takes 1d20+3 magic damage, and is temporarily lit On Fire."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -1167,21 +1090,13 @@
             "text": {
               "en-US": "When 4 or more of the domain cards in your loadout are from the Codex domain, gain the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "You can mark a Stress to add your Proficiency to a Spellcast Roll."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
@@ -1227,11 +1142,7 @@
             "text": {
               "en-US": "Tekaira Armored Beetles: Mark a Stress to conjure armored beetles that encircle you. When you next take damage, reduce the severity by one threshold. You can spend a Hope to keep the beetles conjured after taking damage."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
@@ -1377,29 +1288,13 @@
             "text": {
               "en-US": "You can speak into the mind of any person with whom you've made physical contact. Once you've opened a channel with them, they can speak back into your mind. Additionally, you can mark a Stress to make a Spellcast Roll against them. On a success, you can ask the GM one of the following questions and receive an answer:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
-          { "type": "LIST_ITEM", "text": { "en-US": "Where are they?" } }
-        ]
-      },
-      {
-        "description": [
-          { "type": "LIST_ITEM", "text": { "en-US": "What are they doing?" } }
-        ]
-      },
-      {
-        "description": [
+          },
+          { "type": "LIST_ITEM", "text": { "en-US": "Where are they?" } },
+          { "type": "LIST_ITEM", "text": { "en-US": "What are they doing?" } },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "What are they afraid of?" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "What do they cherish most in the world?" }
@@ -1443,41 +1338,25 @@
             "text": {
               "en-US": "Make a Spellcast Roll against a target within Close range and choose one of the following options:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "You pull the target into Melee range or pull yourself into Melee range of them."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "You constrict the target and force them to mark 2 Stress."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "All adversaries between you and the target must succeed on a Reaction Roll (13) or be hit by vines, taking 3d6+2 physical damage."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -1503,11 +1382,7 @@
             "text": {
               "en-US": "Spend 3 Hope to run a straight path through the battlefield to a point within Far range, making an attack against all adversaries within your weapon's range along that path. Choose the order in which you deal damage to the targets you succeeded against. For the first, roll your weapon damage with a +1 bonus to your Proficiency. Then remove a die from your damage roll and deal the remaining damage to the next target. Continue to remove a die for each subsequent target until you have no more damage dice or adversaries."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -1553,11 +1428,7 @@
             "text": {
               "en-US": "Once per rest, mark a Stress to sprint anywhere within Far range without making an Agility Roll to get there."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -1623,11 +1494,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll (16). Once per rest on a success, all targets within Very Far range who aren't flying must make a Reaction Roll (18). Targets who fail take 3d10+8 physical damage and are temporarily Vulnerable. Targets who succeed take half damage."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -1653,21 +1520,13 @@
             "text": {
               "en-US": "Make a Spellcast Roll (16). Once per long rest on a success, plunge the entire area within Far range into complete darkness only you and your allies can see through. Attack rolls have disadvantage when targeting you or an ally within this shadow."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
               "en-US": "Additionally, when you or an ally succeeds with Hope against an adversary within this shadow, the target must mark a Stress."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -1773,31 +1632,19 @@
             "text": {
               "en-US": "After a long rest, place a number of tokens equal to the number of Sage domain cards in your loadout and vault on this card."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
               "en-US": "When you would make a Spellcast Roll, you can spend any number of tokens after the roll to gain a +1 bonus for each token spent."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
               "en-US": "When you critically succeed on a Spellcast Roll for a Sage domain spell, gain a token."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -1903,51 +1750,27 @@
             "text": {
               "en-US": "As an additional downtime move you can choose, roll a d6 to see what you forage. Work with the GM to describe it and add it to your inventory as a consumable. Your party can carry up to five foraged consumables at a time."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "A unique food (Clear 2 Stress)" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "A beautiful relic (Gain 2 Hope)" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "An arcane rune (+2 to a Spellcast Roll)" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "A healing vial (Clear 2 Hit Points)" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "A luck charm (Reroll any die)" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "Choose one of the options above." }
@@ -1971,39 +1794,23 @@
             "text": {
               "en-US": "Mark a Stress to transform into a hulking nature spirit, gaining the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "When you succeed on an attack or Spellcast Roll, gain a +10 bonus to the damage roll."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "When you deal enough damage to defeat a creature within Close range, you absorb them and clear an Armor Slot."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "You can't be Restrained." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2029,11 +1836,7 @@
             "text": {
               "en-US": "Make an attack with your primary weapon against a target within Melee range. On a success, you deal damage and knock them back to Close range. On a success with Hope, add a d6 to your damage roll."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2059,31 +1862,19 @@
             "text": {
               "en-US": "Make a Spellcast Roll (13). On a success, spend any number of Hope to create an equal number of small forest sprites who appear at points you choose within Far range, providing the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "Your allies gain a +3 bonus to attack rolls against adversaries within Melee range of a sprite."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "An ally who marks an Armor Slot while within Melee range of a sprite can mark an additional Armor Slot."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2129,11 +1920,7 @@
             "text": {
               "en-US": "Once per long rest, you can go into a Frenzy until there are no more adversaries within sight."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2199,43 +1986,23 @@
             "text": {
               "en-US": "When you're tracking a specific creature or group of creatures based on signs of their passage, you can spend any number of Hope and ask the GM that many questions from the following list."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "What direction did they go?" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "How long ago did they pass through?" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "What were they doing in this location?" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "How many of them were here?" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2321,11 +2088,7 @@
             "text": {
               "en-US": "When you critically succeed on a weapon attack, gain an additional Hope or clear an additional Stress."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2351,21 +2114,13 @@
             "text": {
               "en-US": "When 4 or more of the domain cards in your loadout are from the Grace domain, gain the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "You can mark an Armor Slot instead of marking a Stress."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
@@ -2411,11 +2166,7 @@
             "text": {
               "en-US": "Once per long rest, you can conjure a field of healing plants around you. Everywhere within Close range of you bursts to life with vibrant nature, allowing you and all allies in the area to clear a Hit Point."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2481,11 +2232,7 @@
             "text": {
               "en-US": "Describe the defensive stance you take and spend a Hope. If an adversary moves within Very Close range, they're pulled into Melee range and Restrained."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2511,11 +2258,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll against a target within Close range. On a success, spend a Hope to conjure suppressive magic around the target that encompasses everything within Very Close range of them and follows them as they move."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2621,35 +2364,19 @@
             "text": {
               "en-US": "Your speech is imbued with power. After a long rest, place a number of tokens on this card equal to your Presence. When you speak with an ally, you can spend a token from this card to give them one benefit from the following options:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "Your ally clears a Stress." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "Your ally clears a Hit Point." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "Your ally gains a Hope." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2695,11 +2422,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll (10). On a success, mark a Stress and choose yourself or an ally within Melee range to become Invisible. An Invisible creature can't be seen except through magical means and attack rolls against them are made with disadvantage. Place a number of tokens on this card equal to your Spellcast trait. When the Invisible creature takes an action, spend a token from this card. After the action that spends the last token is resolved, the effect ends."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2725,45 +2448,25 @@
             "text": {
               "en-US": "When observing a creature, you can make an Instinct Roll against them. On a success, spend a Hope and ask the GM for one set of information about the target from the following options:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "Their unmarked Hit Points and Stress." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "Their Difficulty and damage thresholds." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "Their tactics and standard attack damage dice."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "Their features and Experiences." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2829,11 +2532,7 @@
             "text": {
               "en-US": "Spend 3 Hope and choose an ally within Close range. They are marked with a glowing sigil of protection. When this ally would make a death move, they clear a Hit Point instead."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2879,11 +2578,7 @@
             "text": {
               "en-US": "When you have a few minutes of silence to focus, you can mark a Stress to change the appearance of all willing creatures within Close range. Their new forms must share a general body structure and size, and can be somebody or something you've seen before or entirely fabricated. A disguised creature has advantage on Presence Rolls to avoid scrutiny."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2949,11 +2644,7 @@
             "text": {
               "en-US": "You lay your hands upon a creature and channel healing magic to close their wounds. When you can take a few minutes to focus on the target you're helping, you can spend 2 Hope to clear a Hit Point or a Stress on them."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -2979,11 +2670,7 @@
             "text": {
               "en-US": "Spend a Hope to summon a humanoid-sized spirit that can move or carry things for you until your next rest."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3009,21 +2696,13 @@
             "text": {
               "en-US": "When 4 or more of the domain cards in your loadout are from the Midnight domain, gain the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "Once per rest, when you have 0 Hope and the GM would gain a Fear, you can gain a Hope instead."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
@@ -3049,11 +2728,7 @@
             "text": {
               "en-US": "Spend a Hope to summon a small nature spirit or forest critter to your side until your next rest, you cast Natural Familiar again, or the familiar is targeted by an attack. If you spend an additional Hope, you can summon a familiar that flies. You can communicate with them, make a Spellcast Roll to command them to perform simple tasks, and mark a Stress to see through their eyes."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3079,11 +2754,7 @@
             "text": {
               "en-US": "You can speak the language of the natural world. When you want to speak to the plants and animals around you, make an Instinct Roll (12). On a success, they'll give you the information they know. On a roll with Fear, their knowledge might be limited or come at a cost."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3169,11 +2840,7 @@
             "text": {
               "en-US": "People know who you are and what you've done, and they treat you differently because of it. When you leverage your notoriety to get what you want, you can mark a Stress before you roll to gain a +10 bonus to the result. Your food and drinks are always free wherever you go, and everything else you buy is reduced in price by one bag of gold (to a minimum of one handful)."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3219,11 +2886,7 @@
             "text": {
               "en-US": "When you successfully make an attack with your weapon, you never deal damage beneath a target's Major damage threshold (the target always marks a minimum of 2 Hit Points)."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3249,11 +2912,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll (15) to magically empower your aura. On a success, spend 2 Hope to make your Presence equal to your Spellcast trait until your next long rest."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3379,11 +3038,7 @@
             "text": {
               "en-US": "Before you make an attack, you can mark a Stress to gain a bonus to your damage roll equal to twice your Strength."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": { "en-US": "You can Rage Up twice per attack." }
@@ -3407,11 +3062,7 @@
             "text": {
               "en-US": "Spend a Hope to make a Spellcast Roll and conjure throwing blades that strike out at all targets within Very Close range. Targets you succeed against take d8+2 magic damage using your Proficiency."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3555,11 +3206,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll (15). Once per rest on a success, create a temporary barrier of protective energy around you at Very Close range. You and all allies within the barrier when this spell is cast clear 1d4 Hit Points. While the barrier is up, you and all allies within have resistance to physical damage from outside the barrier."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": { "en-US": "When you move, the barrier follows you." }
@@ -3583,21 +3230,13 @@
             "text": {
               "en-US": "After a long rest, place a number of tokens equal to your Spellcast trait on this card. Touch a creature and spend any number of tokens to clear 2 Hit Points or 2 Stress for each token spent."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
               "en-US": "You can also spend a token from this card when touching a creature to clear the Vulnerable condition or heal a physical or magical ailment (the GM might require additional tokens depending on the strength of the ailment)."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3623,11 +3262,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll (20). On a success, restore one creature who has been dead no longer than 100 years to full strength. Then roll a d6. On a result of 5 or lower, place this card in your vault permanently."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3653,11 +3288,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll (15). On a success, you place an arcane marking on the ground where you currently stand. The next time you successfully cast Rift Walker, a rift in space opens up, providing safe passage back to the exact spot where the marking was placed. This rift stays open until you choose to close it or you cast another spell."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3683,11 +3314,7 @@
             "text": {
               "en-US": "Gain a bonus to your Severe threshold equal to your Proficiency."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3733,11 +3360,7 @@
             "text": {
               "en-US": "You have a deeply personal trinket that can be infused with protective magic and held as a ward by you or an ally. Describe what it is and why it's important to you. The ward's holder can spend a Hope to reduce incoming damage by 1d8."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3763,11 +3386,7 @@
             "text": {
               "en-US": "When you have a few minutes of calm to focus, you can spend 2 Hope to summon your Safe Haven, a large interdimensional home where you and your allies can take shelter. When you do, a magical door appears somewhere within Close range. Only creatures of your choice can enter. Once inside, you can make the entrance invisible. You and anyone else inside can always exit. Once you leave, the doorway must be summoned again."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -3793,21 +3412,13 @@
             "text": {
               "en-US": "When 4 or more of the domain cards in your loadout are from the Sage domain, gain the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "While you're in a natural environment, you gain a +2 bonus to your Spellcast Rolls."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
@@ -3953,11 +3564,7 @@
             "text": {
               "en-US": "Spend a Hope to shape a section of natural material you're touching (such as stone, ice, or wood) to suit your purpose. The area of the material can be no larger than you. For example, you can form a rudimentary tool or create a door."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4003,11 +3610,7 @@
             "text": {
               "en-US": "Mark a Stress to cast a protective aura on a target within Very Close range. When the target marks an Armor Slot, they reduce the severity of the attack by an additional threshold. If this spell causes a creature who would be damaged to instead mark no Hit Points, the effect ends."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4153,11 +3756,7 @@
             "text": {
               "en-US": "When you take magic damage, place tokens equal to the number of Hit Points you marked on this card. You can store a number of tokens equal to your Spellcast trait."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4183,19 +3782,11 @@
             "text": {
               "en-US": "When 4 or more of the domain cards in your loadout are from the Splendor domain, gain the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "+3 bonus to your Severe damage threshold" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
@@ -4241,11 +3832,7 @@
             "text": {
               "en-US": "When you roll with Fear while attempting to move unnoticed through a dangerous area, you can mark a Stress to roll with Hope instead."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4271,37 +3858,21 @@
             "text": {
               "en-US": "After a long rest, place a number of tokens equal to your Knowledge on this card (minimum 1). The first time you move within Close range of an adversary and make an attack against them, you can spend one token to choose one of the following options:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "You make the attack with advantage." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "You clear a Stress on an ally within Melee range of the adversary."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "You add a d8 to your damage roll." }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4327,11 +3898,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll to unleash powerful rays of burning sunlight against all adversaries in front of you within Far range. On a success, spend any number of Hope and force that many targets you succeeded against to make a Reaction Roll (14)."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4397,11 +3964,7 @@
             "text": {
               "en-US": "When you Help an Ally, they can spend a Hope to add one of your Experiences to their roll alongside your advantage die."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4447,51 +4010,31 @@
             "text": {
               "en-US": "Once per long rest, you can instantly teleport yourself and any number of willing targets within Close range to a place you've been before. Choose one of the following options, then make a Spellcast Roll (16) :"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "If you know the place very well, gain a +3 bonus."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "If you've visited the place frequently, gain a +1 bonus."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "If you've visited the place infrequently, gain no modifier."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "If you've only been there once, gain a -2 penalty."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4537,31 +4080,19 @@
             "text": {
               "en-US": "Choose one of the following tempests and make a Spellcast Roll against all targets within Far range. Targets you succeed against experience its effects until the GM spends a Fear on their turn to end this spell."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "Blizzard: Deal 2d20+8 magic damage and targets are temporarily Vulnerable."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
               "en-US": "Hurricane: Deal 3d10+10 magic damage and choose a direction the wind is blowing. Targets can't move against the wind."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
@@ -4587,11 +4118,7 @@
             "text": {
               "en-US": "Once per rest, spend a Hope to sprout thorns all over your body. When you do, place a number of tokens equal to your Spellcast trait on this card. When you take damage, you can spend any number of tokens to roll that number of d6s. Add the results together and reduce the incoming damage by that amount. If you're within Melee range of the attacker, deal that amount of damage back to them."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4617,11 +4144,7 @@
             "text": {
               "en-US": "You can peek into the minds of others. Spend a Hope to read the vague surface thoughts of a target within Far range. Make a Spellcast Roll against the target to delve for deeper, more hidden thoughts."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4667,11 +4190,7 @@
             "text": {
               "en-US": "Once per rest, you can conjure a thick, twisting stalk within Close range that can be easily climbed. Its height can grow up to Far range."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4737,11 +4256,7 @@
             "text": {
               "en-US": "Choose a target within Far range. When you succeed on an action roll against them that doesn't result in making a damage roll, place a token on this card. When you deal damage to this target, spend any number of tokens to add a d12 for each token spent to your damage roll. You can only hold Twilight Toll on one creature at a time."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4787,11 +4302,7 @@
             "text": {
               "en-US": "When you have a few minutes to prepare, you can mark a Stress to don the facade of any humanoid you can picture clearly in your mind. While disguised, you have advantage on Presence Rolls to avoid scrutiny."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4817,21 +4328,13 @@
             "text": {
               "en-US": "At the beginning of a session, place a number of tokens equal to your Spellcast trait on this card."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
               "en-US": "Make a Spellcast Roll against a target within Far range and spend any number of tokens to channel raw energy from within yourself to unleash against them. On a success, roll a number of d10s equal to the tokens you spent and deal that much magic damage to the target. Mark a Stress to replenish this card with tokens (up to your Spellcast trait)."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -4897,19 +4400,11 @@
             "text": {
               "en-US": "When 4 or more of the domain cards in your loadout are from the Valor domain, gain the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "+1 bonus to your Armor Score" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "LIST_ITEM",
             "text": {
@@ -4975,11 +4470,7 @@
             "text": {
               "en-US": "You can use a different character trait for an equipped weapon, rather than the trait the weapon calls for."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -5005,11 +4496,7 @@
             "text": {
               "en-US": "Make a Spellcast Roll against a target within Far range. On a success, roots and vines reach out from the ground, dealing 1d8+1 physical damage and temporarily Restraining the target."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -5035,29 +4522,13 @@
             "text": {
               "en-US": "When you choose this card, permanently gain two of the following benefits:"
             }
-          }
-        ]
-      },
-      {
-        "description": [
-          { "type": "LIST_ITEM", "text": { "en-US": "One Stress slot" } }
-        ]
-      },
-      {
-        "description": [
-          { "type": "LIST_ITEM", "text": { "en-US": "One Hit Point slot" } }
-        ]
-      },
-      {
-        "description": [
+          },
+          { "type": "LIST_ITEM", "text": { "en-US": "One Stress slot" } },
+          { "type": "LIST_ITEM", "text": { "en-US": "One Hit Point slot" } },
           {
             "type": "LIST_ITEM",
             "text": { "en-US": "+2 bonus to your damage thresholds" }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -5083,11 +4554,7 @@
             "text": {
               "en-US": "You speak with an unmatched power and authority. You have advantage on action rolls to de-escalate violent situations or convince someone to follow your lead."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -5173,11 +4640,7 @@
             "text": {
               "en-US": "Once per long rest, mark a Stress to channel the natural world around you and enhance yourself. Describe how your appearance changes, then place a d6 on this card with the 1 value facing up."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
@@ -5203,11 +4666,7 @@
             "text": {
               "en-US": "Whisper words of discord to an adversary within Melee range and make a Spellcast Roll (13). On a success, the target must mark a Stress and make an attack against another adversary instead of against you or your allies."
             }
-          }
-        ]
-      },
-      {
-        "description": [
+          },
           {
             "type": "PARAGRAPH",
             "text": {
