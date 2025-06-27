@@ -6,8 +6,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your next Agility Roll."
             }
           }
@@ -22,8 +21,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your next Strength Roll."
             }
           }
@@ -38,8 +36,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your next Finesse Roll."
             }
           }
@@ -54,8 +51,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your next Instinct Roll."
             }
           }
@@ -70,8 +66,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your next Presence Roll."
             }
           }
@@ -86,8 +81,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your next Knowledge Roll."
             }
           }
@@ -99,22 +93,14 @@
     "id": "core_consumable_minor_health_potion",
     "name": { "en-US": "Minor Health Potion" },
     "features": [
-      {
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4 HP." } }
-        ]
-      }
+      { "description": [{ "paragraph": { "en-US": "Clear 1d4 HP." } }] }
     ]
   },
   {
     "id": "core_consumable_minor_stamina_potion",
     "name": { "en-US": "Minor Stamina Potion" },
     "features": [
-      {
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4 Stress." } }
-        ]
-      }
+      { "description": [{ "paragraph": { "en-US": "Clear 1d4 Stress." } }] }
     ]
   },
   {
@@ -124,8 +110,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can apply this venom to a weapon that deals physical damage to add a d6 to your next damage roll with that weapon."
             }
           }
@@ -140,8 +125,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can eat these paired leaves to immediately gain 2 Hope."
             }
           }
@@ -156,8 +140,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you drink the contents of this vial, you can see in total darkness until your next rest."
             }
           }
@@ -172,8 +155,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 1d20 magic damage."
             }
           }
@@ -188,8 +170,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can drink this potion to choose one additional downtime move."
             }
           }
@@ -204,8 +185,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can apply this venom to a weapon that deals physical damage to add a d8 to your next damage roll with that weapon."
             }
           }
@@ -220,8 +200,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can spend a Hope to use this clay, altering your face enough to make you unrecognizable until your next rest."
             }
           }
@@ -236,8 +215,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When an adversary attacks you, use this vial and roll a number of d6s equal to your Agility. Add the highest result to your Evasion against the attack."
             }
           }
@@ -252,8 +230,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Eat this root to leap up to Far range once without needing to roll."
             }
           }
@@ -267,10 +244,7 @@
     "features": [
       {
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "Mark a Stress and clear a HP." }
-          }
+          { "paragraph": { "en-US": "Mark a Stress and clear a HP." } }
         ]
       }
     ]
@@ -279,22 +253,14 @@
     "id": "core_consumable_health_potion",
     "name": { "en-US": "Health Potion" },
     "features": [
-      {
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4+1 HP." } }
-        ]
-      }
+      { "description": [{ "paragraph": { "en-US": "Clear 1d4+1 HP." } }] }
     ]
   },
   {
     "id": "core_consumable_stamina_potion",
     "name": { "en-US": "Stamina Potion" },
     "features": [
-      {
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4+1 Stress." } }
-        ]
-      }
+      { "description": [{ "paragraph": { "en-US": "Clear 1d4+1 Stress." } }] }
     ]
   },
   {
@@ -304,8 +270,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can use this stitcher to spend any number of Hope and clear that many Armor Slots."
             }
           }
@@ -320,8 +285,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can apply this salve to your neck to breathe underwater for a number of minutes equal to your level."
             }
           }
@@ -336,8 +300,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "By touching this piece of parchment to another, you can perfectly copy the second parchment's contents. Once used, this parchment becomes mundane paper."
             }
           }
@@ -352,8 +315,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 2d20 magic damage."
             }
           }
@@ -368,8 +330,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your Agility until your next rest."
             }
           }
@@ -384,8 +345,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your Strength until your next rest."
             }
           }
@@ -400,8 +360,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your Finesse until your next rest."
             }
           }
@@ -416,8 +375,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your Instinct until your next rest."
             }
           }
@@ -432,8 +390,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your Presence until your next rest."
             }
           }
@@ -448,8 +405,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +1 bonus to your Knowledge until your next rest."
             }
           }
@@ -464,8 +420,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can drink this blood to disappear from where you are and immediately reappear at a point you can see within Very Far range."
             }
           }
@@ -480,8 +435,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "After drinking this potion, the next successful attack you make critically succeeds."
             }
           }
@@ -496,8 +450,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can apply this saliva to a weapon that deals physical damage to add a d12 to your next damage roll with that weapon."
             }
           }
@@ -512,8 +465,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can use this stone to take a spell or grimoire from your vault, use it once, and return it to your vault."
             }
           }
@@ -528,8 +480,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can apply this dust to a weapon that deals magic damage to add a d12 to your next damage roll with that weapon."
             }
           }
@@ -544,8 +495,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "This paste eats away walls and other surfaces in bright flashes."
             }
           }
@@ -560,8 +510,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you use this flare, allies within Close range roll a d6 when they spend a Hope. On a result of 6, they gain the effect of that Hope without spending it. The flare lasts until the end of the scene."
             }
           }
@@ -576,8 +525,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take (d20 magic damage."
             }
           }
@@ -592,8 +540,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can use this bone to control your falling speed for a number of minutes equal to your level."
             }
           }
@@ -608,8 +555,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Mark a Stress to create a void that extends up to Far range. No magic can be cast inside the void, and creatures within the void are immune to magic damage."
             }
           }
@@ -624,8 +570,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Consume this sap to roll a d6. On a result of )–6, clear 2 HP. On a result of 2–(, clear ' Stress. On a result of/1, see through the veil of death and return changed, gaining one scar."
             }
           }
@@ -640,8 +585,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "A creature who consumes this poison takes 8d10 direct magic damage."
             }
           }
@@ -653,22 +597,14 @@
     "id": "core_consumable_major_health_potion",
     "name": { "en-US": "Major Health Potion" },
     "features": [
-      {
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4+2 HP." } }
-        ]
-      }
+      { "description": [{ "paragraph": { "en-US": "Clear 1d4+2 HP." } }] }
     ]
   },
   {
     "id": "core_consumable_major_stamina_potion",
     "name": { "en-US": "Major Stamina Potion" },
     "features": [
-      {
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "Clear 1d4+2 Stress." } }
-        ]
-      }
+      { "description": [{ "paragraph": { "en-US": "Clear 1d4+2 Stress." } }] }
     ]
   },
   {
@@ -678,8 +614,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can use this musk to prevent anyone from tracking you by mundane or magical means until your next rest."
             }
           }
@@ -694,8 +629,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain magic wings that allow you to fly for a number of minutes equal to your level."
             }
           }
@@ -710,8 +644,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can open this jar to release a deafening echo of voices for a number of minutes equal to your Instinct. Creatures within Far range unprepared for the sound take 6d8 magic damage."
             }
           }
@@ -726,8 +659,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can drink this tea to unleash a fiery breath attack. Make an Instinct Roll against all adversaries in front of you within Close range. Targets you succeed against take d20 physical damage using your Proficiency."
             }
           }
@@ -742,8 +674,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Thick vines grow from your location to a point of your choice within Far range, allowing you to climb up or across them. The vines dissipate on your next short rest."
             }
           }
@@ -758,8 +689,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can drink this potion to fall asleep for a full night's rest. You clear all Stress upon waking."
             }
           }
@@ -774,8 +704,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can eat this meal to clear all HP and Stress and gain 1d4 Hope."
             }
           }
@@ -790,8 +719,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "This honey can be used to glue two objects together permanently."
             }
           }
@@ -806,8 +734,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can drink this potion to halve your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Agility and a -1 penalty to your Proficiency."
             }
           }
@@ -822,8 +749,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can drink this potion to double your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Strength and a +1 bonus to your Proficiency."
             }
           }
@@ -838,8 +764,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "If you die while holding this stone, an ally can take a card from your loadout to place in their loadout or vault. After they take this knowledge, the stone crumbles."
             }
           }
@@ -854,8 +779,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can consume this moss during a rest to clear 1d4 HP or 1d4 Stress."
             }
           }
@@ -870,8 +794,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can activate this orb to create a flash of bright light. All targets within Close range become Vulnerable until they mark HP."
             }
           }
@@ -886,8 +809,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don't critically succeed on an attack before your next long rest, you die."
             }
           }
@@ -902,8 +824,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters."
             }
           }
@@ -918,8 +839,7 @@
       {
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range."
             }
           }

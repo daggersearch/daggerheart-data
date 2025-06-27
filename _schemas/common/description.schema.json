@@ -5,10 +5,16 @@
   "items": {
     "type": "object",
     "properties": {
-      "type": { "type": "string", "enum": ["PARAGRAPH", "LIST_ITEM"] },
-      "text": { "$ref": "./localized-string.schema.json" }
+      "paragraph": { "$ref": "./localized-string.schema.json" },
+      "list": {
+        "type": "array",
+        "items": { "$ref": "./localized-string.schema.json" },
+        "minItems": 1
+      }
     },
-    "required": ["type", "text"],
-    "additionalProperties": false
-  }
+    "additionalProperties": false,
+    "oneOf": [{ "required": ["paragraph"] }, { "required": ["list"] }],
+    "not": { "required": ["paragraph", "list"] }
+  },
+  "minItems": 1
 }

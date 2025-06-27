@@ -11,9 +11,7 @@
     "features": [
       {
         "name": { "en-US": "Reliable" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to attack rolls" } }]
       }
     ]
   },
@@ -51,8 +49,7 @@
         "name": { "en-US": "Massive" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -82,9 +79,7 @@
     "features": [
       {
         "name": { "en-US": "Heavy" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Evasion" } }]
       }
     ]
   },
@@ -132,8 +127,7 @@
         "name": { "en-US": "Quick" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you make an attack, you can mark a Stress to target another creature within range."
             }
           }
@@ -153,9 +147,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -171,9 +163,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -209,9 +199,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -269,8 +257,7 @@
         "name": { "en-US": "Returning" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
             }
           }
@@ -312,8 +299,7 @@
         "name": { "en-US": "Versatile" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "This weapon can also be used with these statistics—Presence, Melee, d8."
             }
           }
@@ -345,8 +331,7 @@
         "name": { "en-US": "Powerful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -398,8 +383,7 @@
         "name": { "en-US": "Massive" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -429,9 +413,7 @@
     "features": [
       {
         "name": { "en-US": "Heavy" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Evasion" } }]
       }
     ]
   },
@@ -479,8 +461,7 @@
         "name": { "en-US": "Quick" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you make an attack, you can mark a Stress to target another creature within range."
             }
           }
@@ -500,9 +481,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -518,9 +497,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -556,9 +533,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -576,8 +551,7 @@
         "name": { "en-US": "Powerful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -599,8 +573,7 @@
         "name": { "en-US": "Brutal" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you roll the maximum value on a damage die, roll an additional damage die."
             }
           }
@@ -622,8 +595,7 @@
         "name": { "en-US": "Deadly" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you deal Severe damage, the target must mark an additional HP."
             }
           }
@@ -645,8 +617,7 @@
         "name": { "en-US": "Quick" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you make an attack, you can mark a Stress to target another creature within range."
             }
           }
@@ -668,8 +639,7 @@
         "name": { "en-US": "Scary" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, the target must mark a Stress."
             }
           }
@@ -689,9 +659,7 @@
     "features": [
       {
         "name": { "en-US": "Reliable" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to attack rolls" } }]
       }
     ]
   },
@@ -709,8 +677,7 @@
         "name": { "en-US": "Reloading" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
             }
           }
@@ -732,8 +699,7 @@
         "name": { "en-US": "Powerful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -753,9 +719,7 @@
     "features": [
       {
         "name": { "en-US": "Reliable" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to attack rolls" } }]
       }
     ]
   },
@@ -813,8 +777,7 @@
         "name": { "en-US": "Returning" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
             }
           }
@@ -856,8 +819,7 @@
         "name": { "en-US": "Versatile" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "This weapon can also be used with these statistics—Presence, Melee, d8+3."
             }
           }
@@ -889,8 +851,7 @@
         "name": { "en-US": "Powerful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -912,8 +873,7 @@
         "name": { "en-US": "Pompous" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You must have a Presence of 0 or lower to use this weapon."
             }
           }
@@ -935,8 +895,7 @@
         "name": { "en-US": "Versatile" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "This weapon can also be used with these statistics—Knowledge, Far, d6+3."
             }
           }
@@ -958,8 +917,7 @@
         "name": { "en-US": "Scary" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, the target must mark a Stress."
             }
           }
@@ -981,8 +939,7 @@
         "name": { "en-US": "Eruptive" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack against a target within Melee range, all other adversaries within Very Close range must succeed on a reaction roll (14) or take half damage."
             }
           }
@@ -1004,8 +961,7 @@
         "name": { "en-US": "Brutal" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you roll the maximum value on a damage die, roll an additional damage die."
             }
           }
@@ -1027,8 +983,7 @@
         "name": { "en-US": "Powerful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -1050,8 +1005,7 @@
         "name": { "en-US": "Invigorating" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, roll a d4. On a result of 4 clear a Stress."
             }
           }
@@ -1073,8 +1027,7 @@
         "name": { "en-US": "Persuasive" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Before you make a Presence Roll, you can mark a Stress to gain a +2 bonus to the result."
             }
           }
@@ -1094,9 +1047,7 @@
     "features": [
       {
         "name": { "en-US": "Reliable" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to attack rolls" } }]
       }
     ]
   },
@@ -1112,9 +1063,7 @@
     "features": [
       {
         "name": { "en-US": "Reliable" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to attack rolls" } }]
       }
     ]
   },
@@ -1152,8 +1101,7 @@
         "name": { "en-US": "Massive" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -1183,9 +1131,7 @@
     "features": [
       {
         "name": { "en-US": "Heavy" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Evasion" } }]
       }
     ]
   },
@@ -1233,8 +1179,7 @@
         "name": { "en-US": "Quick" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you make an attack, you can mark a Stress to target another creature within range."
             }
           }
@@ -1254,9 +1199,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -1272,9 +1215,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -1310,9 +1251,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -1330,8 +1269,7 @@
         "name": { "en-US": "Sharpwing" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Gain a bonus to your damage rolls equal to your Agility."
             }
           }
@@ -1353,8 +1291,9 @@
         "name": { "en-US": "Brave" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "-1 to Evasion; +3 to Severe damage threshold" }
+            "paragraph": {
+              "en-US": "-1 to Evasion; +3 to Severe damage threshold"
+            }
           }
         ]
       }
@@ -1374,8 +1313,7 @@
         "name": { "en-US": "Devastating" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Before you make an attack roll, you can mark a Stress to use a d20 as your damage die."
             }
           }
@@ -1395,9 +1333,7 @@
     "features": [
       {
         "name": { "en-US": "Protective" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to Armor Score" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to Armor Score" } }]
       }
     ]
   },
@@ -1415,8 +1351,7 @@
         "name": { "en-US": "Dueling" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When there are no other creatures within Close range of the target, gain advantage on your attack roll against them."
             }
           }
@@ -1438,8 +1373,7 @@
         "name": { "en-US": "Retractable" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "The blade can be hidden in the hilt to avoid detection."
             }
           }
@@ -1461,8 +1395,7 @@
         "name": { "en-US": "Powerful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -1484,8 +1417,7 @@
         "name": { "en-US": "Brutal" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you roll the maximum value on a damage die, roll an additional damage die."
             }
           }
@@ -1507,8 +1439,7 @@
         "name": { "en-US": "Reloading" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
             }
           }
@@ -1530,8 +1461,7 @@
         "name": { "en-US": "Versatile" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "This weapon can also be used with these statistics—Agility, Melee, d10+5."
             }
           }
@@ -1551,9 +1481,7 @@
     "features": [
       {
         "name": { "en-US": "Reliable" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to attack rolls" } }]
       }
     ]
   },
@@ -1591,8 +1519,7 @@
         "name": { "en-US": "Massive" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -1622,9 +1549,7 @@
     "features": [
       {
         "name": { "en-US": "Heavy" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Evasion" } }]
       }
     ]
   },
@@ -1672,8 +1597,7 @@
         "name": { "en-US": "Quick" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you make an attack, you can mark a Stress to target another creature within range."
             }
           }
@@ -1693,9 +1617,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -1711,9 +1633,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -1749,9 +1669,7 @@
     "features": [
       {
         "name": { "en-US": "Cumbersome" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Finesse" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
       }
     ]
   },
@@ -1769,8 +1687,7 @@
         "name": { "en-US": "Quick" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you make an attack, you can mark a Stress to target another creature within range."
             }
           }
@@ -1792,8 +1709,7 @@
         "name": { "en-US": "Concussive" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, you can spend a Hope to knock the target back to Far range."
             }
           }
@@ -1815,8 +1731,7 @@
         "name": { "en-US": "Destructive" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "-1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress."
             }
           }
@@ -1838,8 +1753,7 @@
         "name": { "en-US": "Serrated" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you roll a 1 on a damage die, it deals 8 damage instead."
             }
           }
@@ -1861,8 +1775,7 @@
         "name": { "en-US": "Long" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "This weapon's attack targets all adversaries in a line within range."
             }
           }
@@ -1884,8 +1797,7 @@
         "name": { "en-US": "Grappling" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, you can spend a Hope to Restrain the target or pull them into Melee range with you."
             }
           }
@@ -1907,8 +1819,7 @@
         "name": { "en-US": "Bouncing" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Mark 1 or more Stress to hit that many targets in range of the attack."
             }
           }
@@ -1928,9 +1839,7 @@
     "features": [
       {
         "name": { "en-US": "Reliable" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to attack rolls" } }]
       }
     ]
   },
@@ -1948,8 +1857,7 @@
         "name": { "en-US": "Reloading" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
             }
           }
@@ -2011,8 +1919,7 @@
         "name": { "en-US": "Returning" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
             }
           }
@@ -2054,8 +1961,7 @@
         "name": { "en-US": "Versatile" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "This weapon can also be used with these statistics—Presence, Melee, d8+6."
             }
           }
@@ -2087,8 +1993,7 @@
         "name": { "en-US": "Powerful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -2110,8 +2015,7 @@
         "name": { "en-US": "Hot" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "This weapon cuts through solid material." }
+            "paragraph": { "en-US": "This weapon cuts through solid material." }
           }
         ]
       }
@@ -2131,8 +2035,7 @@
         "name": { "en-US": "Lifestealing" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress."
             }
           }
@@ -2154,8 +2057,7 @@
         "name": { "en-US": "Greedy" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll."
             }
           }
@@ -2177,8 +2079,7 @@
         "name": { "en-US": "Powerful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, roll an additional damage die and discard the lowest result."
             }
           }
@@ -2200,8 +2101,7 @@
         "name": { "en-US": "Painful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Each time you make a successful attack, you must mark a Stress."
             }
           }
@@ -2221,9 +2121,7 @@
     "features": [
       {
         "name": { "en-US": "Reliable" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to attack rolls" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to attack rolls" } }]
       }
     ]
   },
@@ -2241,8 +2139,7 @@
         "name": { "en-US": "Timebending" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can choose the target of your attack after making your attack roll."
             }
           }
@@ -2264,8 +2161,7 @@
         "name": { "en-US": "Reloading" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
             }
           }
@@ -2287,8 +2183,7 @@
         "name": { "en-US": "Bonded" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Gain a bonus to your damage rolls equal to your level."
             }
           }
@@ -2310,8 +2205,7 @@
         "name": { "en-US": "Paired" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "+2 to primary weapon damage to targets within Melee range"
             }
           }
@@ -2331,9 +2225,7 @@
     "features": [
       {
         "name": { "en-US": "Protective" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to Armor Score" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to Armor Score" } }]
       }
     ]
   },
@@ -2350,10 +2242,7 @@
       {
         "name": { "en-US": "Barrier" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "+2 to Armor Score; -1 to Evasion" }
-          }
+          { "paragraph": { "en-US": "+2 to Armor Score; -1 to Evasion" } }
         ]
       }
     ]
@@ -2372,8 +2261,7 @@
         "name": { "en-US": "Paired" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "+2 to primary weapon damage to targets within Melee range"
             }
           }
@@ -2395,8 +2283,7 @@
         "name": { "en-US": "Startling" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
             }
           }
@@ -2418,8 +2305,7 @@
         "name": { "en-US": "Hooked" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, you can pull the target into Melee range."
             }
           }
@@ -2451,8 +2337,7 @@
         "name": { "en-US": "Paired" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "+3 to primary weapon damage to targets within Melee range"
             }
           }
@@ -2472,9 +2357,7 @@
     "features": [
       {
         "name": { "en-US": "Protective" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+2 to Armor Score" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+2 to Armor Score" } }]
       }
     ]
   },
@@ -2491,10 +2374,7 @@
       {
         "name": { "en-US": "Barrier" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "+3 to Armor Score; -1 to Evasion" }
-          }
+          { "paragraph": { "en-US": "+3 to Armor Score; -1 to Evasion" } }
         ]
       }
     ]
@@ -2513,8 +2393,7 @@
         "name": { "en-US": "Paired" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "+3 to primary weapon damage to targets within Melee range"
             }
           }
@@ -2536,8 +2415,7 @@
         "name": { "en-US": "Startling" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
             }
           }
@@ -2559,8 +2437,7 @@
         "name": { "en-US": "Hooked" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, you can pull the target into Melee range."
             }
           }
@@ -2592,8 +2469,7 @@
         "name": { "en-US": "Double Duty" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "+1 to Armor Score; +1 to primary weapon damage within Melee range"
             }
           }
@@ -2615,8 +2491,7 @@
         "name": { "en-US": "Parry" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you are attacked, roll this weapon's damage dice. If any of the attacker's damage dice rolled the same value as your dice, the matching results are discarded from the attacker's damage dice before the damage you take is totaled."
             }
           }
@@ -2638,8 +2513,7 @@
         "name": { "en-US": "Returning" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
             }
           }
@@ -2661,8 +2535,7 @@
         "name": { "en-US": "Paired" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "+4 to primary weapon damage to targets within Melee range"
             }
           }
@@ -2682,9 +2555,7 @@
     "features": [
       {
         "name": { "en-US": "Protective" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+3 to Armor Score" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+3 to Armor Score" } }]
       }
     ]
   },
@@ -2701,10 +2572,7 @@
       {
         "name": { "en-US": "Barrier" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "+4 to Armor Score; -1 to Evasion" }
-          }
+          { "paragraph": { "en-US": "+4 to Armor Score; -1 to Evasion" } }
         ]
       }
     ]
@@ -2723,8 +2591,7 @@
         "name": { "en-US": "Paired" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "+4 to primary weapon damage to targets within Melee range"
             }
           }
@@ -2746,8 +2613,7 @@
         "name": { "en-US": "Startling" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
             }
           }
@@ -2769,8 +2635,7 @@
         "name": { "en-US": "Hooked" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, you can pull the target into Melee range."
             }
           }
@@ -2802,8 +2667,7 @@
         "name": { "en-US": "Deflecting" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack."
             }
           }
@@ -2825,8 +2689,7 @@
         "name": { "en-US": "Charged" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack."
             }
           }
@@ -2848,8 +2711,7 @@
         "name": { "en-US": "Versatile" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "This weapon can also be used with these statistics—Finesse, Close, d8+4."
             }
           }
@@ -2871,8 +2733,7 @@
         "name": { "en-US": "Paired" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "+5 to primary weapon damage to targets within Melee range"
             }
           }
@@ -2892,9 +2753,7 @@
     "features": [
       {
         "name": { "en-US": "Protective" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+4 to Armor Score" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+4 to Armor Score" } }]
       }
     ]
   },
@@ -2911,10 +2770,7 @@
       {
         "name": { "en-US": "Barrier" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "+5 to Armor Score; -1 to Evasion." }
-          }
+          { "paragraph": { "en-US": "+5 to Armor Score; -1 to Evasion." } }
         ]
       }
     ]
@@ -2933,8 +2789,7 @@
         "name": { "en-US": "Paired" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "+5 to primary weapon damage to targets within Melee range"
             }
           }
@@ -2956,8 +2811,7 @@
         "name": { "en-US": "Startling" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
             }
           }
@@ -2979,8 +2833,7 @@
         "name": { "en-US": "Hooked" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, you can pull the target into Melee range."
             }
           }
@@ -3012,8 +2865,7 @@
         "name": { "en-US": "Sheltering" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage."
             }
           }
@@ -3035,8 +2887,7 @@
         "name": { "en-US": "Doubled Up" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you make an attack with your primary weapon, you can deal damage to another target within Melee range."
             }
           }
@@ -3058,8 +2909,7 @@
         "name": { "en-US": "Locked On" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack, your next attack against the same target automatically succeeds."
             }
           }

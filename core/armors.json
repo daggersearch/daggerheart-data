@@ -9,9 +9,7 @@
     "features": [
       {
         "name": { "en-US": "Flexible" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to Evasion" } }]
       }
     ]
   },
@@ -33,9 +31,7 @@
     "features": [
       {
         "name": { "en-US": "Heavy" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Evasion" } }]
       }
     ]
   },
@@ -50,10 +46,7 @@
       {
         "name": { "en-US": "Very Heavy" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "-2 to Evasion; -1 to Agility" }
-          }
+          { "paragraph": { "en-US": "-2 to Evasion; -1 to Agility" } }
         ]
       }
     ]
@@ -68,9 +61,7 @@
     "features": [
       {
         "name": { "en-US": "Flexible" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to Evasion" } }]
       }
     ]
   },
@@ -92,9 +83,7 @@
     "features": [
       {
         "name": { "en-US": "Heavy" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Evasion" } }]
       }
     ]
   },
@@ -109,10 +98,7 @@
       {
         "name": { "en-US": "Very Heavy" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "-2 to Evasion; -1 to Agility" }
-          }
+          { "paragraph": { "en-US": "-2 to Evasion; -1 to Agility" } }
         ]
       }
     ]
@@ -129,8 +115,7 @@
         "name": { "en-US": "Warded" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds."
             }
           }
@@ -150,8 +135,7 @@
         "name": { "en-US": "Resilient" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot."
             }
           }
@@ -171,8 +155,7 @@
         "name": { "en-US": "Reinforced" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you mark your last Armor Slot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot."
             }
           }
@@ -192,8 +175,7 @@
         "name": { "en-US": "Shifting" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage."
             }
           }
@@ -213,8 +195,7 @@
         "name": { "en-US": "Quiet" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You gain a +2 bonus to rolls you make to move silently."
             }
           }
@@ -234,8 +215,7 @@
         "name": { "en-US": "Hopeful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you would spend a Hope, you can mark an Armor Slot instead."
             }
           }
@@ -253,9 +233,7 @@
     "features": [
       {
         "name": { "en-US": "Flexible" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to Evasion" } }]
       }
     ]
   },
@@ -277,9 +255,7 @@
     "features": [
       {
         "name": { "en-US": "Heavy" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Evasion" } }]
       }
     ]
   },
@@ -294,10 +270,7 @@
       {
         "name": { "en-US": "Very Heavy" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "-2 to Evasion; -1 to Agility" }
-          }
+          { "paragraph": { "en-US": "-2 to Evasion; -1 to Agility" } }
         ]
       }
     ]
@@ -312,9 +285,7 @@
     "features": [
       {
         "name": { "en-US": "Gilded" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to Presence" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to Presence" } }]
       }
     ]
   },
@@ -330,8 +301,7 @@
         "name": { "en-US": "Impenetrable" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Once per short rest, when you would mark your last Hit Point, you can instead mark a Stress."
             }
           }
@@ -351,8 +321,7 @@
         "name": { "en-US": "Sharp" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "On a successful attack against a target within Melee range, add a d4 to the damage roll."
             }
           }
@@ -372,8 +341,7 @@
         "name": { "en-US": "Physical" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can't mark an Armor Slot to reduce magic damage."
             }
           }
@@ -393,8 +361,7 @@
         "name": { "en-US": "Magic" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "You can't mark an Armor Slot to reduce physical damage."
             }
           }
@@ -414,8 +381,7 @@
         "name": { "en-US": "Painful" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Each time you mark an Armor Slot, you must mark a Stress."
             }
           }
@@ -433,9 +399,7 @@
     "features": [
       {
         "name": { "en-US": "Flexible" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to Evasion" } }]
       }
     ]
   },
@@ -457,9 +421,7 @@
     "features": [
       {
         "name": { "en-US": "Heavy" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "-1 to Evasion" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "-1 to Evasion" } }]
       }
     ]
   },
@@ -474,10 +436,7 @@
       {
         "name": { "en-US": "Very Heavy" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "-2 to Evasion; -1 to Agility" }
-          }
+          { "paragraph": { "en-US": "-2 to Evasion; -1 to Agility" } }
         ]
       }
     ]
@@ -494,8 +453,7 @@
         "name": { "en-US": "Timeslowing" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "Mark an Armor Slot to roll a d4 and add its result as a bonus to your Evasion against an incoming attack."
             }
           }
@@ -513,9 +471,7 @@
     "features": [
       {
         "name": { "en-US": "Channeling" },
-        "description": [
-          { "type": "PARAGRAPH", "text": { "en-US": "+1 to Spellcast Rolls" } }
-        ]
+        "description": [{ "paragraph": { "en-US": "+1 to Spellcast Rolls" } }]
       }
     ]
   },
@@ -531,8 +487,7 @@
         "name": { "en-US": "Burning" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When an adversary attacks you within Melee range, they mark a Stress."
             }
           }
@@ -552,8 +507,7 @@
         "name": { "en-US": "Fortified" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one."
             }
           }
@@ -573,8 +527,7 @@
         "name": { "en-US": "Truthseeking" },
         "description": [
           {
-            "type": "PARAGRAPH",
-            "text": {
+            "paragraph": {
               "en-US": "This armor glows when another creature within Close range tells a lie."
             }
           }
@@ -593,10 +546,7 @@
       {
         "name": { "en-US": "Difficult" },
         "description": [
-          {
-            "type": "PARAGRAPH",
-            "text": { "en-US": "-1 to all character traits and Evasion" }
-          }
+          { "paragraph": { "en-US": "-1 to all character traits and Evasion" } }
         ]
       }
     ]
