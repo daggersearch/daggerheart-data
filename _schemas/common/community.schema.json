@@ -5,14 +5,15 @@
   "properties": {
     "id": { "$ref": "./id.schema.json" },
     "name": { "$ref": "./localized-string.schema.json" },
-    "description": { "$ref": "./localized-string.schema.json" },
+    "description": { "$ref": "./description.schema.json" },
     "personalities": {
       "type": "array",
       "items": { "$ref": "./localized-string.schema.json" }
     },
     "features": {
       "type": "array",
-      "items": { "$ref": "./feature.schema.json" }
+      "items": { "$ref": "./feature.schema.json" },
+      "minItems": 1
     }
   },
   "required": ["id", "name", "description", "personalities", "features"],

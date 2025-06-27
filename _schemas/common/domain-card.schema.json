@@ -11,7 +11,8 @@
     "recallCost": { "type": "integer", "minimum": 0 },
     "features": {
       "type": "array",
-      "items": { "$ref": "./feature.schema.json" }
+      "items": { "$ref": "./feature.schema.json" },
+      "minItems": 1
     }
   },
   "required": [

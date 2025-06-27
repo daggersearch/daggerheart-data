@@ -13,7 +13,8 @@
       "properties": {
         "features": {
           "type": "array",
-          "items": { "$ref": "./feature.schema.json" }
+          "items": { "$ref": "./feature.schema.json" },
+          "minItems": 1
         }
       },
       "required": ["features"],
@@ -24,7 +25,8 @@
       "properties": {
         "features": {
           "type": "array",
-          "items": { "$ref": "./feature.schema.json" }
+          "items": { "$ref": "./feature.schema.json" },
+          "minItems": 1
         }
       },
       "required": ["features"],
@@ -35,7 +37,8 @@
       "properties": {
         "features": {
           "type": "array",
-          "items": { "$ref": "./feature.schema.json" }
+          "items": { "$ref": "./feature.schema.json" },
+          "minItems": 1
         }
       },
       "required": ["features"],
