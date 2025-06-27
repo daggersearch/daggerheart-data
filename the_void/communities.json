@@ -1,0 +1,151 @@
+[
+  {
+    "id": "the_void_community_duneborne",
+    "name": { "en-US": "Duneborne" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Being part of a duneborne community means you’ve made a home among the shifting sands and arid climate of the desert."
+        }
+      }
+    ],
+    "personalities": [],
+    "features": [
+      {
+        "name": { "en-US": "Oasis" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Through the heat of the day and the cold of the night, you know how to take care of your people. Once per rest, during a moment of calm, you can clear a Stress on all allies within Very Close range or clear a Hit Point on all allies within Very Close range."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_community_hearthborne",
+    "name": { "en-US": "Hearthborne" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Coming from a hearthborne community means you come from humble origins, having lived in a small village or the countryside."
+        }
+      }
+    ],
+    "personalities": [],
+    "features": [
+      {
+        "name": { "en-US": "Close-Knit" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you Help An Ally, you can instead spend 2 Hope to make the advantage die a d10 instead of a d6."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_community_freeborne",
+    "name": { "en-US": "Freeborne" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Being part of a freeborne community means you're from a collective that lived under tyrannical rule and is now liberated."
+        }
+      }
+    ],
+    "personalities": [],
+    "features": [
+      {
+        "name": { "en-US": "Unbound" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Once per session, when you make an action roll with Fear, you can instead change it to a roll with Hope."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_community_reborne",
+    "name": { "en-US": "Reborne" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "You were once a member of another community, but you can no longer remember it."
+        }
+      }
+    ],
+    "personalities": [],
+    "features": [
+      {
+        "name": { "en-US": "Found Family" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Once per session, you can spend a Hope to use an ally’s community ability. When you do, your ally gains a Hope."
+            }
+          },
+          {
+            "paragraph": {
+              "en-US": "At any point, when you’ve discovered the community you were once a part of, or have joined a new community, you can permanently trade this community card for that one instead."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_community_frostborne",
+    "name": { "en-US": "Frostborne" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Being part of a frostborne community means you come from a place of snow and ice."
+        }
+      }
+    ],
+    "personalities": [],
+    "features": [
+      {
+        "name": { "en-US": "Long Winter" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You know how to make resources last. Once per long rest, when you choose to Repair All Armor, you can also repair an ally’s armor up to half their Base Armor Score."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_community_warborne",
+    "name": { "en-US": "Warborne" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Being part of a warborne community means you come from a place that is, or was, ravaged by war."
+        }
+      }
+    ],
+    "personalities": [],
+    "features": [
+      {
+        "name": { "en-US": "Brave Face" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Once per rest you can mark 2 Stress instead of an Armor Slot to reduce incoming damage by one threshold."
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
