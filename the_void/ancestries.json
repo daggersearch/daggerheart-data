@@ -1,0 +1,200 @@
+[
+  {
+    "id": "the_void_ancestry_earthkin",
+    "name": { "en-US": "Earthkin" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Earthkin are descended from earth elementals. They are humanoids whose bodies are a combination of flesh and earth."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Hard as Stone" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "After marking any number of Hit Points, you can spend 2 Hope to gain a +1 bonus to your damage thresholds that lasts until your next rest."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Tectonic Attack" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You can strike the ground with your weapon, erupting the earth in a cascading fissure. When you do, make a weapon attack against all targets in a line within Very Close range. Any targets you succeed against take d8 magic damage using your Proficiency and are temporarily Restrained."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_ancestry_skykin",
+    "name": { "en-US": "Skykin" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Skykin are descended from air elementals. They are humanoids whose bodies are a combination of flesh and air."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Gust Leap" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Once per rest, you can call upon the wind to pick you up and carry you to a point you can see within Very Far range."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Gale Force" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "To conjure a wind attack, make an Instinct Roll against all targets in front of you within Very Close range. Any targets you succeed against take d6 magic damage using your Proficiency and are forced back to Far range."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_ancestry_tidekin",
+    "name": { "en-US": "Tidekin" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Tidekin are descended from water elementals. They are humanoids whose bodies are a combination of flesh and water."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Lifespring" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Once per session, you can use a small amount of water from your surroundings to heal an ally within Melee range. When you do, clear a Hit Point from the target."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Water Whip" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You can pull water from the environment around you to use for an attack. When you do, treat it as a Finesse Weapon with Close range that deals d6 magic damage using your Proficiency. If you are within Close range of a body of water, you can spend a Hope to give the attack Far range and deal d10 damage instead."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_ancestry_emberkin",
+    "name": { "en-US": "Emberkin" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Emberkin are descended from fire elementals. They are humanoids whose bodies are a combination of flesh and fire."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Incinerator" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Mark a Stress to light yourself Ablaze until you take Major damage or more. While Ablaze, any adversaries who end their attack in Melee range must mark a Stress."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Fireshot" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You can unleash a projectile of fire towards a target within Far range. They must make a Reaction Roll against your level +10. On a failure, they take d10+5 magic damage using your Proficiency. On a success, you must mark a Stress and the GM gains a Fear."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_ancestry_aetheris",
+    "name": { "en-US": "Aetheris" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Aetheris are humanoids who possess glowing auras and wings they can conjure at will. They are the descendants of celestials from the Hallows Above."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Hallowed Soul" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you roll with Hope, instead of gaining Hope, you can instead spend a Hope to clear a Stress."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Divine Wings" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You can call forth your Divine Wings and fly. While flying, you can mark a Stress to pick up and carry a willing creature approximately your size or smaller. While your wings are revealed you also gain advantage on rolls to command or intimidate a target."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_ancestry_gnome",
+    "name": { "en-US": "Gnome" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Gnomes are small humanoids most easily recognized by their dense musculature, long arms, and large facial features."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Nimble Fingers" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you make a Finesse Roll, you can spend 2 Hope to reroll your Hope Die."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Magical Sense" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You can sense the presence of magical creatures. You have advantage on rolls to track or locate creatures with magical ability."
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

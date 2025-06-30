@@ -1,0 +1,444 @@
+[
+  {
+    "id": "the_void_domain_card_blighting_strike",
+    "name": { "en-US": "Blighting Strike" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 1,
+    "recallCost": 1,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll against a target within Far range. On a success, the target takes d6 magic damage using your Proficiency and the next time the target deals damage to an ally, it is reduced by 1d6. If you succeed with Fear , the target instead takes d10 magic damage using your Proficiency."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_voice_of_dread",
+    "name": { "en-US": "Voice of Dread" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 1,
+    "recallCost": 0,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You can magically speak directly into the ears of a creature you can see. To torment them with your words, make a Spellcast Roll against them. On a success, they must mark a Stress and become temporarily Vulnerable ."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_umbral_veil",
+    "name": { "en-US": "Umbral Veil" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 1,
+    "recallCost": 1,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll (10). On a success, spend any number of Hope and place an equal number of tokens on this card to encase yourself in shadowy energy. After an attack roll is made against you, you may spend any number of tokens to gain a +1 bonus to your Evasion per token against that attack."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_hideous_retribution",
+    "name": { "en-US": "Hideous Retribution" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 2,
+    "recallCost": 2,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When an ally within Close range takes damage from a target you can see, you can make a Reaction Roll against the target. On a success, mark a Stress to deal them d6 magic damage using your Proficiency ."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_siphon_essence",
+    "name": { "en-US": "Siphon Essence" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 2,
+    "recallCost": 1,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll against a target within Far range. On a success, once per short rest , the target takes d8 magic damage using your Proficiency and you clear 2 Hit Points . If you succeed with Fear , you clear 3 Hit Points."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_terrify",
+    "name": { "en-US": "Terrify" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 3,
+    "recallCost": 1,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll against a target within Far range. On a success, the target marks 1d4 Stress and you can choose to make the target run one range away from you ( Close to Far, Far to Very Far , etc). You can also spend a Hope to make the target temporarily Vulnerable ."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_shared_trauma",
+    "name": { "en-US": "Shared Trauma" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 3,
+    "recallCost": 1,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Once per rest, you can redistribute any marked Hit Points between two willing targets you can touch."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_summon_horror",
+    "name": { "en-US": "Summon Horror" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 4,
+    "recallCost": 2,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll against a target within Far range. On a success, spend a Hope to call forth a large fiend or otherworldly creature to attack them and deal d10 magic damage using your Proficiency . The target must also make a Reaction Roll (12) to steel themselves from the horror. On a failure, they mark 1d4 Stress ."
+            }
+          },
+          {
+            "paragraph": {
+              "en-US": "After making the attack, the horror dissipates."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_spectral_mist",
+    "name": { "en-US": "Spectral Mist" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 5,
+    "recallCost": 0,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll (13) . On a success, spend a Hope to create an eerie mist that gathers around you and any targets within Close range. All affected creatures become momentarily incorporeal, allowing them to move through a solid wall. This effect lasts until you have passed through the wall successfully."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_dire_strike",
+    "name": { "en-US": "Dire Strike" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 5,
+    "recallCost": 1,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Spend a Hope to summon pure dark energy that consumes your weapon until your next rest. When you make an attack in melee range with this weapon, use your Spellcast trait instead of the trait it calls for. On a success, roll a number of d8 equal to the current number of Fear the GM has up to your level and deal that much damage as your adversary feels cold terror seep into their wound. If you succeed with Fear , the target must also mark a Stress ."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_nether_flames",
+    "name": { "en-US": "Nether Flames" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 6,
+    "recallCost": 2,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll against all adversaries within Close range. You can spend a Hope for any you succeed against, and they must make a Reaction Roll (14) . On a failure, they take d8+6 magic damage using your Proficiency as they are engulfed in dark fire. On a success, they take half damage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_dread_touched",
+    "name": { "en-US": "Dread-Touched" },
+    "domain": "DREAD",
+    "type": "ABILITY",
+    "level": 7,
+    "recallCost": 2,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When 4 or more of the domain cards in your loadout are from the Dread domain, gain the following benefits:"
+            }
+          },
+          {
+            "list": [
+              {
+                "en-US": "When you succeed with Fear , you can mark 2 Stress to keep the GM from gaining a Fear."
+              },
+              {
+                "en-US": "Once per short rest , when making an action roll , you can add a +1 bonus to the roll for each Fear token the GM has stored."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_dark_army",
+    "name": { "en-US": "Dark Army" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 8,
+    "recallCost": 2,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll (14) . Once per rest, on a success you can mark a Stress to summon a group of 8 fiends within Close range that move with you. Place a d8 on this card set to 8, representing the size of your army. Whenever you deal damage to a target within Close range, you can decrease this value by 1 to deal an additional 1d8 of physical damage. When you take damage, you can decrease this value by 1 to reduce the damage by 1d8 . Each time the die is decreased, a fiend acts on your behalf, then disappears. When the die's value would be reduced below 1, return this card to your vault . Otherwise, at your next rest, the die is cleared."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_eldritch_flesh",
+    "name": { "en-US": "Eldritch Flesh" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 8,
+    "recallCost": 1,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You embody the darkness you have dallied with. While this card is active in your loadout:"
+            }
+          },
+          {
+            "list": [
+              {
+                "en-US": "For every 2 Stress you have marked, increase your damage thresholds by +1."
+              },
+              {
+                "en-US": "Whenever you succeed with Fear on an action roll , you can spend a Hope to clear an Armor Slot ."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_damnation",
+    "name": { "en-US": "Damnation" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 9,
+    "recallCost": 2,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll against a target within Far range. On a success, mark 3 Stress and roll a number of d20 s equal to your Spellcast trait, dealing that much damage to them. If this damage is enough to defeat or destroy the creature, all adversaries within Far range of the target mark a Stress."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_savor_the_anguish",
+    "name": { "en-US": "Savor the Anguish" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 9,
+    "recallCost": 0,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Whenever a creature within Close range marks any number of Stress or takes Severe damage, you can spend a Hope to clear a Stress or clear a Fear the GM holds."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_invoke_torment",
+    "name": { "en-US": "Invoke Torment" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 10,
+    "recallCost": 2,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you deal damage to a creature that has all of its Stress marked, you deal double damage. If this defeats them, you can clear a Stress. If it doesn't defeat them, they are permanently Vulnerable ."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_avatar_of_malice",
+    "name": { "en-US": "Avatar of Malice" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 10,
+    "recallCost": 1,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You can mark a Stress to transform into an avatar of malice, gaining the following benefits:"
+            }
+          },
+          {
+            "list": [
+              {
+                "en-US": "All adversaries within Close range must spend an additional Fear when using a Fear feature."
+              },
+              {
+                "en-US": "When you defeat a creature within Close range, you absorb their life essence and clear a Hit Point ."
+              },
+              {
+                "en-US": "You can mark a Stress to teleport to a location within Very Far range."
+              }
+            ]
+          },
+          {
+            "paragraph": {
+              "en-US": "Every time you make an action roll in this form, you must spend a Hope . If you can't, you drop this form."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_withering_affliction",
+    "name": { "en-US": "Withering Affliction" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 4,
+    "recallCost": 2,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll on a target within Far range. On a success, spend a Hope to make the target temporarily Withered . While Withered , any damage they deal is reduced by 1 Hit Point. You can only hold this spell on one creature at a time."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_wailing_leap",
+    "name": { "en-US": "Wailing Leap" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 6,
+    "recallCost": 0,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Whenever you deal magic damage to a target, you can mark a Stress to immediately teleport into Melee with that creature."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the_void_domain_card_wall_of_hunger",
+    "name": { "en-US": "Wall of Hunger" },
+    "domain": "DREAD",
+    "type": "SPELL",
+    "level": 7,
+    "recallCost": 2,
+    "features": [
+      {
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Spellcast Roll (13) . On a success, you can create a visible wall of writhing, necrotic energy in a line between two points within Far range. This lasts until you mark your next Hit Point . Any creatures that are in the wall when it appears or pass through the wall mark 2 Stress , then must make a Reaction Roll (16) . On a failure, they are temporarily Restrained by the wall."
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

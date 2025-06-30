@@ -1,0 +1,631 @@
+[
+  {
+    "id": "the_void_subclass_executioners_guild",
+    "name": { "en-US": "Executioners Guild" },
+    "class": "ASSASSIN",
+    "spellcastTrait": "FINESSE",
+    "domains": ["BLADE", "MIDNIGHT"],
+    "foundation": {
+      "features": [
+        {
+          "name": { "en-US": "First Strike" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "The first successful attack you make during a scene deals double damage."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Backstab" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Your “Ambush” feature uses d8s instead of d6s."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "specialization": {
+      "features": [
+        {
+          "name": { "en-US": "Death Strike" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When you deal Severe damage to a creature, they must mark an extra Hit Point."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Scorpion's Poise" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "You gain a +2 bonus to your Evasion against any attacks made by the creature you most recently dealt damage to."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "mastery": {
+      "features": [
+        {
+          "name": { "en-US": "True Strike" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Once per long rest, you can mark a Stress to change an attack roll you make from a failure into a success with Hope."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Surprise Attack" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "The Reaction Roll triggered by your “Ambush” feature increases from “10 + your level” to “13 + your level.”"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "the_void_subclass_poisoners_guild",
+    "name": { "en-US": "Poisoners Guild" },
+    "class": "ASSASSIN",
+    "spellcastTrait": "PRESENCE",
+    "domains": ["BLADE", "MIDNIGHT"],
+    "foundation": {
+      "features": [
+        {
+          "name": { "en-US": "Toxic Concoctions" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Mark a Stress to add 1d4+1 tokens to this card. You know these poisons:"
+              }
+            },
+            {
+              "list": [
+                {
+                  "en-US": "Gorgon's Root: The target's Difficulty gains a permanent -1 penalty. This can only affect them once."
+                },
+                { "en-US": "Grave Spore: The target must also mark a Stress." },
+                {
+                  "en-US": "Leech Weed: Gain a +1d6 bonus to damage on this attack."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Envenomate" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "On a successful weapon attack, you can spend a token from this card to afflict the target with a known poison's effect."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "specialization": {
+      "features": [
+        {
+          "name": { "en-US": "Poison Compendium" },
+          "description": [
+            { "paragraph": { "en-US": "You also know these poisons:" } },
+            {
+              "list": [
+                {
+                  "en-US": "Midnight's Veil: The target gains a permanent -2 penalty to attack rolls. This can only affect them once."
+                },
+                {
+                  "en-US": "Ghost Petal: Permanently decrease the damage dice of the target's standard attack by one step (d10 to d8, d8 to d6, etc.). This can only affect them once."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Adder's Blessing" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "You are immune to poisons and other toxins."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "mastery": {
+      "features": [
+        {
+          "name": { "en-US": "Venomancer" },
+          "description": [
+            { "paragraph": { "en-US": "You also know these poisons:" } },
+            {
+              "list": [
+                {
+                  "en-US": "Blight Seed: The target gains a permanent -3 penalty to their damage thresholds. This can only affect them once."
+                },
+                {
+                  "en-US": "Fear Leaf: The damage from this attack gains a bonus equal to the result of your Fear Die."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Twin Fang" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When you afflict a target with a known poison's effect, you can spend an additional token to inflict the effect of a second known poison."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "the_void_subclass_juggernaut",
+    "name": { "en-US": "Juggernaut" },
+    "class": "BRAWLER",
+    "domains": ["VALOR", "BONE"],
+    "foundation": {
+      "features": [
+        {
+          "name": { "en-US": "Powerhouse" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Increase the d10 damage dice for your unarmed attack to d12s. Additionally, you can mark a Stress to target two creatures within Melee range with a single attack roll."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Overwhelm" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "On a successful attack, you can spend a Hope to force the target to mark a Stress or to throw them within Close range."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "specialization": {
+      "features": [
+        {
+          "name": { "en-US": "Rugged" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Gain a permanent +3 bonus to your Severe damage threshold. Additionally, your “Powerhouse” feature can target three creatures instead of two."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Eye for an Eye" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When you mark more than one Hit Point from an attack in melee range, the attacker must make a Reaction Roll (13). On a failure, once per rest, they immediately mark the same number of Hit Points in return."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "mastery": {
+      "features": [
+        {
+          "name": { "en-US": "Pummeljoy" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Whenever you roll a critical success on a weapon attack against an adversary in Melee range, you gain an additional Hope, clear an additional Stress, and add +1 to your Proficiency for the attack."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Not Done Yet" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When you mark more than one HP from an attack, you may gain a Hope or clear a Stress."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "the_void_subclass_martial_artist",
+    "name": { "en-US": "Martial Artist" },
+    "class": "BRAWLER",
+    "domains": ["VALOR", "BONE"],
+    "foundation": {
+      "features": [
+        {
+          "name": { "en-US": "Martial Form" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Take the Martial Form sheet. You start with two martial stances from Tier 1. When you reach a new tier, take two additional stances at your tier or lower."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Focus" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "At character creation and at each rest, roll a number of d6 equal to your Instinct. Gain a number of Focus tokens equal to the highest value rolled and place them on this card. Spend a Focus each time you shift into a stance. It lasts until you take Severe damage, the scene ends, you mark your last Hit Point, or you shift into another stance."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "specialization": {
+      "features": [
+        {
+          "name": { "en-US": "Keen Defenses" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When you are targeted by an attack, you can spend a Focus to make the adversary's attack roll have disadvantage."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Spirit Blast" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Spend a Focus to make an Attack Roll using Instinct against an adversary within Close range. On a success, you deal d20+3 magic damage using your Proficiency and can spend an additional Focus to make them temporarily Vulnerable."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "mastery": {
+      "features": [
+        {
+          "name": { "en-US": "Limit Breaker" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Once per rest, you can pull off an unbelievable feat like running across water, leaping between distant rooftops, or scaling the side of a building without needing to roll. When you do, gain a Hope and clear a Stress."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "the_void_subclass_pact_of_the_endless",
+    "name": { "en-US": "Pact of the Endless" },
+    "class": "WARLOCK",
+    "spellcastTrait": "PRESENCE",
+    "domains": ["DREAD", "GRACE"],
+    "foundation": {
+      "features": [
+        {
+          "name": { "en-US": "Patron's Mantle" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Mark a Stress to transform into a terrifying visage that lasts until you take Severe damage or the scene ends. While transformed:"
+              }
+            },
+            {
+              "list": [
+                { "en-US": "You can spend a Favor in place of an Armor Slot." },
+                {
+                  "en-US": "You have advantage on rolls to intimidate a target."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Deadly Devotion" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "After you make a successful attack, you can spend a Favor to give your Evasion a +1 bonus until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "specialization": {
+      "features": [
+        {
+          "name": { "en-US": "Draining Invocation" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When an adversary targets you or an ally within Very Close range with an attack, you can spend a Favor to make them roll a d12 instead of a d20 for the attack. Additionally, the adversary must mark a Stress, and you can clear a Stress."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "mastery": {
+      "features": [
+        {
+          "name": { "en-US": "Dark Aegis" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Once per long rest, you can spend a Favor instead of marking any number of Hit Points."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Draining Bane" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "The target of your “Draining Invocation” also becomes temporarily Drained. While Drained, all of their attack rolls use a d12 instead of a d20."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "the_void_subclass_pact_of_the_wrathful",
+    "name": { "en-US": "Pact of the Wrathful" },
+    "class": "WARLOCK",
+    "spellcastTrait": "PRESENCE",
+    "domains": ["DREAD", "GRACE"],
+    "foundation": {
+      "features": [
+        {
+          "name": { "en-US": "Patron's Wrath" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Spend any number of Favor to imbue your Primary Weapon with your Patron's power. When rolling damage, you can choose to add an additional 1d6 to all damage rolls you make with it per Favor spent until your next rest. Anytime you choose to deal this additional damage, mark a Stress."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "specialization": {
+      "features": [
+        {
+          "name": { "en-US": "Herald of Death" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "On a failed attack roll, you can spend a Favor to reroll the attack. If it fails again, you must mark a Stress and take the new result."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Diminish My Foes" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When you succeed with Hope on an action roll against a target, instead of taking a Hope, you can choose to have your target mark a Stress."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "mastery": {
+      "features": [
+        {
+          "name": { "en-US": "Fearsome Attack" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When you make a successful attack roll with Fear, you can spend a Favor to reroll any number of your damage dice. You can continue spending Favor to reroll these dice as many times as you'd like."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Divine Ire" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Once per rest, when you take damage, you can spend Favor for each target within Close range. For each you spend a Favor for, they must mark a Hit Point."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "the_void_subclass_hedge",
+    "name": { "en-US": "Hedge" },
+    "class": "WITCH",
+    "spellcastTrait": "INSTINCT",
+    "domains": ["DREAD", "SAGE"],
+    "foundation": {
+      "features": [
+        {
+          "name": { "en-US": "Herbal Remedies" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When you take a downtime action that requires rolling, you can roll twice and take the higher result."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Tethered Talisman" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Once per rest, during a moment of peace, you can enchant a small object and give it to an ally to Tether to them. While a Tethered ally holds this object, when they are hit by an attack, you can expend the magic in the totem to deal 1 Hit Point to the attacker."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "specialization": {
+      "features": [
+        {
+          "name": { "en-US": "Walk Between Worlds" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Make a Spellcast Roll (13) in an area containing one or more dead bodies. On a success, you can watch the last few moments leading to their death by bringing the surroundings of the past to life in spectral form. You can mark a Stress during this spell to also hear the sounds that were made during this moment in time. On a failure, the bodies turn to dust."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Enhanced Augury" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Increase the amount of dice you roll for your “Commune” feature to 6d6."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "mastery": {
+      "features": [
+        {
+          "name": { "en-US": "Circle of Power" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Once per rest, mark a circle on the ground up to Very Close range and place a number of tokens equal to your Spellcast Trait on this card. Each time you make an action roll or are hit with an attack, remove a token. This spell lasts until you've spent your last token or you step out of the circle. While within this circle:"
+              }
+            },
+            {
+              "list": [
+                { "en-US": "Gain a +4 bonus to your damage thresholds." },
+                { "en-US": "Gain a +2 bonus to your attack rolls." },
+                { "en-US": "Gain a +1 bonus to your Evasion." }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "the_void_subclass_moon",
+    "name": { "en-US": "Moon" },
+    "class": "WITCH",
+    "spellcastTrait": "INSTINCT",
+    "domains": ["DREAD", "SAGE"],
+    "foundation": {
+      "features": [
+        {
+          "name": { "en-US": "Nightwatcher" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When you are in moonlight, you have a +1 bonus to your Spellcast Rolls."
+              }
+            }
+          ]
+        },
+        {
+          "name": { "en-US": "Ire of Pale Light" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "When a creature within Far range that you have cursed with your Hex fails an attack roll, they must mark a Stress."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "specialization": {
+      "features": [
+        {
+          "name": { "en-US": "Moonglow" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "Mark a Stress to Glamour yourself and create a magical facade over your form. Your Glamour automatically drops the next time you take damage or at your next rest. While Glamoured you can:"
+              }
+            },
+            {
+              "list": [
+                {
+                  "en-US": "Take the form of any creature of your approximate size that you've seen."
+                },
+                {
+                  "en-US": "Enhance your own appearance. Gain advantage on Presence Rolls that leverage this change to its purpose."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mastery": {
+      "features": [
+        {
+          "name": { "en-US": "Lunar Phases" },
+          "description": [
+            {
+              "paragraph": {
+                "en-US": "During a long rest, instead of Communing, you can roll your Communion Dice to alter your form. If any of the dice have matching values, reference the chart below for the effect. If you have multiple matches, choose one. If none match, choose a different downtime action. The effects last until your next rest."
+              }
+            },
+            {
+              "list": [
+                { "en-US": "5-6: Eclipse - Gain a +1 bonus to your Evasion." },
+                {
+                  "en-US": "2-4: Waxing - Gain a +2 bonus to all damage rolls."
+                },
+                {
+                  "en-US": "1-2: Waning - You can always spend a Hope to reduce Minor damage to None."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
