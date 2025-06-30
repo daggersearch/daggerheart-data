@@ -22,7 +22,7 @@
     "tier": 1,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": { "dice": "D8", "modifier": 3, "type": "PHYSICAL" },
+    "damage": { "dice": "D10", "modifier": 3, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
@@ -158,14 +158,8 @@
     "tier": 1,
     "trait": "FINESSE",
     "range": "VERY_CLOSE",
-    "damage": { "dice": "D10", "modifier": 2, "type": "PHYSICAL" },
-    "burden": "TWO_HANDED",
-    "features": [
-      {
-        "name": { "en-US": "Cumbersome" },
-        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
-      }
-    ]
+    "damage": { "dice": "D8", "modifier": 3, "type": "PHYSICAL" },
+    "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_shortbow",
@@ -230,7 +224,7 @@
     "tier": 1,
     "trait": "AGILITY",
     "range": "VERY_CLOSE",
-    "damage": { "dice": "D10", "modifier": 1, "type": "MAGICAL" },
+    "damage": { "dice": "D10", "modifier": 2, "type": "MAGICAL" },
     "burden": "TWO_HANDED"
   },
   {
@@ -356,7 +350,7 @@
     "tier": 2,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": { "dice": "D8", "modifier": 6, "type": "PHYSICAL" },
+    "damage": { "dice": "D10", "modifier": 6, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
@@ -492,14 +486,8 @@
     "tier": 2,
     "trait": "FINESSE",
     "range": "VERY_CLOSE",
-    "damage": { "dice": "D10", "modifier": 5, "type": "PHYSICAL" },
-    "burden": "TWO_HANDED",
-    "features": [
-      {
-        "name": { "en-US": "Cumbersome" },
-        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
-      }
-    ]
+    "damage": { "dice": "D8", "modifier": 6, "type": "PHYSICAL" },
+    "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_improved_shortbow",
@@ -1074,7 +1062,7 @@
     "tier": 3,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": { "dice": "D8", "modifier": 9, "type": "PHYSICAL" },
+    "damage": { "dice": "D10", "modifier": 9, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
@@ -1210,14 +1198,8 @@
     "tier": 3,
     "trait": "FINESSE",
     "range": "VERY_CLOSE",
-    "damage": { "dice": "D10", "modifier": 8, "type": "PHYSICAL" },
-    "burden": "TWO_HANDED",
-    "features": [
-      {
-        "name": { "en-US": "Cumbersome" },
-        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
-      }
-    ]
+    "damage": { "dice": "D8", "modifier": 9, "type": "PHYSICAL" },
+    "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_advanced_shortbow",
@@ -1492,7 +1474,7 @@
     "tier": 4,
     "trait": "AGILITY",
     "range": "MELEE",
-    "damage": { "dice": "D8", "modifier": 12, "type": "PHYSICAL" },
+    "damage": { "dice": "D10", "modifier": 12, "type": "PHYSICAL" },
     "burden": "TWO_HANDED"
   },
   {
@@ -1628,14 +1610,8 @@
     "tier": 4,
     "trait": "FINESSE",
     "range": "VERY_CLOSE",
-    "damage": { "dice": "D10", "modifier": 11, "type": "PHYSICAL" },
-    "burden": "TWO_HANDED",
-    "features": [
-      {
-        "name": { "en-US": "Cumbersome" },
-        "description": [{ "paragraph": { "en-US": "-1 to Finesse" } }]
-      }
-    ]
+    "damage": { "dice": "D8", "modifier": 12, "type": "PHYSICAL" },
+    "burden": "TWO_HANDED"
   },
   {
     "id": "core_weapon_legendary_shortbow",
@@ -2668,7 +2644,7 @@
         "description": [
           {
             "paragraph": {
-              "en-US": "When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack."
+              "en-US": "When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your available Armor Slots against the attack."
             }
           }
         ]
@@ -2911,6 +2887,340 @@
           {
             "paragraph": {
               "en-US": "On a successful attack, your next attack against the same target automatically succeeds."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_advanced_arcane_gauntlets",
+    "name": { "en-US": "Advanced Arcane Gauntlets" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "STRENGTH",
+    "range": "MELEE",
+    "damage": { "dice": "D10", "modifier": 9, "type": "MAGICAL" },
+    "burden": "TWO_HANDED"
+  },
+  {
+    "id": "core_weapon_advanced_hallowed_axe",
+    "name": { "en-US": "Advanced Hallowed Axe" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "STRENGTH",
+    "range": "MELEE",
+    "damage": { "dice": "D8", "modifier": 7, "type": "MAGICAL" },
+    "burden": "ONE_HANDED"
+  },
+  {
+    "id": "core_weapon_advanced_glowing_rings",
+    "name": { "en-US": "Advanced Glowing Rings" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "AGILITY",
+    "range": "VERY_CLOSE",
+    "damage": { "dice": "D10", "modifier": 8, "type": "MAGICAL" },
+    "burden": "TWO_HANDED"
+  },
+  {
+    "id": "core_weapon_advanced_hand_runes",
+    "name": { "en-US": "Advanced Hand Runes" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "INSTINCT",
+    "range": "VERY_CLOSE",
+    "damage": { "dice": "D10", "modifier": 6, "type": "MAGICAL" },
+    "burden": "ONE_HANDED"
+  },
+  {
+    "id": "core_weapon_advanced_returning_blade",
+    "name": { "en-US": "Advanced Returning Blade" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "FINESSE",
+    "range": "CLOSE",
+    "damage": { "dice": "D8", "modifier": 6, "type": "MAGICAL" },
+    "burden": "ONE_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Returning" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_advanced_shortstaff",
+    "name": { "en-US": "Advanced Shortstaff" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "INSTINCT",
+    "range": "CLOSE",
+    "damage": { "dice": "D8", "modifier": 7, "type": "MAGICAL" },
+    "burden": "ONE_HANDED"
+  },
+  {
+    "id": "core_weapon_advanced_dualstaff",
+    "name": { "en-US": "Advanced Dualstaff" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "INSTINCT",
+    "range": "FAR",
+    "damage": { "dice": "D6", "modifier": 9, "type": "MAGICAL" },
+    "burden": "TWO_HANDED"
+  },
+  {
+    "id": "core_weapon_advanced_scepter",
+    "name": { "en-US": "Advanced Scepter" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "PRESENCE",
+    "range": "FAR",
+    "damage": { "dice": "D6", "modifier": 6, "type": "MAGICAL" },
+    "burden": "TWO_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Versatile" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "This weapon can also be used with these statistics—Presence Melee d8+4."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_advanced_wand",
+    "name": { "en-US": "Advanced Wand" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "KNOWLEDGE",
+    "range": "FAR",
+    "damage": { "dice": "D6", "modifier": 7, "type": "MAGICAL" },
+    "burden": "ONE_HANDED"
+  },
+  {
+    "id": "core_weapon_advanced_greatstaff",
+    "name": { "en-US": "Advanced Greatstaff" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "KNOWLEDGE",
+    "range": "VERY_FAR",
+    "damage": { "dice": "D6", "modifier": 6, "type": "MAGICAL" },
+    "burden": "TWO_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Powerful" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "On a successful attack, roll an additional damage die and discard the lowest result."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_axe_of_fortunis",
+    "name": { "en-US": "Axe of Fortunis" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "STRENGTH",
+    "range": "MELEE",
+    "damage": { "dice": "D10", "modifier": 8, "type": "MAGICAL" },
+    "burden": "TWO_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Lucky" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "On a failed attack, you can mark a Stress to reroll your attack."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_blessed_anlace",
+    "name": { "en-US": "Blessed Anlace" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "INSTINCT",
+    "range": "MELEE",
+    "damage": { "dice": "D10", "modifier": 6, "type": "MAGICAL" },
+    "burden": "ONE_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Healing" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "During downtime, automatically clear a Hit Point."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_ghostblade",
+    "name": { "en-US": "Ghostblade" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "PRESENCE",
+    "range": "MELEE",
+    "damage": { "dice": "D10", "modifier": 7, "type": "PHYSICAL_OR_MAGICAL" },
+    "burden": "ONE_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Otherworldly" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "On a successful attack, you can deal physical or magic damage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_runes_of_ruination",
+    "name": { "en-US": "Runes of Ruination" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "KNOWLEDGE",
+    "range": "VERY_CLOSE",
+    "damage": { "dice": "D20", "modifier": 4, "type": "MAGICAL" },
+    "burden": "ONE_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Painful" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Each time you make a successful attack, you must mark a Stress."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_widogast_pendant",
+    "name": { "en-US": "Widogast Pendant" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "KNOWLEDGE",
+    "range": "CLOSE",
+    "damage": { "dice": "D10", "modifier": 5, "type": "MAGICAL" },
+    "burden": "ONE_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Timebending" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You choose the target of your attack after making your attack roll."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_gilded_bow",
+    "name": { "en-US": "Gilded Bow" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "FINESSE",
+    "range": "FAR",
+    "damage": { "dice": "D6", "modifier": 7, "type": "MAGICAL" },
+    "burden": "TWO_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Self-Correcting" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you roll a 1 on a damage die, it deals 6 damage instead."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_firestaff",
+    "name": { "en-US": "Firestaff" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "INSTINCT",
+    "range": "FAR",
+    "damage": { "dice": "D6", "modifier": 7, "type": "MAGICAL" },
+    "burden": "TWO_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Burning" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you roll a 6 on a damage die, the target must mark a Stress."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_mage_orb",
+    "name": { "en-US": "Mage Orb" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "KNOWLEDGE",
+    "range": "FAR",
+    "damage": { "dice": "D6", "modifier": 7, "type": "MAGICAL" },
+    "burden": "ONE_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Powerful" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "On a successful attack, roll an additional damage die and discard the lowest result."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core_weapon_ilmaris_rifle",
+    "name": { "en-US": "Ilmari's Rifle" },
+    "type": "PRIMARY_MAGIC",
+    "tier": 3,
+    "trait": "FINESSE",
+    "range": "VERY_FAR",
+    "damage": { "dice": "D6", "modifier": 6, "type": "MAGICAL" },
+    "burden": "ONE_HANDED",
+    "features": [
+      {
+        "name": { "en-US": "Reloading" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
             }
           }
         ]

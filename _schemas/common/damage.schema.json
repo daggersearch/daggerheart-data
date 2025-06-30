@@ -5,7 +5,10 @@
   "properties": {
     "dice": { "$ref": "./dice.schema.json" },
     "modifier": { "type": "integer" },
-    "type": { "type": "string", "enum": ["PHYSICAL", "MAGICAL"] }
+    "type": {
+      "type": "string",
+      "enum": ["PHYSICAL", "MAGICAL", "PHYSICAL_OR_MAGICAL"]
+    }
   },
   "required": ["dice", "type"],
   "additionalProperties": false
