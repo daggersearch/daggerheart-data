@@ -1,20 +1,42 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://daggersearch.com/schemas/common/class.schema.json",
-  "type": "string",
-  "enum": [
-    "ASSASSIN",
-    "BARD",
-    "BRAWLER",
-    "DRUID",
-    "GUARDIAN",
-    "RANGER",
-    "ROGUE",
-    "SERAPH",
-    "SORCERER",
-    "WARLOCK",
-    "WARRIOR",
-    "WITCH",
-    "WIZARD"
-  ]
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "./id.schema.json" },
+    "name": { "$ref": "./class-name.schema.json" },
+    "description": { "$ref": "./description.schema.json" },
+    "domains": {
+      "type": "array",
+      "items": { "$ref": "./domain.schema.json" },
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "startingEvasion": { "type": "integer", "minimum": 0 },
+    "startingHitPoints": { "type": "integer", "minimum": 0 },
+    "hopeFeature": { "$ref": "./feature.schema.json" },
+    "classFeatures": {
+      "type": "array",
+      "items": { "$ref": "./feature.schema.json" },
+      "minItems": 1
+    },
+    "classItems": {
+      "type": "array",
+      "items": { "$ref": "./localized-string.schema.json" },
+      "minItems": 2,
+      "maxItems": 2
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "description",
+    "domains",
+    "startingEvasion",
+    "startingHitPoints",
+    "hopeFeature",
+    "classFeatures",
+    "classItems"
+  ],
+  "additionalProperties": false
 }

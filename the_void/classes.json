@@ -1,0 +1,217 @@
+[
+  {
+    "id": "the_void_class_witch",
+    "name": "WITCH",
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Magical practitioners who commune with the forces of nature and entities from realms beyond. Witches call forth their power through craft, rituals, incantations, herbs, stones, candles, and other tools to enact their will and conjure powerful spells."
+        }
+      }
+    ],
+    "domains": ["DREAD", "SAGE"],
+    "startingEvasion": 10,
+    "startingHitPoints": 6,
+    "hopeFeature": {
+      "description": [
+        {
+          "paragraph": {
+            "en-US": "When you or an ally within Far range rolls a failure, you can spend 3 Hope to change into a success with Fear instead."
+          }
+        }
+      ]
+    },
+    "classFeatures": [
+      {
+        "name": { "en-US": "HEX" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When a creature causes you or an ally within Close range to mark any number of Hit Points, you can mark a Stress to Hex them. While Hexed, they gain a penalty to their damage thresholds equal to your Spellcast trait and a penalty to their Diffi culty equal to your tier. You can only have one target Hexed at a time."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "COMMUNE" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "During a long rest, you can commune with an entity (an ancestor, deity, spirit, aspect of nature, etc.). Ask them a question, then roll 4d6. If any of the dice have matching values, reference the chart below for the eff ect. If there are multiple matches, you get more than one effect."
+            }
+          },
+          {
+            "list": [
+              { "en-US": "6: You witness a relevant scene play out." },
+              { "en-US": "5: You see a vision relevant to the answer." },
+              { "en-US": "4: You hear sounds relevant to the answer." },
+              { "en-US": "3: You feel a sensation relevant to the answer." },
+              { "en-US": "2: You smell an odor relevant to the answer." },
+              { "en-US": "1: You taste a flavor relevant to the answer." }
+            ]
+          }
+        ]
+      }
+    ],
+    "classItems": [
+      { "en-US": "A handcrafted besom" },
+      { "en-US": "A pouch of animal bones you found in the wild" }
+    ]
+  },
+  {
+    "id": "the_void_class_assassin",
+    "name": "ASSASSIN",
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Assassins are masters in the art of slipping past their opponents' defenses to inflict terrible pain and deadly strikes. When an assassin marks someone for death, they pursue their prey with unwavering intent."
+        }
+      }
+    ],
+    "domains": ["BLADE", "MIDNIGHT"],
+    "startingEvasion": 12,
+    "startingHitPoints": 5,
+    "hopeFeature": {
+      "description": [
+        { "paragraph": { "en-US": "Spend 3 Hope to clear 2 Stress." } }
+      ]
+    },
+    "classFeatures": [
+      {
+        "name": { "en-US": "AMBUSH" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you move into Melee and make a successful weapon attack, you can mark a Stress to force the target to make a reaction roll with a Difficulty equal to 10 + your level. On a failure, increase the damage of your attack by a number of d6 equal to your tier."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "GET IN & GET OUT" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Spend a Hope to ask the GM for either a quick or inconspicuous way into or out of a building or structure you can see. The next roll you make that capitalizes on this information has advantage."
+            }
+          }
+        ]
+      }
+    ],
+    "classItems": [
+      { "en-US": "A list of names with several marked off" },
+      { "en-US": "A mortar and pestle inscribed with a mysterious insignia" }
+    ]
+  },
+  {
+    "id": "the_void_class_warlock",
+    "name": "WARLOCK",
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Those who've traded their lives, or perhaps even their souls, to an otherworldly Patron in exchange for incredible power are known as Warlocks. Often, these mortals are at a point of desperation that leads them to such a sacrifice -- to protect themselves or a loved one, aid their community, seek vengeance, increase their status, or otherwise further their ambitions."
+        }
+      }
+    ],
+    "domains": ["DREAD", "GRACE"],
+    "startingEvasion": 11,
+    "startingHitPoints": 5,
+    "hopeFeature": {
+      "description": [
+        {
+          "paragraph": {
+            "en-US": "Spend 3 Hope to call out to your patron for help, gaining 1d4 Favor."
+          }
+        }
+      ]
+    },
+    "classFeatures": [
+      {
+        "name": { "en-US": "WARLOCK PATRON" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "You have committed yourself to a patron (god, demon, fae, or other supernatural entity) in exchange for power. Write their name above. Then, choose their spheres of influence, at GM discretion (Nature & Mischief, Love & War, Knowledge & Shadow, etc.), record them below and set their value to +2. Anytime you increase your tier, these spheres of influence also gain a permanent +1 bonus. Before making an action roll that relates to one of your patron's spheres of influence, you can spend a Favor to call on them and add its value to the roll."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "FAVOR" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Start with 3 Favor. During a rest, take one of your downtime actions to tithe to your patron. When you do, gain Favor equal to your Presence. If you choose to forgo this offering, the GM instead gains a Fear."
+            }
+          }
+        ]
+      }
+    ],
+    "classItems": [
+      { "en-US": "A carving that symbolizes your patron" },
+      { "en-US": "A ring you can't remove" }
+    ]
+  },
+  {
+    "id": "the_void_class_brawler",
+    "name": "BRAWLER",
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Experts in unarmed combat, brawlers hone their bodies into lethal weapons using impressive physical prowess. Whether they learned in a structured school environment or picked up their skills one fight at a time, the process is always rigorous, with brawlers developing their body and mind to work as one."
+        }
+      }
+    ],
+    "domains": ["BONE", "VALOR"],
+    "startingEvasion": 10,
+    "startingHitPoints": 6,
+    "hopeFeature": {
+      "description": [
+        {
+          "paragraph": {
+            "en-US": "Spend 3 Hope when you hit an adversary to also deal them a Stress and make them temporarily Staggered. While Staggered, all attack rolls they make are at disadvantage."
+          }
+        }
+      ]
+    },
+    "classFeatures": [
+      {
+        "name": { "en-US": "I AM THE WEAPON" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "While you don't have any equipped weapons:"
+            }
+          },
+          {
+            "list": [
+              { "en-US": "Your Evasion has a +1 bonus." },
+              {
+                "en-US": "Your unarmed strikes are considered a Melee weapon, use the trait of your choice, and deal d10+d6 phy damage. Both dice scale with your Proficiency."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "COMBO STRIKES" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "After making a damage roll with a Melee weapon but before dealing that damage to the target, mark a Stress to start a combo strike. When you do, roll your Combo Die and note its value. Then, roll your Combo Die again. If the value of the second roll is equal to or greater than your first roll, continue rolling until the latest Combo Die's roll is less than the roll that preceeded it. Total all rolled values and add that amount to your weapon's damage. These values cannot be adjusted by features that affect damage dice."
+            }
+          },
+          {
+            "paragraph": {
+              "en-US": "Your Combo Die starts as a d4. When you level up, once per tier you may use one of your advancement options to increase your Combo Die instead."
+            }
+          }
+        ]
+      }
+    ],
+    "classItems": [
+      { "en-US": "Hand wraps from a mentor" },
+      { "en-US": "A book about your secret hobby" }
+    ]
+  }
+]
