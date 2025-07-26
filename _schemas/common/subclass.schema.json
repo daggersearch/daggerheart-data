@@ -5,8 +5,13 @@
   "properties": {
     "id": { "$ref": "./id.schema.json" },
     "name": { "$ref": "./localized-string.schema.json" },
-    "class": { "$ref": "./class.schema.json" },
-    "domains": { "type": "array", "items": { "$ref": "./domain.schema.json" } },
+    "class": { "$ref": "./class-name.schema.json" },
+    "domains": {
+      "type": "array",
+      "items": { "$ref": "./domain.schema.json" },
+      "minItems": 2,
+      "maxItems": 2
+    },
     "spellcastTrait": { "$ref": "./trait.schema.json" },
     "foundation": {
       "type": "object",

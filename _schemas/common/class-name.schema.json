@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daggersearch.com/schemas/common/class-name.schema.json",
+  "type": "string",
+  "enum": [
+    "ASSASSIN",
+    "BARD",
+    "BRAWLER",
+    "DRUID",
+    "GUARDIAN",
+    "RANGER",
+    "ROGUE",
+    "SERAPH",
+    "SORCERER",
+    "WARLOCK",
+    "WARRIOR",
+    "WITCH",
+    "WIZARD"
+  ]
+}
