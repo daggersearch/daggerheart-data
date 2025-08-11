@@ -17,6 +17,7 @@
       { "en-US": "A letter never opened" }
     ],
     "hopeFeature": {
+      "name": { "en-US": "Make a Scene" },
       "description": [
         {
           "paragraph": {
@@ -56,6 +57,7 @@
       { "en-US": "A strange pendant found in the dirt" }
     ],
     "hopeFeature": {
+      "name": { "en-US": "Evolution" },
       "description": [
         {
           "paragraph": {
@@ -105,6 +107,7 @@
       { "en-US": "A secret key" }
     ],
     "hopeFeature": {
+      "name": { "en-US": "Frontline Tank" },
       "description": [
         { "paragraph": { "en-US": "Spend 3 Hope to clear 2 Armor Slots." } }
       ]
@@ -158,6 +161,7 @@
       { "en-US": "A seemingly broken compass" }
     ],
     "hopeFeature": {
+      "name": { "en-US": "Hold Them Off" },
       "description": [
         {
           "paragraph": {
@@ -208,6 +212,7 @@
       { "en-US": "A grappling hook" }
     ],
     "hopeFeature": {
+      "name": { "en-US": "Rogue's Dodge" },
       "description": [
         {
           "paragraph": {
@@ -265,6 +270,7 @@
       { "en-US": "A sigil of your god" }
     ],
     "hopeFeature": {
+      "name": { "en-US": "Life Support" },
       "description": [
         {
           "paragraph": {
@@ -304,6 +310,7 @@
       { "en-US": "A family heirloom" }
     ],
     "hopeFeature": {
+      "name": { "en-US": "Volatile Magic" },
       "description": [
         {
           "paragraph": {
@@ -371,6 +378,7 @@
       { "en-US": "A sharpening stone" }
     ],
     "hopeFeature": {
+      "name": { "en-US": "No Mercy" },
       "description": [
         {
           "paragraph": {
@@ -429,6 +437,7 @@
       { "en-US": "A tiny, harmless elemental pet" }
     ],
     "hopeFeature": {
+      "name": { "en-US": "Not This Time" },
       "description": [
         {
           "paragraph": {
