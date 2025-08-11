@@ -5,7 +5,7 @@
     "description": [
       {
         "paragraph": {
-          "en-US": "Being part of a duneborne community means you’ve made a home among the shifting sands and arid climate of the desert."
+          "en-US": "Being part of a duneborne community means you've made a home among the shifting sands and arid climate of the desert."
         }
       }
     ],
@@ -16,7 +16,7 @@
         "description": [
           {
             "paragraph": {
-              "en-US": "Through the heat of the day and the cold of the night, you know how to take care of your people. Once per rest, during a moment of calm, you can clear a Stress on all allies within Very Close range or clear a Hit Point on all allies within Very Close range."
+              "en-US": "During a short rest, you or an ally can reroll a die used for a downtime action."
             }
           }
         ]
@@ -40,7 +40,7 @@
         "description": [
           {
             "paragraph": {
-              "en-US": "When you Help An Ally, you can instead spend 2 Hope to make the advantage die a d10 instead of a d6."
+              "en-US": "Once per long rest, you can spend any number of Hope to give an ally the same number of Hope."
             }
           }
         ]
@@ -64,7 +64,7 @@
         "description": [
           {
             "paragraph": {
-              "en-US": "Once per session, when you make an action roll with Fear, you can instead change it to a roll with Hope."
+              "en-US": "Once per session, when you make an action roll with Fear, you can change it to a roll with Hope instead."
             }
           }
         ]
@@ -88,12 +88,12 @@
         "description": [
           {
             "paragraph": {
-              "en-US": "Once per session, you can spend a Hope to use an ally’s community ability. When you do, your ally gains a Hope."
+              "en-US": "Once per session, you can spend a Hope to use an ally's community ability. When you do, your ally gains a Hope."
             }
           },
           {
             "paragraph": {
-              "en-US": "At any point, when you’ve discovered the community you were once a part of, or have joined a new community, you can permanently trade this community card for that one instead."
+              "en-US": "At any point, when you've discovered the community you were once a part of, or have joined a new community, you can permanently trade this community card for that one instead."
             }
           }
         ]
@@ -113,11 +113,11 @@
     "personalities": [],
     "features": [
       {
-        "name": { "en-US": "Long Winter" },
+        "name": { "en-US": "Hardy" },
         "description": [
           {
             "paragraph": {
-              "en-US": "You know how to make resources last. Once per long rest, when you choose to Repair All Armor, you can also repair an ally’s armor up to half their Base Armor Score."
+              "en-US": "Once per rest, you can Help an Ally traverse difficult terrain without spending a Hope."
             }
           }
         ]
@@ -141,7 +141,7 @@
         "description": [
           {
             "paragraph": {
-              "en-US": "Once per rest you can mark 2 Stress instead of an Armor Slot to reduce incoming damage by one threshold."
+              "en-US": "Once per session, when an attack would cause you to mark a Stress, you can spend a Hope instead."
             }
           }
         ]
