@@ -1,0 +1,200 @@
+[
+  {
+    "id": "vampire",
+    "name": { "en-US": "Vampire" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Vampires are undead, fanged creatures that drink the blood of the living."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Fangs" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Make a Strength Roll to bite a target within Melee range, dealing d8 physical damage using your Proficiency."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Feed" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "On a successful Fangs attack against a living creature, you can mark a Stress to Feed. Place a number of tokens on this card equal to the number of Hit Points your target marks. You can hold up to 5 tokens at a time. Spend a token before an action roll to make your Fear Die a d20 instead. When you take a Long Rest, remove a token. If there are no tokens on this card, all your action and reaction rolls are made with disadvantage."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "werewolf",
+    "name": { "en-US": "Werewolf" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Werewolves are creatures who transform into supernatural wolves."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Wolf Form" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you mark one or more Hit Points, you can also mark a Stress to enter your Wolf Form. While in this form, gain a d10 Wolf Die that you add to all attack and damage rolls. When you would gain a Hope while in Wolf Form, you mark a Stress instead."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Frenzy" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you mark your last Stress while in Wolf Form, you go into a Frenzy. Roll a number of d20s equal to your tier and automatically deal that much physical damage to all creatures within Very Close range. Then drop out of Wolf Form."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reanimated",
+    "name": { "en-US": "Reanimated" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Reanimated are corpses who have been brought back to life."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Stitch Up" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "During a rest, you can only clear Hit Points if you have access to remains from a recently deceased creature. Describe how using this material affects your appearance. You cannot clear Hit Points by any means except a downtime move or the Risk It All death move."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Corpse" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you Risk It All on a death move, if you fail, you can permanently mark a Hit Point to succeed instead. When you do, you still use the Hope Die's value to clear Hit Points and Stress."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shapeshifter",
+    "name": { "en-US": "Shapeshifter" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Shapeshifters are creatures that can change their physical form."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Change Shape" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "During a long rest, you can spend a downtime move to swap your current ancestry with another. When you do, describe how your appearance changes."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Only Skin Deep" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you Change Shape, you only gain the benefit of one of the ancestry's features, which you select when you choose the ancestry. You can spend a downtime move to switch which of your ancestry's features you gain the benefit of."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ghost",
+    "name": { "en-US": "Ghost" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Ghosts are a spirit trapped between the mortal realm and the veil of death."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Spirit Form" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Your physical form can shift between corporeal and incorporeal. Mark a Stress to transition into and out of your Spirit Form. While in Spirit Form, you can move through solid objects, are immune to physical damage, and take double magic damage. You can spend 2 Hope to attack or physically interact with the material world."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Ephemeral" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Cross out a Hit Point slot when you take this card and when you increase your tier. When you mark your last Hit Point, you must choose Blaze of Glory as your death move."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "demigod",
+    "name": { "en-US": "Demigod" },
+    "description": [
+      {
+        "paragraph": {
+          "en-US": "Demigods are creatures whose veins flow with the blood of the gods."
+        }
+      }
+    ],
+    "features": [
+      {
+        "name": { "en-US": "Ichor of the Gods" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "Your advantage die is always a d10 instead of a d6."
+            }
+          }
+        ]
+      },
+      {
+        "name": { "en-US": "Weight of Divinity" },
+        "description": [
+          {
+            "paragraph": {
+              "en-US": "When you roll a failure with Fear, you must mark a Stress or give the GM an additional Fear."
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
